@@ -3,8 +3,13 @@ body {
   margin: 0;
 }
 
-#map,
-body,
+#map{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
 html {
   height: 100%;
 }

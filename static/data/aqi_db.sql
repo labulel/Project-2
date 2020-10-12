@@ -23,8 +23,6 @@
 -- 	Defining_Site VARCHAR(255),
 -- 	Number_of_Sites_Reporting INT NOT NULL);
 
--- select * from aqi_2015;
-
 
 -- CREATE TABLE us_state_abbr (
 --  	State VARCHAR(255),
@@ -88,3 +86,49 @@
 -- ('Wisconsin','WI'),
 -- ('Wyoming','WY');
 
+
+
+-- ALTER TABLE us_county_coordinates
+-- RENAME COLUMN state TO state_abbr;
+
+-- select * from aqi_2015;
+-- select * from us_county_coordinates;
+
+-- select
+-- 	us_county_coordinates.zip,
+-- 	us_county_coordinates.state_abbr,
+-- 	us_county_coordinates.county,
+-- 	us_county_coordinates.primary_city,
+-- 	us_county_coordinates.latitude,
+-- 	us_county_coordinates.longitude,
+-- 	us_state_abbr.state
+-- from us_county_coordinates
+-- Inner join us_state_abbr
+-- 	on us_state_abbr.abbreviation = us_county_coordinates.state_abbr;
+
+-- CREATE TABLE us_state_county_coordinates (
+--  	state_county VARCHAR(255),
+-- 	latitude REAL,
+-- 	longitude REAL
+-- );
+
+-- select * from us_state_county_coordinates
+
+-- select
+-- 	concat (state_name, '_','',county_name) as state_county
+-- from aqi_2020;
+
+-- alter table aqi_2020 add column state_county varchar(255);
+
+select * from aqi_2020;
+
+-- update aqi_2020
+-- set state_county = COALESCE(state_name, '') || '_' || COALESCE(county_name, '')
+-- ;
+
+insert into aqi_2020 (latitude, longitude)
+select uscc.latitude, uscc.longitude 
+from aqi_2020 as aq
+inner join us_state_county_coordinates as uscc
+	on uscc.state_county = COALESCE(aq.state_name, '') || '_' || COALESCE(aq.county_name, '')
+;

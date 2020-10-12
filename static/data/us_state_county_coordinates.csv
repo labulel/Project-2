@@ -1,0 +1,3125 @@
+state_county, latitude , longitude 
+Alabama_Autauga, 32.54167 ,-86.60833 
+Alabama_Baldwin, 30.59200 ,-87.71150 
+Alabama_Barbour, 31.81500 ,-85.44000 
+Alabama_Bibb, 32.99571 ,-87.06143 
+Alabama_Blount, 33.92429 ,-86.62143 
+Alabama_Bullock, 32.12333 ,-85.71000 
+Alabama_Butler, 31.71250 ,-86.72750 
+Alabama_Calhoun, 33.73333 ,-85.83417 
+Alabama_Chambers, 32.86200 ,-85.27000 
+Alabama_Cherokee, 34.20000 ,-85.64250 
+Alabama_Chilton, 32.82714 ,-86.71286 
+Alabama_Choctaw, 32.01111 ,-88.26889 
+Alabama_Clarke, 31.68000 ,-87.82545 
+Alabama_Clay, 33.31000 ,-85.73750 
+Alabama_Cleburne, 33.65750 ,-85.43000 
+Alabama_Coffee, 31.42500 ,-86.02500 
+Alabama_Colbert, 34.73000 ,-87.70600 
+Alabama_Conecuh, 31.35200 ,-87.12200 
+Alabama_Coosa, 32.92800 ,-86.17400 
+Alabama_Covington, 31.23333 ,-86.45167 
+Alabama_Crenshaw, 31.75429 ,-86.30857 
+Alabama_Cullman, 34.15727 ,-86.82182 
+Alabama_Dale, 31.40714 ,-85.62857 
+Alabama_Dallas, 32.35375 ,-87.11125 
+Alabama_Dekalb, 34.46500 ,-85.80857 
+Alabama_Elmore, 32.56444 ,-86.21889 
+Alabama_Escambia, 31.04667 ,-87.27000 
+Alabama_Etowah, 34.02000 ,-86.09100 
+Alabama_Fayette, 33.74250 ,-87.68000 
+Alabama_Franklin, 34.40571 ,-87.84714 
+Alabama_Geneva, 31.09857 ,-85.81429 
+Alabama_Greene, 32.80000 ,-87.89250 
+Alabama_Hale, 32.77800 ,-87.64400 
+Alabama_Henry, 31.46333 ,-85.26000 
+Alabama_Houston, 31.18333 ,-85.28556 
+Alabama_Jackson, 34.75944 ,-85.99056 
+Alabama_Jefferson, 33.54617 ,-86.82766 
+Alabama_Lamar, 33.78667 ,-88.08000 
+Alabama_Lauderdale, 34.86500 ,-87.56000 
+Alabama_Lawrence, 34.54571 ,-87.25857 
+Alabama_Lee, 32.60125 ,-85.31625 
+Alabama_Limestone, 34.82250 ,-86.93500 
+Alabama_Lowndes, 32.16500 ,-86.58333 
+Alabama_Macon, 32.42000 ,-85.77800 
+Alabama_Madison, 34.73045 ,-86.59136 
+Alabama_Marengo, 32.29125 ,-87.72125 
+Alabama_Marion, 34.09333 ,-87.83167 
+Alabama_Marshall, 34.33444 ,-86.26889 
+Alabama_Mobile, 30.69848 ,-88.09970 
+Alabama_Monroe, 31.58286 ,-87.34143 
+Alabama_Montgomery, 32.30300 ,-86.23250 
+Alabama_Morgan, 34.47125 ,-86.83125 
+Alabama_Perry, 32.53500 ,-87.40500 
+Alabama_Pickens, 33.29600 ,-88.07200 
+Alabama_Pike, 31.76600 ,-85.93600 
+Alabama_Randolph, 33.27800 ,-85.42400 
+Alabama_Russell, 32.32429 ,-85.16143 
+Alabama_Shelby, 33.27800 ,-86.65800 
+Alabama_St Clair, 33.67200 ,-86.30100 
+Alabama_Sumter, 32.57571 ,-88.21571 
+Alabama_Talladega, 33.35571 ,-86.17000 
+Alabama_Tallapoosa, 32.90000 ,-85.76000 
+Alabama_Tuscaloosa, 33.21833 ,-87.54778 
+Alabama_Walker, 33.80667 ,-87.27417 
+Alabama_Washington, 31.42000 ,-88.18909 
+Alabama_Wilcox, 32.01333 ,-87.42667 
+Alabama_Winston, 34.13333 ,-87.36333 
+Alaska_Anchorage Borough, 61.18667 ,-149.70933 
+Alaska_City and Borough of Juneau, 58.47000 ,-134.15000 
+Alaska_Denali Borough, 64.01000 ,-148.35000 
+Alaska_Fairbanks North Star Borough, 64.73667 ,-147.39444 
+Alaska_Haines Borough, 59.16000 ,-135.86000 
+Alaska_Juneau Borough, 58.40500 ,-134.57500 
+Alaska_Kenai Peninsula Borough, 60.27083 ,-150.62250 
+Alaska_Ketchikan Gateway Borough, 55.61000 ,-131.58000 
+Alaska_Kodiak Island Borough, 57.79000 ,-152.40000 
+Alaska_Matanuska-Susitna Borough, 61.85750 ,-149.13000 
+Alaska_Municipality of Anchorage, 61.21500 ,-149.92250 
+Alaska_Sitka Borough, 56.73000 ,-135.00000 
+Alaska_Southeast Fairbanks Census Area, 63.63250 ,-144.08500 
+Alaska_Valdez-Cordova Census Area, 61.89750 ,-144.93500 
+Alaska_Yukon-Koyukuk Census Area, 64.37500 ,-148.88000 
+Arizona_Apache, 34.87111 ,-109.42889 
+Arizona_Cochise, 31.73824 ,-109.91059 
+Arizona_Coconino, 35.74250 ,-111.59375 
+Arizona_Gila, 33.53000 ,-110.92250 
+Arizona_Graham, 32.87250 ,-109.80500 
+Arizona_Greenlee, 33.14750 ,-109.23000 
+Arizona_La Paz, 33.67667 ,-114.17333 
+Arizona_Maricopa, 33.49397 ,-112.05055 
+Arizona_Mohave, 35.20706 ,-114.23118 
+Arizona_Navajo, 34.51714 ,-110.19000 
+Arizona_Pima, 32.18550 ,-111.01950 
+Arizona_Pinal, 33.00958 ,-111.49500 
+Arizona_Santa Cruz, 31.55167 ,-110.86500 
+Arizona_Yavapai, 34.62500 ,-112.24750 
+Arizona_Yuma, 32.71571 ,-114.23429 
+Arkansas_Arkansas, 34.31700 ,-91.33900 
+Arkansas_Ashley, 33.19714 ,-91.67286 
+Arkansas_Baxter, 36.29167 ,-92.34667 
+Arkansas_Benton, 36.36588 ,-94.29529 
+Arkansas_Boone, 36.31500 ,-93.02500 
+Arkansas_Bradley, 33.49000 ,-92.19250 
+Arkansas_Calhoun, 33.65000 ,-92.47000 
+Arkansas_Carroll, 36.37000 ,-93.52667 
+Arkansas_Chicot, 33.31667 ,-91.32333 
+Arkansas_Clark, 34.10600 ,-93.27200 
+Arkansas_Clay, 36.35750 ,-90.44125 
+Arkansas_Cleburne, 35.56700 ,-92.03300 
+Arkansas_Cleveland, 33.85667 ,-92.22333 
+Arkansas_Columbia, 33.23000 ,-93.27400 
+Arkansas_Conway, 35.27000 ,-92.66143 
+Arkansas_Craighead, 35.82600 ,-90.56800 
+Arkansas_Crawford, 35.56000 ,-94.27333 
+Arkansas_Crittenden, 35.21333 ,-90.27500 
+Arkansas_Cross, 35.32250 ,-90.76750 
+Arkansas_Dallas, 33.93000 ,-92.60000 
+Arkansas_Desha, 33.78000 ,-91.39000 
+Arkansas_Drew, 33.62000 ,-91.85500 
+Arkansas_Faulkner, 35.16900 ,-92.34500 
+Arkansas_Franklin, 35.39000 ,-93.90800 
+Arkansas_Fulton, 36.38111 ,-91.82333 
+Arkansas_Garland, 34.53250 ,-93.12000 
+Arkansas_Grant, 34.24000 ,-92.49400 
+Arkansas_Greene, 36.14833 ,-90.57667 
+Arkansas_Hempstead, 33.77250 ,-93.71250 
+Arkansas_Hot Spring, 34.31000 ,-93.06000 
+Arkansas_Howard, 34.05250 ,-93.97250 
+Arkansas_Independence, 35.68917 ,-91.53583 
+Arkansas_Izard, 36.12857 ,-91.91643 
+Arkansas_Jackson, 35.62800 ,-91.22200 
+Arkansas_Jefferson, 34.33000 ,-91.98778 
+Arkansas_Johnson, 35.50125 ,-93.47625 
+Arkansas_Lafayette, 33.28750 ,-93.53500 
+Arkansas_Lawrence, 36.01333 ,-91.15333 
+Arkansas_Lee, 34.80333 ,-90.77333 
+Arkansas_Lincoln, 33.99667 ,-91.69667 
+Arkansas_Little River, 33.69750 ,-94.22500 
+Arkansas_Logan, 35.25875 ,-93.66875 
+Arkansas_Lonoke, 34.78500 ,-91.92625 
+Arkansas_Madison, 35.96000 ,-93.74375 
+Arkansas_Marion, 36.31000 ,-92.69500 
+Arkansas_Miller, 33.28250 ,-93.89750 
+Arkansas_Mississippi, 35.69900 ,-90.08800 
+Arkansas_Monroe, 34.69750 ,-91.26500 
+Arkansas_Montgomery, 34.57286 ,-93.66857 
+Arkansas_Nevada, 33.70250 ,-93.31000 
+Arkansas_Newton, 35.98700 ,-93.17900 
+Arkansas_Ouachita, 33.55600 ,-92.86200 
+Arkansas_Perry, 35.02000 ,-92.80667 
+Arkansas_Phillips, 34.50500 ,-90.77000 
+Arkansas_Pike, 34.19000 ,-93.66667 
+Arkansas_Poinsett, 35.56429 ,-90.59857 
+Arkansas_Polk, 34.39833 ,-94.33500 
+Arkansas_Pope, 35.39556 ,-93.05556 
+Arkansas_Prairie, 34.84000 ,-91.51500 
+Arkansas_Pulaski, 34.76000 ,-92.32000 
+Arkansas_Randolph, 36.33000 ,-91.01500 
+Arkansas_Saline, 34.59900 ,-92.58100 
+Arkansas_Scott, 34.81250 ,-93.93500 
+Arkansas_Searcy, 35.89200 ,-92.66200 
+Arkansas_Sebastian, 35.24917 ,-94.32417 
+Arkansas_Sevier, 34.02500 ,-94.29250 
+Arkansas_Sharp, 36.13875 ,-91.49125 
+Arkansas_St Francis, 35.00571 ,-90.74286 
+Arkansas_Stone, 35.86125 ,-92.17750 
+Arkansas_Union, 33.16286 ,-92.58143 
+Arkansas_Van Buren, 35.55286 ,-92.49571 
+Arkansas_Washington, 35.98667 ,-94.25067 
+Arkansas_White, 35.21750 ,-91.80833 
+Arkansas_Woodruff, 35.17667 ,-91.26667 
+Arkansas_Yell, 35.00900 ,-93.41900 
+California_Alameda, 37.73449 ,-122.13082 
+California_Alpine, 38.73000 ,-119.84000 
+California_Amador, 38.43750 ,-120.67000 
+California_Butte, 39.61188 ,-121.57875 
+California_Calaveras, 38.21923 ,-120.51692 
+California_Colusa, 39.16750 ,-122.20500 
+California_Contra Costa, 37.92081 ,-122.04568 
+California_Del Norte, 41.78500 ,-124.03750 
+California_El Dorado, 38.75632 ,-120.72316 
+California_Fresno, 36.71300 ,-119.72100 
+California_Glenn, 39.54000 ,-122.19500 
+California_Humboldt, 40.60931 ,-123.95379 
+California_Imperial, 32.97364 ,-115.48273 
+California_Inyo, 36.68167 ,-117.78667 
+California_Kern, 35.36818 ,-118.81409 
+California_Kings, 36.14571 ,-119.79857 
+California_Lake, 39.04077 ,-122.76077 
+California_Lassen, 40.50800 ,-120.53400 
+California_Los Angeles, 34.06997 ,-118.25318 
+California_Madera, 37.16769 ,-119.77462 
+California_Marin, 37.99350 ,-122.61700 
+California_Mariposa, 37.55125 ,-120.01875 
+California_Mendocino, 39.33080 ,-123.51640 
+California_Merced, 37.29500 ,-120.62444 
+California_Modoc, 41.54857 ,-120.46286 
+California_Mono, 38.10000 ,-119.12167 
+California_Monterey, 36.51083 ,-121.56833 
+California_Napa, 38.48111 ,-122.37778 
+California_Nevada, 39.25429 ,-120.93571 
+California_Orange, 33.72393 ,-117.83899 
+California_Placer, 38.90667 ,-121.10056 
+California_Plumas, 39.97000 ,-120.75083 
+California_Riverside, 33.77868 ,-116.94647 
+California_Sacramento, 38.54830 ,-121.38981 
+California_San Benito, 36.75500 ,-121.25000 
+California_San Bernardino, 34.33934 ,-116.95066 
+California_San Diego, 32.89545 ,-117.02901 
+California_San Francisco, 37.75931 ,-122.42310 
+California_San Joaquin, 37.93407 ,-121.27926 
+California_San Luis Obispo, 35.37857 ,-120.66810 
+California_San Mateo, 37.49593 ,-122.32519 
+California_Santa Barbara, 34.59579 ,-120.02474 
+California_Santa Clara, 37.31224 ,-121.91276 
+California_Santa Cruz, 37.02714 ,-121.99357 
+California_Shasta, 40.69455 ,-122.10773 
+California_Sierra, 39.55667 ,-120.59667 
+California_Siskiyou, 41.58857 ,-122.61667 
+California_Solano, 38.20929 ,-122.02786 
+California_Sonoma, 38.44455 ,-122.84848 
+California_Stanislaus, 37.61391 ,-120.94783 
+California_Sutter, 39.00889 ,-121.68222 
+California_Tehama, 40.16556 ,-122.11556 
+California_Trinity, 40.67444 ,-123.14333 
+California_Tulare, 36.25120 ,-119.08680 
+California_Tuolumne, 38.05909 ,-120.14273 
+California_Ventura, 34.25917 ,-119.01667 
+California_Yolo, 38.63833 ,-121.84667 
+California_Yuba, 39.26727 ,-121.32727 
+Colorado_Adams, 39.80667 ,-104.82278 
+Colorado_Alamosa, 37.61667 ,-105.87333 
+Colorado_Arapahoe, 39.67739 ,-104.80087 
+Colorado_Archuleta, 37.22500 ,-107.18500 
+Colorado_Baca, 37.36200 ,-102.54000 
+Colorado_Bent, 38.12333 ,-103.04000 
+Colorado_Boulder, 40.06786 ,-105.27714 
+Colorado_Broomfield, 39.95000 ,-105.04000 
+Colorado_Chaffee, 38.69667 ,-106.07333 
+Colorado_Cheyenne, 38.80667 ,-102.43667 
+Colorado_Clear Creek, 39.74000 ,-105.51000 
+Colorado_Conejos, 37.17000 ,-105.98500 
+Colorado_Costilla, 37.26200 ,-105.55800 
+Colorado_Crowley, 38.20333 ,-103.78333 
+Colorado_Custer, 38.18000 ,-105.27000 
+Colorado_Delta, 38.81833 ,-107.86167 
+Colorado_Denver, 39.75469 ,-104.87438 
+Colorado_Dolores, 37.70500 ,-108.86000 
+Colorado_Douglas, 39.45692 ,-104.89923 
+Colorado_Eagle, 39.68000 ,-106.72833 
+Colorado_El Paso, 38.88585 ,-104.72146 
+Colorado_Elbert, 39.28333 ,-104.26667 
+Colorado_Fremont, 38.41400 ,-105.37400 
+Colorado_Garfield, 39.49333 ,-107.75667 
+Colorado_Gilpin, 39.86000 ,-105.49500 
+Colorado_Grand, 40.10750 ,-106.07500 
+Colorado_Gunnison, 38.58000 ,-106.99556 
+Colorado_Hinsdale, 38.07000 ,-107.30000 
+Colorado_Huerfano, 37.63667 ,-104.98000 
+Colorado_Jackson, 40.65000 ,-106.35500 
+Colorado_Jefferson, 39.72591 ,-105.06636 
+Colorado_Kiowa, 38.43000 ,-102.88750 
+Colorado_Kit Carson, 39.29667 ,-102.65833 
+Colorado_La Plata, 37.20600 ,-107.80200 
+Colorado_Lake, 39.13000 ,-106.34333 
+Colorado_Larimer, 40.54467 ,-105.16533 
+Colorado_Las Animas, 37.19000 ,-104.24000 
+Colorado_Lincoln, 39.08500 ,-103.58500 
+Colorado_Logan, 40.70750 ,-103.09875 
+Colorado_Mesa, 39.07438 ,-108.55375 
+Colorado_Mineral, 37.85000 ,-106.92000 
+Colorado_Moffat, 40.48000 ,-108.10000 
+Colorado_Montezuma, 37.46167 ,-108.58333 
+Colorado_Montrose, 38.38250 ,-108.22000 
+Colorado_Morgan, 40.29125 ,-103.81250 
+Colorado_Otero, 38.06000 ,-103.78500 
+Colorado_Ouray, 38.15000 ,-107.75000 
+Colorado_Park, 39.12500 ,-105.66000 
+Colorado_Phillips, 40.63333 ,-102.36333 
+Colorado_Pitkin, 39.29500 ,-106.90000 
+Colorado_Prowers, 38.08500 ,-102.43750 
+Colorado_Pueblo, 38.21545 ,-104.62273 
+Colorado_Rio Blanco, 40.06500 ,-108.33000 
+Colorado_Rio Grande, 37.63667 ,-106.37667 
+Colorado_Routt, 40.39800 ,-106.95000 
+Colorado_Saguache, 38.02000 ,-106.02500 
+Colorado_San Miguel, 37.93000 ,-108.41500 
+Colorado_Sedgwick, 40.95333 ,-102.38667 
+Colorado_Summit, 39.59000 ,-106.05000 
+Colorado_Teller, 38.90500 ,-105.16750 
+Colorado_Washington, 39.90500 ,-103.20333 
+Colorado_Weld, 40.39000 ,-104.66069 
+Colorado_Yuma, 39.88571 ,-102.46857 
+Connecticut_Fairfield, 41.19388 ,-73.37878 
+Connecticut_Hartford, 41.79100 ,-72.74333 
+Connecticut_Litchfield, 41.76270 ,-73.23676 
+Connecticut_Middlesex, 41.43450 ,-72.52200 
+Connecticut_New Haven, 41.40049 ,-72.94756 
+Connecticut_New London, 41.46481 ,-72.09000 
+Connecticut_Tolland, 41.80857 ,-72.33143 
+Connecticut_Windham, 41.81292 ,-71.99250 
+Delaware_Kent, 39.09333 ,-75.56267 
+Delaware_New Castle, 39.69043 ,-75.61261 
+Delaware_Sussex, 38.64000 ,-75.32864 
+District of Columbia_District of Columbia, 38.88935 ,-77.02871 
+Florida_Alachua, 29.67438 ,-82.35750 
+Florida_Baker, 30.26667 ,-82.18333 
+Florida_Bay, 30.22091 ,-85.64727 
+Florida_Bradford, 29.93000 ,-82.16000 
+Florida_Brevard, 28.20643 ,-80.65571 
+Florida_Broward, 26.13800 ,-80.14818 
+Florida_Calhoun, 30.42500 ,-85.14500 
+Florida_Charlotte, 26.92846 ,-82.12615 
+Florida_Citrus, 28.87154 ,-82.45538 
+Florida_Clay, 30.04833 ,-81.78333 
+Florida_Collier, 26.14438 ,-81.76313 
+Florida_Columbia, 30.11800 ,-82.62400 
+Florida_Desoto, 27.21000 ,-81.85000 
+Florida_Dixie, 29.55333 ,-83.12667 
+Florida_Duval, 30.32971 ,-81.62114 
+Florida_Escambia, 30.53200 ,-87.22400 
+Florida_Flagler, 29.49800 ,-81.19200 
+Florida_Franklin, 29.77000 ,-84.84000 
+Florida_Gadsden, 30.60667 ,-84.60500 
+Florida_Gilchrist, 29.68000 ,-82.83500 
+Florida_Glades, 26.83000 ,-81.09000 
+Florida_Gulf, 29.97000 ,-85.21500 
+Florida_Hamilton, 30.48000 ,-82.93333 
+Florida_Hardee, 27.53750 ,-81.83250 
+Florida_Hendry, 26.69500 ,-81.13500 
+Florida_Hernando, 28.50556 ,-82.45000 
+Florida_Highlands, 27.40000 ,-81.39875 
+Florida_Hillsborough, 27.94558 ,-82.39750 
+Florida_Holmes, 30.77000 ,-85.76000 
+Florida_Indian River, 27.67250 ,-80.42625 
+Florida_Jackson, 30.82545 ,-85.22545 
+Florida_Jefferson, 30.45500 ,-83.84000 
+Florida_Lafayette, 30.05000 ,-83.17000 
+Florida_Lake, 28.77087 ,-81.74478 
+Florida_Lee, 26.58273 ,-81.84667 
+Florida_Leon, 30.43600 ,-84.26400 
+Florida_Levy, 29.25000 ,-82.68857 
+Florida_Liberty, 30.40000 ,-84.88000 
+Florida_Madison, 30.48000 ,-83.42250 
+Florida_Manatee, 27.47176 ,-82.54529 
+Florida_Marion, 29.16435 ,-82.09043 
+Florida_Martin, 27.15143 ,-80.25714 
+Florida_Miami-Dade, 25.76154 ,-80.24026 
+Florida_Monroe, 24.93750 ,-81.06750 
+Florida_Nassau, 30.58200 ,-81.73800 
+Florida_Okaloosa, 30.56857 ,-86.57786 
+Florida_Okeechobee, 27.24000 ,-80.82000 
+Florida_Orange, 28.52512 ,-81.38791 
+Florida_Osceola, 28.24000 ,-81.32455 
+Florida_Palm Beach, 26.62370 ,-80.15852 
+Florida_Pasco, 28.27773 ,-82.45818 
+Florida_Pinellas, 27.88532 ,-82.71979 
+Florida_Polk, 28.00625 ,-81.75531 
+Florida_Putnam, 29.57167 ,-81.73000 
+Florida_Santa Rosa, 30.60143 ,-87.07000 
+Florida_Sarasota, 27.21625 ,-82.44583 
+Florida_Seminole, 28.69692 ,-81.28538 
+Florida_St Johns, 29.92400 ,-81.37900 
+Florida_St Lucie, 27.36714 ,-80.33286 
+Florida_Sumter, 28.78333 ,-82.02667 
+Florida_Suwannee, 30.15500 ,-82.92833 
+Florida_Taylor, 29.93750 ,-83.49000 
+Florida_Union, 30.04000 ,-82.28000 
+Florida_Volusia, 29.07308 ,-81.12423 
+Florida_Wakulla, 30.08333 ,-84.41000 
+Florida_Walton, 30.57667 ,-86.16167 
+Florida_Washington, 30.64750 ,-85.73250 
+Georgia_Appling, 31.74000 ,-82.27000 
+Georgia_Atkinson, 31.30000 ,-82.87333 
+Georgia_Bacon, 31.54000 ,-82.47000 
+Georgia_Baker, 31.30000 ,-84.37000 
+Georgia_Baldwin, 33.08000 ,-83.23000 
+Georgia_Banks, 34.31500 ,-83.50750 
+Georgia_Barrow, 33.97250 ,-83.71000 
+Georgia_Bartow, 34.22125 ,-84.82500 
+Georgia_Ben Hill, 31.70000 ,-83.25000 
+Georgia_Berrien, 31.26250 ,-83.24500 
+Georgia_Bibb, 32.82125 ,-83.67625 
+Georgia_Bleckley, 32.38000 ,-83.35000 
+Georgia_Brantley, 31.20000 ,-81.96667 
+Georgia_Brooks, 30.89200 ,-83.59200 
+Georgia_Bryan, 32.06000 ,-81.46667 
+Georgia_Bulloch, 32.43000 ,-81.80200 
+Georgia_Burke, 33.03000 ,-81.98600 
+Georgia_Butts, 33.28667 ,-83.96000 
+Georgia_Calhoun, 31.50000 ,-84.63500 
+Georgia_Camden, 30.90167 ,-81.67000 
+Georgia_Candler, 32.39000 ,-82.06000 
+Georgia_Carroll, 33.59875 ,-85.07000 
+Georgia_Catoosa, 34.91500 ,-85.17500 
+Georgia_Charlton, 30.66500 ,-82.06000 
+Georgia_Chatham, 32.07615 ,-81.09231 
+Georgia_Chattahoochee, 32.34500 ,-84.82000 
+Georgia_Chattooga, 34.47250 ,-85.38000 
+Georgia_Cherokee, 34.19571 ,-84.51286 
+Georgia_Clarke, 33.95000 ,-83.39000 
+Georgia_Clay, 31.58000 ,-84.92500 
+Georgia_Clayton, 33.56000 ,-84.35143 
+Georgia_Clinch, 30.89667 ,-82.72333 
+Georgia_Cobb, 33.92111 ,-84.56778 
+Georgia_Coffee, 31.55333 ,-82.82500 
+Georgia_Colquitt, 31.21200 ,-83.80200 
+Georgia_Columbia, 33.48200 ,-82.19000 
+Georgia_Cook, 31.18333 ,-83.44000 
+Georgia_Coweta, 33.31667 ,-84.72333 
+Georgia_Crawford, 32.72333 ,-84.00333 
+Georgia_Crisp, 31.89500 ,-83.75000 
+Georgia_Dade, 34.90000 ,-85.44250 
+Georgia_Dawson, 34.42000 ,-84.11000 
+Georgia_Decatur, 30.85400 ,-84.53800 
+Georgia_Dekalb, 33.79185 ,-84.26778 
+Georgia_Dodge, 32.16500 ,-83.14500 
+Georgia_Dooly, 32.18000 ,-83.79500 
+Georgia_Dougherty, 31.55750 ,-84.20250 
+Georgia_Douglas, 33.72500 ,-84.74500 
+Georgia_Early, 31.25000 ,-84.87000 
+Georgia_Echols, 30.70000 ,-83.03000 
+Georgia_Effingham, 32.31400 ,-81.29600 
+Georgia_Elbert, 34.15333 ,-82.94333 
+Georgia_Emanuel, 32.56333 ,-82.35667 
+Georgia_Evans, 32.16000 ,-81.90000 
+Georgia_Fannin, 34.90800 ,-84.34200 
+Georgia_Fayette, 33.40400 ,-84.50400 
+Georgia_Floyd, 34.23333 ,-85.20167 
+Georgia_Forsyth, 34.20000 ,-84.13000 
+Georgia_Franklin, 34.35667 ,-83.14333 
+Georgia_Fulton, 33.79476 ,-84.40024 
+Georgia_Gilmer, 34.70250 ,-84.43250 
+Georgia_Glascock, 33.22000 ,-82.64500 
+Georgia_Glynn, 31.18600 ,-81.48600 
+Georgia_Gordon, 34.49333 ,-84.89167 
+Georgia_Grady, 30.91333 ,-84.24000 
+Georgia_Greene, 33.55000 ,-83.09333 
+Georgia_Gwinnett, 33.95882 ,-84.05118 
+Georgia_Habersham, 34.53000 ,-83.53000 
+Georgia_Hall, 34.30444 ,-83.79778 
+Georgia_Hancock, 33.27000 ,-82.97000 
+Georgia_Haralson, 33.75000 ,-85.20667 
+Georgia_Harris, 32.72625 ,-84.82625 
+Georgia_Hart, 34.35333 ,-83.04000 
+Georgia_Heard, 33.28000 ,-85.09000 
+Georgia_Henry, 33.46500 ,-84.19333 
+Georgia_Houston, 32.52500 ,-83.64500 
+Georgia_Irwin, 31.60500 ,-83.14500 
+Georgia_Jackson, 34.13857 ,-83.62857 
+Georgia_Jasper, 33.34500 ,-83.66250 
+Georgia_Jeff Davis, 31.79000 ,-82.64000 
+Georgia_Jefferson, 33.07714 ,-82.41571 
+Georgia_Jenkins, 32.78333 ,-81.99333 
+Georgia_Johnson, 32.70500 ,-82.61500 
+Georgia_Jones, 32.97000 ,-83.54000 
+Georgia_Lamar, 33.08000 ,-84.17000 
+Georgia_Lanier, 30.98500 ,-83.03500 
+Georgia_Laurens, 32.45750 ,-82.98750 
+Georgia_Lee, 31.81500 ,-84.21000 
+Georgia_Liberty, 31.82143 ,-81.52714 
+Georgia_Lincoln, 33.79000 ,-82.47000 
+Georgia_Long, 31.71000 ,-81.74000 
+Georgia_Lowndes, 30.84714 ,-83.24286 
+Georgia_Lumpkin, 34.48500 ,-83.93500 
+Georgia_Macon, 32.35000 ,-84.05000 
+Georgia_Madison, 34.05500 ,-83.21000 
+Georgia_Marion, 32.40500 ,-84.44000 
+Georgia_McDuffie, 33.43500 ,-82.44000 
+Georgia_McIntosh, 31.45000 ,-81.47000 
+Georgia_Meriwether, 33.00333 ,-84.64667 
+Georgia_Miller, 31.15000 ,-84.67000 
+Georgia_Mitchell, 31.20800 ,-84.12600 
+Georgia_Monroe, 33.00333 ,-83.95000 
+Georgia_Montgomery, 32.17500 ,-82.55250 
+Georgia_Morgan, 33.58333 ,-83.48000 
+Georgia_Murray, 34.88333 ,-84.75333 
+Georgia_Muscogee, 32.52500 ,-84.85000 
+Georgia_Newton, 33.58250 ,-83.82500 
+Georgia_Oconee, 33.87000 ,-83.45333 
+Georgia_Oglethorpe, 33.90500 ,-83.14667 
+Georgia_Paulding, 33.89333 ,-84.81000 
+Georgia_Peach, 32.60000 ,-83.81500 
+Georgia_Pickens, 34.45000 ,-84.38750 
+Georgia_Pierce, 31.39500 ,-82.19750 
+Georgia_Pike, 33.08400 ,-84.38600 
+Georgia_Polk, 34.01667 ,-85.11333 
+Georgia_Pulaski, 32.28000 ,-83.47000 
+Georgia_Putnam, 33.32000 ,-83.38000 
+Georgia_Quitman, 31.83500 ,-84.99000 
+Georgia_Rabun, 34.88200 ,-83.40200 
+Georgia_Randolph, 31.72000 ,-84.74000 
+Georgia_Richmond, 33.42100 ,-82.01500 
+Georgia_Rockdale, 33.66000 ,-84.01000 
+Georgia_Schley, 32.23000 ,-84.30000 
+Georgia_Screven, 32.66333 ,-81.65000 
+Georgia_Seminole, 31.00500 ,-84.83500 
+Georgia_Spalding, 33.24000 ,-84.27000 
+Georgia_Stephens, 34.51333 ,-83.25000 
+Georgia_Stewart, 32.08667 ,-84.82333 
+Georgia_Sumter, 32.03000 ,-84.15857 
+Georgia_Talbot, 32.65750 ,-84.54000 
+Georgia_Taliaferro, 33.55000 ,-82.89000 
+Georgia_Tattnall, 32.11750 ,-82.06750 
+Georgia_Taylor, 32.50667 ,-84.20000 
+Georgia_Telfair, 31.97600 ,-82.90400 
+Georgia_Terrell, 31.83333 ,-84.41667 
+Georgia_Thomas, 30.88600 ,-83.92800 
+Georgia_Tift, 31.45200 ,-83.56000 
+Georgia_Toombs, 32.20500 ,-82.36000 
+Georgia_Towns, 34.93500 ,-83.79500 
+Georgia_Treutlen, 32.37000 ,-82.59000 
+Georgia_Troup, 33.02250 ,-85.00500 
+Georgia_Turner, 31.72333 ,-83.58667 
+Georgia_Twiggs, 32.63667 ,-83.35000 
+Georgia_Union, 34.80000 ,-84.00500 
+Georgia_Upson, 32.92000 ,-84.23333 
+Georgia_Walker, 34.85400 ,-85.28800 
+Georgia_Walton, 33.76800 ,-83.72400 
+Georgia_Ware, 31.19500 ,-82.48250 
+Georgia_Warren, 33.39667 ,-82.69667 
+Georgia_Washington, 32.96800 ,-82.74600 
+Georgia_Wayne, 31.53000 ,-81.94800 
+Georgia_Webster, 32.01500 ,-84.57500 
+Georgia_Wheeler, 32.16000 ,-82.72000 
+Georgia_White, 34.67667 ,-83.73000 
+Georgia_Whitfield, 34.81200 ,-85.00200 
+Georgia_Wilcox, 31.99250 ,-83.44750 
+Georgia_Wilkes, 33.79333 ,-82.79333 
+Georgia_Wilkinson, 32.83750 ,-83.19250 
+Georgia_Worth, 31.62600 ,-83.84800 
+Hawaii_Hawaii, 19.66133 ,-155.44467 
+Hawaii_Honolulu, 21.39513 ,-157.91205 
+Hawaii_Kauai, 22.05167 ,-159.42833 
+Hawaii_Maui, 20.86400 ,-156.44200 
+Idaho_Ada, 43.62125 ,-116.26688 
+Idaho_Adams, 44.78000 ,-116.44000 
+Idaho_Bannock, 42.70875 ,-112.26500 
+Idaho_Bear Lake, 42.23800 ,-111.34400 
+Idaho_Benewah, 47.16200 ,-116.71800 
+Idaho_Bingham, 43.21571 ,-112.50857 
+Idaho_Blaine, 43.46400 ,-114.15600 
+Idaho_Boise, 44.01167 ,-115.87000 
+Idaho_Bonner, 48.26000 ,-116.64917 
+Idaho_Bonneville, 43.45125 ,-111.75375 
+Idaho_Boundary, 48.74750 ,-116.41250 
+Idaho_Butte, 43.75000 ,-113.32333 
+Idaho_Camas, 43.38000 ,-114.88000 
+Idaho_Canyon, 43.62500 ,-116.69200 
+Idaho_Caribou, 42.73600 ,-111.59800 
+Idaho_Cassia, 42.32600 ,-113.58400 
+Idaho_Clark, 44.30500 ,-112.29500 
+Idaho_Clearwater, 46.48500 ,-116.03000 
+Idaho_Custer, 44.25500 ,-114.36250 
+Idaho_Elmore, 43.09400 ,-115.50000 
+Idaho_Franklin, 42.15833 ,-111.86000 
+Idaho_Fremont, 44.10500 ,-111.52500 
+Idaho_Gem, 44.08667 ,-116.38667 
+Idaho_Gooding, 42.89250 ,-114.82000 
+Idaho_Idaho, 45.82545 ,-116.14364 
+Idaho_Jefferson, 43.80429 ,-112.18286 
+Idaho_Jerome, 42.63333 ,-114.22667 
+Idaho_Kootenai, 47.71750 ,-116.74417 
+Idaho_Latah, 46.76500 ,-116.77000 
+Idaho_Lemhi, 45.04444 ,-113.95333 
+Idaho_Lewis, 46.25800 ,-116.36400 
+Idaho_Lincoln, 43.01667 ,-114.27000 
+Idaho_Madison, 43.83000 ,-111.62333 
+Idaho_Minidoka, 42.66333 ,-113.77333 
+Idaho_Nez Perce, 46.38000 ,-116.63000 
+Idaho_Oneida, 42.22000 ,-112.48500 
+Idaho_Owyhee, 43.12600 ,-116.45400 
+Idaho_Payette, 43.98667 ,-116.80333 
+Idaho_Power, 42.58333 ,-112.79667 
+Idaho_Shoshone, 47.41222 ,-116.05778 
+Idaho_Teton, 43.77750 ,-111.19000 
+Idaho_Twin Falls, 42.42000 ,-114.57875 
+Idaho_Valley, 44.79000 ,-115.71500 
+Idaho_Washington, 44.49000 ,-116.73000 
+Illinois_Adams, 39.99867 ,-91.18400 
+Illinois_Alexander, 37.16000 ,-89.33667 
+Illinois_Bond, 38.89333 ,-89.43000 
+Illinois_Boone, 42.33000 ,-88.80600 
+Illinois_Brown, 39.95667 ,-90.75333 
+Illinois_Bureau, 41.38125 ,-89.48188 
+Illinois_Calhoun, 39.13375 ,-90.64000 
+Illinois_Carroll, 42.05000 ,-89.91714 
+Illinois_Cass, 39.94800 ,-90.22800 
+Illinois_Champaign, 40.12037 ,-88.19407 
+Illinois_Christian, 39.51083 ,-89.28167 
+Illinois_Clark, 39.33000 ,-87.77857 
+Illinois_Clay, 38.75000 ,-88.48667 
+Illinois_Clinton, 38.56667 ,-89.52444 
+Illinois_Coles, 39.52333 ,-88.19333 
+Illinois_Cook, 41.83127 ,-87.76818 
+Illinois_Crawford, 39.02500 ,-87.73167 
+Illinois_Cumberland, 39.27167 ,-88.32000 
+Illinois_De Witt, 40.17714 ,-88.89286 
+Illinois_Dekalb, 41.88923 ,-88.74538 
+Illinois_Douglas, 39.76125 ,-88.24000 
+Illinois_Dupage, 41.85462 ,-88.07103 
+Illinois_Edgar, 39.71000 ,-87.81333 
+Illinois_Edwards, 38.39000 ,-88.00200 
+Illinois_Effingham, 39.08375 ,-88.59375 
+Illinois_Fayette, 38.96778 ,-89.01889 
+Illinois_Ford, 40.66750 ,-88.22875 
+Illinois_Franklin, 37.97727 ,-88.97364 
+Illinois_Fulton, 40.48385 ,-90.25538 
+Illinois_Gallatin, 37.78833 ,-88.23500 
+Illinois_Greene, 39.34000 ,-90.37625 
+Illinois_Grundy, 41.26375 ,-88.37375 
+Illinois_Hamilton, 38.08600 ,-88.54400 
+Illinois_Hancock, 40.40083 ,-91.20167 
+Illinois_Hardin, 37.46667 ,-88.29333 
+Illinois_Henderson, 40.79286 ,-90.94429 
+Illinois_Henry, 41.32643 ,-90.17714 
+Illinois_Iroquois, 40.74294 ,-87.84882 
+Illinois_Jackson, 37.76538 ,-89.35846 
+Illinois_Jasper, 39.04286 ,-88.15857 
+Illinois_Jefferson, 38.27727 ,-88.89727 
+Illinois_Jersey, 39.03500 ,-90.33667 
+Illinois_Jo Daviess, 42.41000 ,-90.23375 
+Illinois_Johnson, 37.46500 ,-88.86000 
+Illinois_Kane, 41.92000 ,-88.35737 
+Illinois_Kankakee, 41.11857 ,-87.90357 
+Illinois_Kendall, 41.65833 ,-88.43667 
+Illinois_Knox, 40.92800 ,-90.22467 
+Illinois_La Salle, 41.30789 ,-88.89684 
+Illinois_Lake, 42.30321 ,-87.94464 
+Illinois_Lawrence, 38.68250 ,-87.73250 
+Illinois_Lee, 41.75364 ,-89.20545 
+Illinois_Livingston, 40.90313 ,-88.55000 
+Illinois_Logan, 40.12909 ,-89.36364 
+Illinois_Macon, 39.86231 ,-88.96000 
+Illinois_Macoupin, 39.23000 ,-89.92267 
+Illinois_Madison, 38.82120 ,-89.97760 
+Illinois_Marion, 38.63364 ,-88.98818 
+Illinois_Marshall, 41.04000 ,-89.26667 
+Illinois_Mason, 40.27444 ,-89.87333 
+Illinois_Massac, 37.19667 ,-88.75667 
+Illinois_McDonough, 40.46818 ,-90.68545 
+Illinois_McHenry, 42.29842 ,-88.35474 
+Illinois_McLean, 40.49560 ,-88.84640 
+Illinois_Menard, 40.02167 ,-89.84167 
+Illinois_Mercer, 41.18700 ,-90.70000 
+Illinois_Monroe, 38.31000 ,-90.22250 
+Illinois_Montgomery, 39.22083 ,-89.48500 
+Illinois_Morgan, 39.70250 ,-90.23000 
+Illinois_Moultrie, 39.62000 ,-88.65200 
+Illinois_Ogle, 42.05929 ,-89.25857 
+Illinois_Peoria, 40.76667 ,-89.69143 
+Illinois_Perry, 38.08200 ,-89.39800 
+Illinois_Piatt, 39.99222 ,-88.60667 
+Illinois_Pike, 39.62462 ,-90.89692 
+Illinois_Pope, 37.44667 ,-88.51000 
+Illinois_Pulaski, 37.19375 ,-89.12125 
+Illinois_Putnam, 41.19400 ,-89.26400 
+Illinois_Randolph, 38.04833 ,-89.84333 
+Illinois_Richland, 38.69833 ,-88.07333 
+Illinois_Rock Island, 41.49929 ,-90.48357 
+Illinois_Saline, 37.74333 ,-88.57167 
+Illinois_Sangamon, 39.76583 ,-89.62042 
+Illinois_Schuyler, 40.14167 ,-90.60167 
+Illinois_Scott, 39.68500 ,-90.49000 
+Illinois_Shelby, 39.35750 ,-88.81667 
+Illinois_St Clair, 38.51583 ,-90.00083 
+Illinois_Stark, 41.06500 ,-89.82250 
+Illinois_Stephenson, 42.36083 ,-89.64000 
+Illinois_Tazewell, 40.52154 ,-89.47769 
+Illinois_Union, 37.48333 ,-89.27667 
+Illinois_Vermilion, 40.14381 ,-87.72857 
+Illinois_Wabash, 38.46500 ,-87.74000 
+Illinois_Warren, 40.86900 ,-90.61800 
+Illinois_Washington, 38.34625 ,-89.34125 
+Illinois_Wayne, 38.41250 ,-88.40833 
+Illinois_White, 38.13500 ,-88.24500 
+Illinois_Whiteside, 41.72636 ,-89.92000 
+Illinois_Will, 41.51833 ,-88.03333 
+Illinois_Williamson, 37.74750 ,-88.98500 
+Illinois_Winnebago, 42.31556 ,-89.08556 
+Illinois_Woodford, 40.76250 ,-89.21583 
+Indiana_Adams, 40.70250 ,-84.94000 
+Indiana_Allen, 41.08120 ,-85.08000 
+Indiana_Bartholomew, 39.20833 ,-85.79833 
+Indiana_Benton, 40.56200 ,-87.29000 
+Indiana_Blackford, 40.45667 ,-85.28333 
+Indiana_Boone, 40.00600 ,-86.46200 
+Indiana_Brown, 39.20000 ,-86.23000 
+Indiana_Carroll, 40.53167 ,-86.51667 
+Indiana_Cass, 40.76143 ,-86.29714 
+Indiana_Clark, 38.47214 ,-85.69786 
+Indiana_Clay, 39.39143 ,-87.12429 
+Indiana_Clinton, 40.30143 ,-86.49571 
+Indiana_Crawford, 38.29875 ,-86.43750 
+Indiana_Daviess, 38.74667 ,-87.06833 
+Indiana_De Kalb, 41.38500 ,-85.01000 
+Indiana_Dearborn, 39.12333 ,-84.94667 
+Indiana_Decatur, 39.31000 ,-85.55667 
+Indiana_Delaware, 40.21700 ,-85.39300 
+Indiana_Dubois, 38.32667 ,-86.84556 
+Indiana_Elkhart, 41.59636 ,-85.86818 
+Indiana_Fayette, 39.63500 ,-85.22000 
+Indiana_Floyd, 38.31750 ,-85.90750 
+Indiana_Fountain, 40.11600 ,-87.26000 
+Indiana_Franklin, 39.41833 ,-85.04667 
+Indiana_Fulton, 41.03333 ,-86.20667 
+Indiana_Gibson, 38.31444 ,-87.52444 
+Indiana_Grant, 40.50889 ,-85.65333 
+Indiana_Greene, 39.03444 ,-86.98667 
+Indiana_Hamilton, 40.01077 ,-86.06923 
+Indiana_Hancock, 39.84000 ,-85.78000 
+Indiana_Harrison, 38.20833 ,-86.09833 
+Indiana_Hendricks, 39.76400 ,-86.51200 
+Indiana_Henry, 39.90111 ,-85.41111 
+Indiana_Howard, 40.45500 ,-86.12250 
+Indiana_Huntington, 40.84250 ,-85.47250 
+Indiana_Jackson, 38.88429 ,-86.04571 
+Indiana_Jasper, 41.02200 ,-87.16000 
+Indiana_Jay, 40.43400 ,-85.01800 
+Indiana_Jefferson, 38.80200 ,-85.46200 
+Indiana_Jennings, 38.97800 ,-85.64200 
+Indiana_Johnson, 39.48778 ,-86.07556 
+Indiana_Knox, 38.72900 ,-87.35800 
+Indiana_Kosciusko, 41.23923 ,-85.85462 
+Indiana_La Porte, 41.51667 ,-86.77111 
+Indiana_Lagrange, 41.61600 ,-85.46000 
+Indiana_Lake, 41.54360 ,-87.40320 
+Indiana_Lawrence, 38.86000 ,-86.51333 
+Indiana_Madison, 40.11615 ,-85.71462 
+Indiana_Marion, 39.76474 ,-86.14263 
+Indiana_Marshall, 41.28833 ,-86.22167 
+Indiana_Martin, 38.74000 ,-86.86667 
+Indiana_Miami, 40.72429 ,-86.05429 
+Indiana_Monroe, 39.18000 ,-86.51875 
+Indiana_Montgomery, 40.05667 ,-86.91111 
+Indiana_Morgan, 39.47200 ,-86.42000 
+Indiana_Newton, 40.89000 ,-87.39800 
+Indiana_Noble, 41.40889 ,-85.40333 
+Indiana_Ohio, 38.95000 ,-84.85000 
+Indiana_Orange, 38.55400 ,-86.48200 
+Indiana_Owen, 39.32667 ,-86.83500 
+Indiana_Parke, 39.76800 ,-87.25800 
+Indiana_Perry, 38.04667 ,-86.64667 
+Indiana_Pike, 38.39800 ,-87.16200 
+Indiana_Porter, 41.45833 ,-87.09167 
+Indiana_Posey, 38.11167 ,-87.83000 
+Indiana_Pulaski, 41.04200 ,-86.67400 
+Indiana_Putnam, 39.68714 ,-86.84571 
+Indiana_Randolph, 40.13875 ,-85.04500 
+Indiana_Ripley, 39.11857 ,-85.22429 
+Indiana_Rush, 39.62429 ,-85.51286 
+Indiana_Scott, 38.69000 ,-85.73333 
+Indiana_Shelby, 39.55286 ,-85.76286 
+Indiana_Spencer, 38.04182 ,-86.98273 
+Indiana_St Joseph, 41.64556 ,-86.26722 
+Indiana_Starke, 41.26833 ,-86.64500 
+Indiana_Steuben, 41.62333 ,-85.01667 
+Indiana_Sullivan, 39.11125 ,-87.41750 
+Indiana_Switzerland, 38.81500 ,-84.97250 
+Indiana_Tippecanoe, 40.38800 ,-86.88200 
+Indiana_Tipton, 40.32250 ,-86.07500 
+Indiana_Union, 39.62667 ,-84.90333 
+Indiana_Vanderburgh, 37.98000 ,-87.54000 
+Indiana_Vermillion, 39.84200 ,-87.43600 
+Indiana_Vigo, 39.44143 ,-87.38571 
+Indiana_Wabash, 40.86857 ,-85.79000 
+Indiana_Warren, 40.36750 ,-87.35750 
+Indiana_Warrick, 38.07500 ,-87.31500 
+Indiana_Washington, 38.54250 ,-86.13500 
+Indiana_Wayne, 39.88000 ,-85.03000 
+Indiana_Wells, 40.74625 ,-85.21875 
+Indiana_White, 40.73625 ,-86.81375 
+Indiana_Whitley, 41.15750 ,-85.51000 
+Iowa_Adair, 41.30600 ,-94.47800 
+Iowa_Adams, 40.99500 ,-94.76250 
+Iowa_Allamakee, 43.29286 ,-91.35429 
+Iowa_Appanoose, 40.74222 ,-92.83556 
+Iowa_Audubon, 41.62000 ,-94.93800 
+Iowa_Benton, 42.01200 ,-92.02200 
+Iowa_Black Hawk, 42.46091 ,-92.28182 
+Iowa_Boone, 42.03000 ,-93.91800 
+Iowa_Bremer, 42.74429 ,-92.33429 
+Iowa_Buchanan, 42.50700 ,-91.83300 
+Iowa_Buena Vista, 42.77000 ,-95.11875 
+Iowa_Butler, 42.70500 ,-92.81500 
+Iowa_Calhoun, 42.39000 ,-94.61222 
+Iowa_Carroll, 41.99375 ,-94.88500 
+Iowa_Cass, 41.34000 ,-94.94875 
+Iowa_Cedar, 41.78625 ,-91.08750 
+Iowa_Cerro Gordo, 43.05500 ,-93.25800 
+Iowa_Cherokee, 42.74125 ,-95.62625 
+Iowa_Chickasaw, 43.04167 ,-92.34000 
+Iowa_Clarke, 41.02667 ,-93.76667 
+Iowa_Clay, 43.05000 ,-95.18000 
+Iowa_Clayton, 42.82667 ,-91.30933 
+Iowa_Clinton, 41.89667 ,-90.50750 
+Iowa_Crawford, 42.03700 ,-95.34600 
+Iowa_Dallas, 41.66800 ,-94.01067 
+Iowa_Davis, 40.75400 ,-92.42000 
+Iowa_Decatur, 40.76875 ,-93.80125 
+Iowa_Delaware, 42.46333 ,-91.39667 
+Iowa_Des Moines, 40.89714 ,-91.21143 
+Iowa_Dickinson, 43.37167 ,-95.13333 
+Iowa_Dubuque, 42.49917 ,-90.89417 
+Iowa_Emmet, 43.37000 ,-94.64000 
+Iowa_Fayette, 42.84923 ,-91.84000 
+Iowa_Floyd, 43.08571 ,-92.81286 
+Iowa_Franklin, 42.72875 ,-93.25750 
+Iowa_Fremont, 40.76667 ,-95.61444 
+Iowa_Greene, 42.03625 ,-94.32875 
+Iowa_Grundy, 42.34250 ,-92.75750 
+Iowa_Guthrie, 41.68667 ,-94.44778 
+Iowa_Hamilton, 42.37250 ,-93.70375 
+Iowa_Hancock, 43.03429 ,-93.75143 
+Iowa_Hardin, 42.35778 ,-93.20444 
+Iowa_Harrison, 41.69600 ,-95.83800 
+Iowa_Henry, 40.98143 ,-91.53429 
+Iowa_Howard, 43.38200 ,-92.34800 
+Iowa_Humboldt, 42.78545 ,-94.22273 
+Iowa_Ida, 42.39200 ,-95.47000 
+Iowa_Iowa, 41.70667 ,-92.03111 
+Iowa_Jackson, 42.14091 ,-90.56545 
+Iowa_Jasper, 41.65455 ,-93.06727 
+Iowa_Jefferson, 41.03833 ,-91.96667 
+Iowa_Johnson, 41.68818 ,-91.57909 
+Iowa_Jones, 42.09636 ,-91.13182 
+Iowa_Keokuk, 41.34182 ,-92.19818 
+Iowa_Kossuth, 43.20167 ,-94.20667 
+Iowa_Lee, 40.61000 ,-91.43375 
+Iowa_Linn, 42.05000 ,-91.61909 
+Iowa_Louisa, 41.17400 ,-91.24000 
+Iowa_Lucas, 40.98500 ,-93.35250 
+Iowa_Lyon, 43.36286 ,-96.20571 
+Iowa_Madison, 41.32143 ,-93.97857 
+Iowa_Mahaska, 41.32375 ,-92.57375 
+Iowa_Marion, 41.30364 ,-93.05364 
+Iowa_Marshall, 42.01091 ,-93.03000 
+Iowa_Mills, 41.04571 ,-95.58000 
+Iowa_Mitchell, 43.37375 ,-92.81625 
+Iowa_Monona, 42.04778 ,-95.91889 
+Iowa_Monroe, 41.04333 ,-92.91333 
+Iowa_Montgomery, 41.01500 ,-95.11250 
+Iowa_Muscatine, 41.48000 ,-91.11182 
+Iowa_Obrien, 43.09286 ,-95.64143 
+Iowa_Osceola, 43.36600 ,-95.61800 
+Iowa_Page, 40.67286 ,-95.20857 
+Iowa_Palo Alto, 43.05625 ,-94.69375 
+Iowa_Plymouth, 42.72571 ,-96.25286 
+Iowa_Pocahontas, 42.73500 ,-94.69333 
+Iowa_Polk, 41.62281 ,-93.61219 
+Iowa_Pottawattamie, 41.34250 ,-95.59938 
+Iowa_Poweshiek, 41.66500 ,-92.49750 
+Iowa_Ringgold, 40.74571 ,-94.23286 
+Iowa_Sac, 42.37375 ,-95.09500 
+Iowa_Scott, 41.60438 ,-90.61125 
+Iowa_Shelby, 41.69000 ,-95.33444 
+Iowa_Sioux, 43.04333 ,-96.15833 
+Iowa_Story, 42.01400 ,-93.50467 
+Iowa_Tama, 42.07273 ,-92.50091 
+Iowa_Taylor, 40.75000 ,-94.64143 
+Iowa_Union, 41.02500 ,-94.22667 
+Iowa_Van Buren, 40.73600 ,-91.96000 
+Iowa_Wapello, 41.03429 ,-92.45571 
+Iowa_Warren, 41.36545 ,-93.58273 
+Iowa_Washington, 41.36375 ,-91.70375 
+Iowa_Wayne, 40.72250 ,-93.33750 
+Iowa_Webster, 42.43077 ,-94.17692 
+Iowa_Winnebago, 43.36667 ,-93.68500 
+Iowa_Winneshiek, 43.19167 ,-91.83333 
+Iowa_Woodbury, 42.41318 ,-96.14636 
+Iowa_Worth, 43.32857 ,-93.27429 
+Iowa_Wright, 42.70000 ,-93.70375 
+Kansas_Allen, 37.84667 ,-95.26333 
+Kansas_Anderson, 38.18833 ,-95.27833 
+Kansas_Atchison, 39.53200 ,-95.31800 
+Kansas_Barber, 37.22625 ,-98.59750 
+Kansas_Barton, 38.42286 ,-98.80000 
+Kansas_Bourbon, 37.86286 ,-94.83286 
+Kansas_Brown, 39.78571 ,-95.56143 
+Kansas_Butler, 37.75000 ,-96.92154 
+Kansas_Chase, 38.30400 ,-96.61800 
+Kansas_Chautauqua, 37.09000 ,-96.19500 
+Kansas_Cherokee, 37.15500 ,-94.79250 
+Kansas_Cheyenne, 39.75500 ,-101.66500 
+Kansas_Clark, 37.31000 ,-99.88500 
+Kansas_Clay, 39.32800 ,-97.13000 
+Kansas_Cloud, 39.48500 ,-97.61833 
+Kansas_Coffey, 38.23200 ,-95.74000 
+Kansas_Comanche, 37.26000 ,-99.33667 
+Kansas_Cowley, 37.26556 ,-96.85444 
+Kansas_Crawford, 37.53000 ,-94.77545 
+Kansas_Decatur, 39.73750 ,-100.35500 
+Kansas_Dickinson, 38.83571 ,-97.09714 
+Kansas_Doniphan, 39.80000 ,-95.16667 
+Kansas_Douglas, 38.94000 ,-95.23714 
+Kansas_Edwards, 37.92250 ,-99.32750 
+Kansas_Elk, 37.38200 ,-96.25400 
+Kansas_Ellis, 38.88333 ,-99.33333 
+Kansas_Ellsworth, 38.68000 ,-98.31200 
+Kansas_Finney, 37.94667 ,-100.83667 
+Kansas_Ford, 37.71167 ,-99.82667 
+Kansas_Franklin, 38.53250 ,-95.24375 
+Kansas_Geary, 39.05333 ,-96.79000 
+Kansas_Gove, 39.07000 ,-100.43400 
+Kansas_Graham, 39.35000 ,-99.89000 
+Kansas_Grant, 37.57000 ,-101.35000 
+Kansas_Gray, 37.68000 ,-100.41600 
+Kansas_Greeley, 38.47000 ,-101.75000 
+Kansas_Greenwood, 37.85750 ,-96.15125 
+Kansas_Hamilton, 37.96000 ,-101.64500 
+Kansas_Harper, 37.17286 ,-98.00714 
+Kansas_Harvey, 38.04000 ,-97.42000 
+Kansas_Haskell, 37.45000 ,-100.91000 
+Kansas_Hodgeman, 38.10000 ,-99.80000 
+Kansas_Jackson, 39.43000 ,-95.76222 
+Kansas_Jefferson, 39.22778 ,-95.39333 
+Kansas_Jewell, 39.78286 ,-98.16286 
+Kansas_Johnson, 38.87882 ,-94.72471 
+Kansas_Kearny, 37.96000 ,-101.19000 
+Kansas_Kingman, 37.52000 ,-98.17286 
+Kansas_Kiowa, 37.59667 ,-99.28667 
+Kansas_Labette, 37.17000 ,-95.26875 
+Kansas_Lane, 38.54000 ,-100.54000 
+Kansas_Leavenworth, 39.21286 ,-94.97857 
+Kansas_Lincoln, 39.06000 ,-98.13500 
+Kansas_Linn, 38.18857 ,-94.85429 
+Kansas_Logan, 39.09333 ,-101.03000 
+Kansas_Lyon, 38.45375 ,-96.09500 
+Kansas_Marion, 38.38182 ,-97.06909 
+Kansas_Marshall, 39.82091 ,-96.50455 
+Kansas_McPherson, 38.35286 ,-97.66143 
+Kansas_Meade, 37.30667 ,-100.36333 
+Kansas_Miami, 38.52750 ,-94.83000 
+Kansas_Mitchell, 39.40200 ,-98.33800 
+Kansas_Montgomery, 37.15143 ,-95.75143 
+Kansas_Morris, 38.69800 ,-96.66000 
+Kansas_Morton, 37.12333 ,-101.76667 
+Kansas_Nemaha, 39.78333 ,-95.97889 
+Kansas_Neosho, 37.56167 ,-95.30833 
+Kansas_Ness, 38.55143 ,-99.95286 
+Kansas_Norton, 39.76500 ,-99.94000 
+Kansas_Osage, 38.67889 ,-95.66889 
+Kansas_Osborne, 39.42600 ,-98.77600 
+Kansas_Ottawa, 39.10750 ,-97.73000 
+Kansas_Pawnee, 38.15750 ,-99.31500 
+Kansas_Phillips, 39.75429 ,-99.36000 
+Kansas_Pottawatomie, 39.32222 ,-96.25111 
+Kansas_Pratt, 37.62800 ,-98.76400 
+Kansas_Rawlins, 39.83500 ,-101.03750 
+Kansas_Reno, 37.97154 ,-98.07538 
+Kansas_Republic, 39.83500 ,-97.61875 
+Kansas_Rice, 38.35125 ,-98.25125 
+Kansas_Riley, 39.25143 ,-96.69857 
+Kansas_Rooks, 39.33400 ,-99.36000 
+Kansas_Rush, 38.50571 ,-99.34286 
+Kansas_Russell, 38.98250 ,-98.76000 
+Kansas_Saline, 38.72143 ,-97.63857 
+Kansas_Scott, 38.48000 ,-101.05500 
+Kansas_Sedgwick, 37.67535 ,-97.38628 
+Kansas_Seward, 37.12000 ,-100.81500 
+Kansas_Shawnee, 39.01958 ,-95.70167 
+Kansas_Sheridan, 39.44500 ,-100.49500 
+Kansas_Sherman, 39.33333 ,-101.75667 
+Kansas_Smith, 39.73167 ,-98.84167 
+Kansas_Stafford, 38.00250 ,-98.74250 
+Kansas_Stanton, 37.54500 ,-101.81500 
+Kansas_Stevens, 37.24500 ,-101.27000 
+Kansas_Sumner, 37.26333 ,-97.46917 
+Kansas_Thomas, 39.40200 ,-101.04600 
+Kansas_Trego, 39.01000 ,-99.90333 
+Kansas_Wabaunsee, 38.94000 ,-96.16667 
+Kansas_Wallace, 38.88667 ,-101.76667 
+Kansas_Washington, 39.78545 ,-97.09545 
+Kansas_Wichita, 38.48000 ,-101.35000 
+Kansas_Wilson, 37.55800 ,-95.71800 
+Kansas_Woodson, 37.88000 ,-95.70500 
+Kansas_Wyandotte, 39.09583 ,-94.64167 
+Kentucky_Adair, 37.07000 ,-85.30200 
+Kentucky_Allen, 36.70333 ,-86.17333 
+Kentucky_Anderson, 38.03000 ,-84.89000 
+Kentucky_Ballard, 37.02667 ,-89.03000 
+Kentucky_Barren, 36.94571 ,-85.94714 
+Kentucky_Bath, 38.10800 ,-83.74800 
+Kentucky_Bell, 36.76545 ,-83.64545 
+Kentucky_Boone, 38.96571 ,-84.69286 
+Kentucky_Bourbon, 38.20000 ,-84.26000 
+Kentucky_Boyd, 38.40000 ,-82.65250 
+Kentucky_Boyle, 37.61500 ,-84.85000 
+Kentucky_Bracken, 38.72250 ,-84.05750 
+Kentucky_Breathitt, 37.53714 ,-83.31857 
+Kentucky_Breckinridge, 37.78083 ,-86.39750 
+Kentucky_Bullitt, 37.97750 ,-85.67250 
+Kentucky_Butler, 37.22667 ,-86.63833 
+Kentucky_Caldwell, 37.15000 ,-87.96500 
+Kentucky_Calloway, 36.63000 ,-88.26333 
+Kentucky_Campbell, 39.04375 ,-84.41875 
+Kentucky_Carlisle, 36.85000 ,-88.96333 
+Kentucky_Carroll, 38.66250 ,-85.05500 
+Kentucky_Carter, 38.28500 ,-82.95500 
+Kentucky_Casey, 37.30000 ,-84.84375 
+Kentucky_Christian, 36.79444 ,-87.53778 
+Kentucky_Clark, 37.99000 ,-84.18000 
+Kentucky_Clay, 37.22250 ,-83.68500 
+Kentucky_Clinton, 36.72500 ,-85.07000 
+Kentucky_Crittenden, 37.33000 ,-88.07000 
+Kentucky_Cumberland, 36.81000 ,-85.45500 
+Kentucky_Daviess, 37.73714 ,-87.04571 
+Kentucky_Edmonson, 37.19400 ,-86.20200 
+Kentucky_Elliott, 38.07500 ,-83.08500 
+Kentucky_Estill, 37.68500 ,-83.95000 
+Kentucky_Fayette, 38.04000 ,-84.45000 
+Kentucky_Fleming, 38.38250 ,-83.71250 
+Kentucky_Floyd, 37.49697 ,-82.73000 
+Kentucky_Franklin, 38.19000 ,-84.86000 
+Kentucky_Fulton, 36.53500 ,-89.03000 
+Kentucky_Gallatin, 38.72000 ,-84.87000 
+Kentucky_Garrard, 37.61000 ,-84.49000 
+Kentucky_Grant, 38.64600 ,-84.61200 
+Kentucky_Graves, 36.74700 ,-88.66400 
+Kentucky_Grayson, 37.49833 ,-86.36500 
+Kentucky_Green, 37.33000 ,-85.57333 
+Kentucky_Greenup, 38.56857 ,-82.82000 
+Kentucky_Hancock, 37.83667 ,-86.80667 
+Kentucky_Hardin, 37.70000 ,-85.94667 
+Kentucky_Harlan, 36.84176 ,-83.25353 
+Kentucky_Harrison, 38.45000 ,-84.33500 
+Kentucky_Hart, 37.30000 ,-85.87000 
+Kentucky_Henderson, 37.78400 ,-87.51800 
+Kentucky_Henry, 38.43800 ,-85.16400 
+Kentucky_Hickman, 36.70500 ,-89.04500 
+Kentucky_Hopkins, 37.27889 ,-87.52778 
+Kentucky_Jackson, 37.39250 ,-83.98250 
+Kentucky_Jefferson, 38.22030 ,-85.73606 
+Kentucky_Jessamine, 37.86500 ,-84.61500 
+Kentucky_Johnson, 37.84125 ,-82.79813 
+Kentucky_Kenton, 39.00250 ,-84.52125 
+Kentucky_Knott, 37.33529 ,-82.90706 
+Kentucky_Knox, 36.88375 ,-83.84500 
+Kentucky_Larue, 37.53500 ,-85.71500 
+Kentucky_Laurel, 37.08800 ,-84.10000 
+Kentucky_Lawrence, 38.02500 ,-82.78375 
+Kentucky_Lee, 37.60333 ,-83.65000 
+Kentucky_Leslie, 37.08667 ,-83.39267 
+Kentucky_Letcher, 37.12909 ,-82.82409 
+Kentucky_Lewis, 38.54400 ,-83.28600 
+Kentucky_Lincoln, 37.44000 ,-84.61333 
+Kentucky_Livingston, 37.16143 ,-88.34286 
+Kentucky_Logan, 36.81600 ,-86.88200 
+Kentucky_Lyon, 37.06500 ,-88.08500 
+Kentucky_Madison, 37.68000 ,-84.24333 
+Kentucky_Magoffin, 37.65000 ,-83.00000 
+Kentucky_Marion, 37.57167 ,-85.28833 
+Kentucky_Marshall, 36.90000 ,-88.31750 
+Kentucky_Martin, 37.83143 ,-82.48429 
+Kentucky_Mason, 38.63333 ,-83.84333 
+Kentucky_McCracken, 37.08250 ,-88.72750 
+Kentucky_McCreary, 36.70000 ,-84.45833 
+Kentucky_McLean, 37.47400 ,-87.21200 
+Kentucky_Meade, 37.94750 ,-86.19250 
+Kentucky_Menifee, 37.92750 ,-83.60250 
+Kentucky_Mercer, 37.83500 ,-84.85000 
+Kentucky_Metcalfe, 36.98600 ,-85.66200 
+Kentucky_Monroe, 36.70000 ,-85.77200 
+Kentucky_Montgomery, 38.01000 ,-83.88000 
+Kentucky_Morgan, 37.88000 ,-83.29400 
+Kentucky_Muhlenberg, 37.21545 ,-87.10364 
+Kentucky_Nelson, 37.79714 ,-85.45571 
+Kentucky_Nicholas, 38.28500 ,-83.98000 
+Kentucky_Ohio, 37.44000 ,-86.83600 
+Kentucky_Oldham, 38.38333 ,-85.46833 
+Kentucky_Owen, 38.57500 ,-84.86000 
+Kentucky_Owsley, 37.39800 ,-83.68200 
+Kentucky_Pendleton, 38.73000 ,-84.39000 
+Kentucky_Perry, 37.23100 ,-83.19250 
+Kentucky_Pike, 37.48824 ,-82.31824 
+Kentucky_Powell, 37.83000 ,-83.82333 
+Kentucky_Pulaski, 37.08625 ,-84.62875 
+Kentucky_Robertson, 38.53000 ,-84.03000 
+Kentucky_Rockcastle, 37.35500 ,-84.30500 
+Kentucky_Rowan, 38.17500 ,-83.43500 
+Kentucky_Russell, 37.02000 ,-85.07000 
+Kentucky_Scott, 38.28667 ,-84.58667 
+Kentucky_Shelby, 38.19200 ,-85.20000 
+Kentucky_Simpson, 36.72000 ,-86.57000 
+Kentucky_Spencer, 38.07333 ,-85.30667 
+Kentucky_Taylor, 37.32500 ,-85.31000 
+Kentucky_Todd, 36.76600 ,-87.14600 
+Kentucky_Trigg, 36.86000 ,-87.82000 
+Kentucky_Trimble, 38.65000 ,-85.34000 
+Kentucky_Union, 37.67250 ,-87.90500 
+Kentucky_Warren, 36.95000 ,-86.39875 
+Kentucky_Washington, 37.74000 ,-85.13333 
+Kentucky_Wayne, 36.84000 ,-84.84000 
+Kentucky_Webster, 37.48333 ,-87.70167 
+Kentucky_Whitley, 36.76400 ,-84.08800 
+Kentucky_Wolfe, 37.75500 ,-83.54750 
+Kentucky_Woodford, 38.09500 ,-84.70000 
+Louisiana_Acadia Parish, 30.26375 ,-92.39375 
+Louisiana_Allen Parish, 30.62200 ,-92.83800 
+Louisiana_Ascension Parish, 30.19143 ,-90.92429 
+Louisiana_Assumption Parish, 29.94200 ,-91.03600 
+Louisiana_Avoyelles Parish, 31.04909 ,-92.06000 
+Louisiana_Beauregard Parish, 30.68143 ,-93.24143 
+Louisiana_Bienville Parish, 32.39000 ,-93.09667 
+Louisiana_Bossier Parish, 32.57500 ,-93.60375 
+Louisiana_Caddo Parish, 32.58435 ,-93.85652 
+Louisiana_Calcasieu Parish, 30.22571 ,-93.26857 
+Louisiana_Caldwell Parish, 32.04667 ,-92.10667 
+Louisiana_Cameron Parish, 29.82500 ,-93.20000 
+Louisiana_Catahoula Parish, 31.77200 ,-91.83400 
+Louisiana_Claiborne Parish, 32.82200 ,-92.97200 
+Louisiana_Concordia Parish, 31.44500 ,-91.60250 
+Louisiana_De Soto Parish, 32.10000 ,-93.78750 
+Louisiana_East Baton Rouge Parish, 30.46875 ,-91.11125 
+Louisiana_East Carroll Parish, 32.68000 ,-91.22667 
+Louisiana_East Feliciana Parish, 30.84667 ,-91.11333 
+Louisiana_Evangeline Parish, 30.66250 ,-92.42250 
+Louisiana_Franklin Parish, 32.08200 ,-91.71400 
+Louisiana_Grant Parish, 31.58167 ,-92.56333 
+Louisiana_Iberia Parish, 29.98200 ,-91.80000 
+Louisiana_Iberville Parish, 30.32125 ,-91.26375 
+Louisiana_Jackson Parish, 32.29000 ,-92.62667 
+Louisiana_Jefferson Davis Parish, 30.24600 ,-92.71200 
+Louisiana_Jefferson Parish, 29.89176 ,-90.10529 
+Louisiana_La Salle Parish, 31.75500 ,-92.22750 
+Louisiana_Lafayette Parish, 30.20727 ,-92.03455 
+Louisiana_Lafourche Parish, 29.60111 ,-90.47333 
+Louisiana_Lincoln Parish, 32.56000 ,-92.65600 
+Louisiana_Livingston Parish, 30.44444 ,-90.75333 
+Louisiana_Madison Parish, 32.40000 ,-91.18000 
+Louisiana_Morehouse Parish, 32.78167 ,-91.75833 
+Louisiana_Natchitoches Parish, 31.80455 ,-93.08182 
+Louisiana_Orleans Parish, 30.05083 ,-89.94167 
+Louisiana_Ouachita Parish, 32.51625 ,-92.16750 
+Louisiana_Plaquemines Parish, 29.56833 ,-89.71833 
+Louisiana_Pointe Coupee Parish, 30.65846 ,-91.50769 
+Louisiana_Rapides Parish, 31.24000 ,-92.56737 
+Louisiana_Red River Parish, 32.09500 ,-93.32000 
+Louisiana_Richland Parish, 32.40667 ,-91.67000 
+Louisiana_Sabine Parish, 31.66143 ,-93.55714 
+Louisiana_St Bernard Parish, 29.91600 ,-89.85200 
+Louisiana_St Charles Parish, 29.91222 ,-90.38222 
+Louisiana_St Helena Parish, 30.76000 ,-90.72000 
+Louisiana_St James Parish, 30.02500 ,-90.76167 
+Louisiana_St John the Baptist Parish, 30.06800 ,-90.56600 
+Louisiana_St Landry Parish, 30.57200 ,-91.98800 
+Louisiana_St Martin Parish, 30.19500 ,-91.86500 
+Louisiana_St Mary Parish, 29.75750 ,-91.37000 
+Louisiana_St Tammany Parish, 30.40615 ,-89.97154 
+Louisiana_St. Mary Parish, 29.69000 ,-91.30000 
+Louisiana_Tangipahoa Parish, 30.61692 ,-90.44615 
+Louisiana_Tensas Parish, 31.88500 ,-91.37750 
+Louisiana_Terrebonne Parish, 29.54333 ,-90.75500 
+Louisiana_Union Parish, 32.83600 ,-92.51000 
+Louisiana_Vermilion Parish, 30.00800 ,-92.21000 
+Louisiana_Vernon Parish, 31.14750 ,-93.26625 
+Louisiana_Washington Parish, 30.88250 ,-90.02000 
+Louisiana_Webster Parish, 32.69778 ,-93.34333 
+Louisiana_West Baton Rouge Parish, 30.43000 ,-91.27750 
+Louisiana_West Carroll Parish, 32.73000 ,-91.43000 
+Louisiana_West Feliciana Parish, 30.78000 ,-91.37000 
+Louisiana_Winn Parish, 31.96500 ,-92.62500 
+Maine_Androscoggin, 44.15800 ,-70.19667 
+Maine_Aroostook, 46.64947 ,-68.21421 
+Maine_Cumberland, 43.79263 ,-70.32342 
+Maine_Franklin, 44.78929 ,-70.27571 
+Maine_Hancock, 44.39765 ,-68.44706 
+Maine_Kennebec, 44.38320 ,-69.79960 
+Maine_Knox, 44.10688 ,-69.14313 
+Maine_Lincoln, 43.96625 ,-69.55708 
+Maine_Oxford, 44.30214 ,-70.64464 
+Maine_Penobscot, 45.08750 ,-68.78300 
+Maine_Piscataquis, 45.28091 ,-69.30727 
+Maine_Sagadahoc, 43.94625 ,-69.85000 
+Maine_Somerset, 44.95727 ,-69.72409 
+Maine_Waldo, 44.49944 ,-69.12111 
+Maine_Washington, 44.91679 ,-67.48393 
+Maine_York, 43.43968 ,-70.69935 
+Maryland_Allegany, 39.58455 ,-78.82455 
+Maryland_Anne Arundel, 39.02343 ,-76.62486 
+Maryland_Baltimore, 39.42343 ,-76.59286 
+Maryland_Baltimore City, 39.29833 ,-76.60458 
+Maryland_Calvert, 38.55750 ,-76.54833 
+Maryland_Caroline, 38.92500 ,-75.80625 
+Maryland_Carroll, 39.53556 ,-77.00000 
+Maryland_Cecil, 39.57500 ,-75.97800 
+Maryland_Charles, 38.51842 ,-76.97263 
+Maryland_Dorchester, 38.45071 ,-76.03500 
+Maryland_Frederick, 39.44583 ,-77.41833 
+Maryland_Garrett, 39.54000 ,-79.25889 
+Maryland_Harford, 39.53778 ,-76.29778 
+Maryland_Howard, 39.23000 ,-76.89800 
+Maryland_Kent, 39.28375 ,-76.02500 
+Maryland_Montgomery, 39.09286 ,-77.13929 
+Maryland_Prince George's, 38.88794 ,-76.87559 
+Maryland_Queen Anne's, 39.05909 ,-76.03182 
+Maryland_Somerset, 38.10286 ,-75.79857 
+Maryland_St Mary's, 38.23565 ,-76.55348 
+Maryland_St. Mary's, 38.35000 ,-76.67000 
+Maryland_Talbot, 38.76500 ,-76.18583 
+Maryland_Washington, 39.59214 ,-77.75786 
+Maryland_Wicomico, 38.36462 ,-75.64923 
+Maryland_Worcester, 38.25000 ,-75.30200 
+Massachusetts_Barnstable, 41.69842 ,-70.29842 
+Massachusetts_Berkshire, 42.37000 ,-73.20346 
+Massachusetts_Bristol, 41.79941 ,-71.09588 
+Massachusetts_Dukes, 41.40500 ,-70.60750 
+Massachusetts_Essex, 42.64310 ,-70.95524 
+Massachusetts_Franklin, 42.58154 ,-72.56538 
+Massachusetts_Hampden, 42.11868 ,-72.54789 
+Massachusetts_Hampshire, 42.34727 ,-72.68500 
+Massachusetts_Middlesex, 42.45062 ,-71.30062 
+Massachusetts_Nantucket, 41.27000 ,-70.10000 
+Massachusetts_Norfolk, 42.18641 ,-71.16077 
+Massachusetts_Plymouth, 41.98633 ,-70.83300 
+Massachusetts_Suffolk, 42.34405 ,-71.06784 
+Massachusetts_Worcester, 42.30013 ,-71.83154 
+Michigan_Alcona, 44.66182 ,-83.52818 
+Michigan_Alger, 46.37000 ,-86.78000 
+Michigan_Allegan, 42.59231 ,-85.84923 
+Michigan_Alpena, 45.01250 ,-83.56250 
+Michigan_Antrim, 44.98125 ,-85.20375 
+Michigan_Arenac, 44.06429 ,-83.88714 
+Michigan_Baraga, 46.68143 ,-88.39000 
+Michigan_Barry, 42.61125 ,-85.28625 
+Michigan_Bay, 43.67556 ,-83.93778 
+Michigan_Benzie, 44.62667 ,-86.03333 
+Michigan_Berrien, 41.93895 ,-86.45316 
+Michigan_Branch, 41.93000 ,-85.04167 
+Michigan_Calhoun, 42.21333 ,-85.08417 
+Michigan_Cass, 41.90000 ,-85.94000 
+Michigan_Charlevoix, 45.29600 ,-85.17000 
+Michigan_Cheboygan, 45.42600 ,-84.57400 
+Michigan_Chippewa, 46.27214 ,-84.44857 
+Michigan_Clare, 43.92200 ,-84.91200 
+Michigan_Clinton, 42.93375 ,-84.58250 
+Michigan_Crawford, 44.71500 ,-84.71500 
+Michigan_Delta, 45.85000 ,-86.98222 
+Michigan_Dickinson, 45.89500 ,-87.94800 
+Michigan_Eaton, 42.61818 ,-84.81636 
+Michigan_Emmet, 45.55286 ,-84.82571 
+Michigan_Genesee, 43.00000 ,-83.68696 
+Michigan_Gladwin, 43.92000 ,-84.38333 
+Michigan_Gogebic, 46.40800 ,-89.79600 
+Michigan_Grand Traverse, 44.68333 ,-85.60333 
+Michigan_Gratiot, 43.30167 ,-84.62417 
+Michigan_Hillsdale, 41.92462 ,-84.56692 
+Michigan_Houghton, 47.00100 ,-88.63800 
+Michigan_Huron, 43.83929 ,-83.05500 
+Michigan_Ingham, 42.64900 ,-84.44900 
+Michigan_Ionia, 42.96364 ,-85.03909 
+Michigan_Iosco, 44.42000 ,-83.65857 
+Michigan_Iron, 46.07667 ,-88.51667 
+Michigan_Isabella, 43.60000 ,-84.85400 
+Michigan_Jackson, 42.23813 ,-84.43125 
+Michigan_Kalamazoo, 42.23588 ,-85.50588 
+Michigan_Kalkaska, 44.69000 ,-85.26250 
+Michigan_Kent, 42.99857 ,-85.61071 
+Michigan_Keweenaw, 47.29000 ,-88.38500 
+Michigan_Lake, 43.96400 ,-85.77400 
+Michigan_Lapeer, 43.07700 ,-83.22200 
+Michigan_Leelanau, 44.92875 ,-85.81250 
+Michigan_Lenawee, 41.89235 ,-84.04588 
+Michigan_Livingston, 42.57667 ,-83.90222 
+Michigan_Luce, 46.36000 ,-85.62000 
+Michigan_Mackinac, 46.02667 ,-85.05000 
+Michigan_Macomb, 42.60500 ,-82.93556 
+Michigan_Manistee, 44.36125 ,-86.09750 
+Michigan_Marquette, 46.44429 ,-87.60714 
+Michigan_Mason, 43.98333 ,-86.23833 
+Michigan_Mecosta, 43.62857 ,-85.30714 
+Michigan_Menominee, 45.54091 ,-87.55909 
+Michigan_Midland, 43.69000 ,-84.34400 
+Michigan_Missaukee, 44.27750 ,-85.10500 
+Michigan_Monroe, 41.89267 ,-83.49733 
+Michigan_Montcalm, 43.30067 ,-85.16000 
+Michigan_Montmorency, 45.03000 ,-84.02500 
+Michigan_Muskegon, 43.26692 ,-86.14385 
+Michigan_Newaygo, 43.54500 ,-85.78167 
+Michigan_Oakland, 42.59269 ,-83.31940 
+Michigan_Oceana, 43.63500 ,-86.29875 
+Michigan_Ogemaw, 44.32750 ,-84.07000 
+Michigan_Ontonagon, 46.65600 ,-89.29400 
+Michigan_Osceola, 43.93833 ,-85.37500 
+Michigan_Oscoda, 44.73200 ,-84.16200 
+Michigan_Otsego, 45.04667 ,-84.59667 
+Michigan_Ottawa, 42.97083 ,-85.99417 
+Michigan_Presque Isle, 45.32667 ,-83.85667 
+Michigan_Roscommon, 44.36500 ,-84.60250 
+Michigan_Saginaw, 43.34667 ,-84.01889 
+Michigan_Sanilac, 43.39133 ,-82.78600 
+Michigan_Schoolcraft, 46.13500 ,-86.04000 
+Michigan_Shiawassee, 42.93455 ,-84.09727 
+Michigan_St Clair, 42.89190 ,-82.62667 
+Michigan_St Joseph, 41.90000 ,-85.47889 
+Michigan_Tuscola, 43.44600 ,-83.38533 
+Michigan_Van Buren, 42.26917 ,-86.01833 
+Michigan_Washtenaw, 42.24286 ,-83.75571 
+Michigan_Wayne, 42.32571 ,-83.19657 
+Michigan_Wexford, 44.32600 ,-85.56400 
+Minnesota_Aitkin, 46.70000 ,-93.42500 
+Minnesota_Anoka, 45.15714 ,-93.23429 
+Minnesota_Becker, 46.90000 ,-95.74889 
+Minnesota_Beltrami, 47.76000 ,-94.77700 
+Minnesota_Benton, 45.67000 ,-94.05500 
+Minnesota_Big Stone, 45.39333 ,-96.41833 
+Minnesota_Blue Earth, 44.04100 ,-94.01800 
+Minnesota_Brown, 44.21600 ,-94.70800 
+Minnesota_Carlton, 46.59818 ,-92.62182 
+Minnesota_Carver, 44.82417 ,-93.78917 
+Minnesota_Cass, 46.91500 ,-94.34667 
+Minnesota_Chippewa, 44.98400 ,-95.64600 
+Minnesota_Chisago, 45.46500 ,-92.85500 
+Minnesota_Clay, 46.89917 ,-96.55583 
+Minnesota_Clearwater, 47.62400 ,-95.36800 
+Minnesota_Cook, 47.73500 ,-90.42333 
+Minnesota_Cottonwood, 43.97000 ,-95.16667 
+Minnesota_Crow Wing, 46.48615 ,-94.10769 
+Minnesota_Dakota, 44.79941 ,-93.09529 
+Minnesota_Dodge, 44.03000 ,-92.84333 
+Minnesota_Douglas, 45.90889 ,-95.47444 
+Minnesota_Faribault, 43.66600 ,-93.92200 
+Minnesota_Fillmore, 43.67833 ,-92.05667 
+Minnesota_Freeborn, 43.65444 ,-93.37111 
+Minnesota_Goodhue, 44.40400 ,-92.72800 
+Minnesota_Grant, 45.93143 ,-95.98143 
+Minnesota_Hennepin, 44.97000 ,-93.34104 
+Minnesota_Houston, 43.67429 ,-91.44143 
+Minnesota_Hubbard, 47.05600 ,-94.87200 
+Minnesota_Isanti, 45.62000 ,-93.27000 
+Minnesota_Itasca, 47.46778 ,-93.62722 
+Minnesota_Jackson, 43.66167 ,-95.18500 
+Minnesota_Kanabec, 45.85000 ,-93.35000 
+Minnesota_Kandiyohi, 45.10909 ,-95.02909 
+Minnesota_Kittson, 48.77125 ,-96.85375 
+Minnesota_Koochiching, 48.29714 ,-93.70143 
+Minnesota_Lac Qui Parle, 44.98400 ,-96.16200 
+Minnesota_Lake, 47.33500 ,-91.38250 
+Minnesota_Lake of the Woods, 48.73500 ,-94.76500 
+Minnesota_Le Sueur, 44.35000 ,-93.70889 
+Minnesota_Lincoln, 44.37400 ,-96.25400 
+Minnesota_Lyon, 44.40700 ,-95.84500 
+Minnesota_Mahnomen, 47.30250 ,-95.87250 
+Minnesota_Marshall, 48.32500 ,-96.56500 
+Minnesota_Martin, 43.66375 ,-94.58250 
+Minnesota_McLeod, 44.82500 ,-94.20375 
+Minnesota_Meeker, 45.14143 ,-94.50429 
+Minnesota_Mille Lacs, 45.89333 ,-93.59667 
+Minnesota_Morrison, 45.95222 ,-94.36333 
+Minnesota_Mower, 43.66000 ,-92.73538 
+Minnesota_Murray, 43.95571 ,-95.76000 
+Minnesota_Nicollet, 44.29000 ,-94.17200 
+Minnesota_Nobles, 43.64333 ,-95.77444 
+Minnesota_Norman, 47.29000 ,-96.59625 
+Minnesota_Olmsted, 44.00222 ,-92.43222 
+Minnesota_Otter Tail, 46.39474 ,-95.68053 
+Minnesota_Pennington, 48.08667 ,-96.06000 
+Minnesota_Pine, 46.10917 ,-92.88417 
+Minnesota_Pipestone, 44.02800 ,-96.16400 
+Minnesota_Polk, 47.67438 ,-96.25938 
+Minnesota_Pope, 45.65600 ,-95.48200 
+Minnesota_Ramsey, 44.94158 ,-93.09895 
+Minnesota_Red Lake, 47.85750 ,-96.03750 
+Minnesota_Redwood, 44.38154 ,-95.27231 
+Minnesota_Renville, 44.69600 ,-94.94400 
+Minnesota_Rice, 44.36500 ,-93.27875 
+Minnesota_Rock, 43.64778 ,-96.22333 
+Minnesota_Roseau, 48.76778 ,-95.67333 
+Minnesota_Scott, 44.66429 ,-93.47143 
+Minnesota_Sherburne, 45.41000 ,-93.82000 
+Minnesota_Sibley, 44.57000 ,-94.17667 
+Minnesota_St Louis, 47.28146 ,-92.40195 
+Minnesota_Stearns, 45.54667 ,-94.48571 
+Minnesota_Steele, 43.99500 ,-93.20250 
+Minnesota_Stevens, 45.58000 ,-95.98400 
+Minnesota_Swift, 45.25857 ,-95.66571 
+Minnesota_Todd, 46.08200 ,-94.93300 
+Minnesota_Traverse, 45.77750 ,-96.51500 
+Minnesota_Wabasha, 44.28667 ,-92.23222 
+Minnesota_Wadena, 46.52833 ,-95.00000 
+Minnesota_Waseca, 44.00250 ,-93.59500 
+Minnesota_Washington, 45.00375 ,-92.93250 
+Minnesota_Watonwan, 43.93333 ,-94.61333 
+Minnesota_Wilkin, 46.30143 ,-96.46857 
+Minnesota_Winona, 44.01250 ,-91.79500 
+Minnesota_Wright, 45.17733 ,-93.89600 
+Minnesota_Yellow Medicine, 44.70143 ,-95.75714 
+Mississippi_Adams, 31.54000 ,-91.38000 
+Mississippi_Alcorn, 34.85000 ,-88.51333 
+Mississippi_Amite, 31.22667 ,-90.83000 
+Mississippi_Attala, 33.08750 ,-89.53250 
+Mississippi_Benton, 34.83250 ,-89.22750 
+Mississippi_Bolivar, 33.83000 ,-90.81077 
+Mississippi_Calhoun, 33.93333 ,-89.32667 
+Mississippi_Carroll, 33.44500 ,-89.87000 
+Mississippi_Chickasaw, 33.92500 ,-88.95250 
+Mississippi_Choctaw, 33.34750 ,-89.24000 
+Mississippi_Claiborne, 31.94000 ,-90.86000 
+Mississippi_Clarke, 32.04800 ,-88.78000 
+Mississippi_Clay, 33.60000 ,-88.80667 
+Mississippi_Coahoma, 34.25667 ,-90.54333 
+Mississippi_Copiah, 31.85000 ,-90.32250 
+Mississippi_Covington, 31.64333 ,-89.56333 
+Mississippi_DeSoto, 34.92500 ,-90.02125 
+Mississippi_Forrest, 31.21000 ,-89.26000 
+Mississippi_Franklin, 31.48750 ,-90.89000 
+Mississippi_George, 30.92000 ,-88.59000 
+Mississippi_Greene, 31.19750 ,-88.64250 
+Mississippi_Grenada, 33.74333 ,-89.78000 
+Mississippi_Hancock, 30.32600 ,-89.45600 
+Mississippi_Harrison, 30.40500 ,-89.02500 
+Mississippi_Hinds, 32.29500 ,-90.28389 
+Mississippi_Holmes, 33.10429 ,-89.99857 
+Mississippi_Humphreys, 33.12500 ,-90.53750 
+Mississippi_Itawamba, 34.32250 ,-88.32750 
+Mississippi_Jackson, 30.39143 ,-88.62143 
+Mississippi_Jasper, 31.98429 ,-89.11714 
+Mississippi_Jefferson, 31.74000 ,-91.02333 
+Mississippi_Jefferson Davis, 31.54333 ,-89.79667 
+Mississippi_Jones, 31.61333 ,-89.18333 
+Mississippi_Kemper, 32.77250 ,-88.60000 
+Mississippi_Lafayette, 34.30600 ,-89.48400 
+Mississippi_Lamar, 31.21500 ,-89.42250 
+Mississippi_Lauderdale, 32.44667 ,-88.65444 
+Mississippi_Lawrence, 31.56167 ,-90.08500 
+Mississippi_Leake, 32.66500 ,-89.49000 
+Mississippi_Lee, 34.27625 ,-88.69500 
+Mississippi_Leflore, 33.55600 ,-90.27600 
+Mississippi_Lincoln, 31.46000 ,-90.39333 
+Mississippi_Lowndes, 33.50833 ,-88.40833 
+Mississippi_Madison, 32.56400 ,-90.08800 
+Mississippi_Marion, 31.23000 ,-89.91667 
+Mississippi_Marshall, 34.74600 ,-89.49200 
+Mississippi_Monroe, 33.92625 ,-88.45500 
+Mississippi_Montgomery, 33.51333 ,-89.66333 
+Mississippi_Neshoba, 32.77000 ,-89.10000 
+Mississippi_Newton, 32.39875 ,-89.13000 
+Mississippi_Noxubee, 33.10333 ,-88.56667 
+Mississippi_Oktibbeha, 33.39500 ,-88.93000 
+Mississippi_Panola, 34.36667 ,-89.97500 
+Mississippi_Pearl River, 30.65000 ,-89.58667 
+Mississippi_Perry, 31.23667 ,-88.96000 
+Mississippi_Pike, 31.16750 ,-90.46250 
+Mississippi_Pontotoc, 34.26750 ,-89.08750 
+Mississippi_Prentiss, 34.55500 ,-88.51750 
+Mississippi_Quitman, 34.26833 ,-90.27833 
+Mississippi_Rankin, 32.28286 ,-90.07429 
+Mississippi_Scott, 32.38000 ,-89.53200 
+Mississippi_Sharkey, 32.89000 ,-90.87000 
+Mississippi_Simpson, 31.92600 ,-89.93400 
+Mississippi_Smith, 31.90667 ,-89.50000 
+Mississippi_Stone, 30.77667 ,-89.14667 
+Mississippi_Sunflower, 33.56286 ,-90.55143 
+Mississippi_Tallahatchie, 33.93143 ,-90.18286 
+Mississippi_Tate, 34.63333 ,-90.02000 
+Mississippi_Tippah, 34.78333 ,-88.92333 
+Mississippi_Tishomingo, 34.66600 ,-88.22000 
+Mississippi_Tunica, 34.66667 ,-90.38000 
+Mississippi_Union, 34.47500 ,-89.05000 
+Mississippi_Walthall, 31.07000 ,-89.97000 
+Mississippi_Warren, 32.38000 ,-90.84333 
+Mississippi_Washington, 33.24000 ,-90.98833 
+Mississippi_Wayne, 31.60000 ,-88.58000 
+Mississippi_Webster, 33.59000 ,-89.24333 
+Mississippi_Wilkinson, 31.15000 ,-91.13667 
+Mississippi_Winston, 33.05500 ,-89.05500 
+Mississippi_Yalobusha, 34.01800 ,-89.79600 
+Mississippi_Yazoo, 32.76857 ,-90.40000 
+Missouri_Adair, 40.20000 ,-92.52200 
+Missouri_Andrew, 39.97875 ,-94.80500 
+Missouri_Atchison, 40.43800 ,-95.44400 
+Missouri_Audrain, 39.19750 ,-91.70875 
+Missouri_Barry, 36.65111 ,-93.83889 
+Missouri_Barton, 37.47500 ,-94.36250 
+Missouri_Bates, 38.22143 ,-94.39714 
+Missouri_Benton, 38.37333 ,-93.25333 
+Missouri_Bollinger, 37.26500 ,-90.01875 
+Missouri_Boone, 38.98818 ,-92.30727 
+Missouri_Buchanan, 39.69909 ,-94.83818 
+Missouri_Butler, 36.67667 ,-90.35833 
+Missouri_Caldwell, 39.66000 ,-93.95429 
+Missouri_Callaway, 38.77600 ,-91.90100 
+Missouri_Camden, 38.03400 ,-92.74300 
+Missouri_Cape Girardeau, 37.41400 ,-89.72300 
+Missouri_Carroll, 39.44000 ,-93.43000 
+Missouri_Carter, 36.91250 ,-90.93250 
+Missouri_Cass, 38.64273 ,-94.39182 
+Missouri_Cedar, 37.69750 ,-93.84500 
+Missouri_Chariton, 39.50500 ,-93.05750 
+Missouri_Christian, 36.95667 ,-93.20667 
+Missouri_Clark, 40.41500 ,-91.70167 
+Missouri_Clay, 39.16824 ,-94.52176 
+Missouri_Clinton, 39.59167 ,-94.41333 
+Missouri_Cole, 38.48500 ,-92.31000 
+Missouri_Cooper, 38.85571 ,-92.79000 
+Missouri_Crawford, 37.99125 ,-91.29000 
+Missouri_Dade, 37.41833 ,-93.81167 
+Missouri_Dallas, 37.73000 ,-93.03667 
+Missouri_Daviess, 39.96571 ,-94.01286 
+Missouri_Dekalb, 39.86250 ,-94.41875 
+Missouri_Dent, 37.60000 ,-91.51000 
+Missouri_Douglas, 36.92000 ,-92.47500 
+Missouri_Dunklin, 36.25700 ,-90.07900 
+Missouri_Franklin, 38.43824 ,-90.97353 
+Missouri_Gasconade, 38.43400 ,-91.51200 
+Missouri_Gentry, 40.18833 ,-94.40333 
+Missouri_Greene, 37.22063 ,-93.32563 
+Missouri_Grundy, 40.11500 ,-93.50250 
+Missouri_Harrison, 40.35750 ,-94.02625 
+Missouri_Henry, 38.40857 ,-93.79857 
+Missouri_Hickory, 37.93714 ,-93.35143 
+Missouri_Holt, 40.09600 ,-95.19800 
+Missouri_Howard, 39.12800 ,-92.74000 
+Missouri_Howell, 36.76556 ,-91.91333 
+Missouri_Iron, 37.53778 ,-90.76222 
+Missouri_Jackson, 39.05411 ,-94.47554 
+Missouri_Jasper, 37.16400 ,-94.38900 
+Missouri_Jefferson, 38.30692 ,-90.47769 
+Missouri_Johnson, 38.69875 ,-93.78125 
+Missouri_Knox, 40.09429 ,-92.13286 
+Missouri_Laclede, 37.60500 ,-92.61000 
+Missouri_Lafayette, 39.09083 ,-93.78500 
+Missouri_Lawrence, 37.05125 ,-93.84875 
+Missouri_Lewis, 40.07500 ,-91.71375 
+Missouri_Lincoln, 39.01625 ,-90.88250 
+Missouri_Linn, 39.84778 ,-93.08111 
+Missouri_Livingston, 39.75667 ,-93.57500 
+Missouri_Macon, 39.81300 ,-92.55700 
+Missouri_Madison, 37.49000 ,-90.22500 
+Missouri_Maries, 38.20000 ,-91.93000 
+Missouri_Marion, 39.84000 ,-91.55000 
+Missouri_McDonald, 36.63889 ,-94.35667 
+Missouri_Mercer, 40.44667 ,-93.62333 
+Missouri_Miller, 38.21000 ,-92.45000 
+Missouri_Mississippi, 36.86000 ,-89.38333 
+Missouri_Moniteau, 38.63833 ,-92.65333 
+Missouri_Monroe, 39.46800 ,-92.00400 
+Missouri_Montgomery, 38.93625 ,-91.43000 
+Missouri_Morgan, 38.43571 ,-92.83714 
+Missouri_New Madrid, 36.56667 ,-89.69000 
+Missouri_Newton, 36.91375 ,-94.29625 
+Missouri_Nodaway, 40.34467 ,-94.84667 
+Missouri_Oregon, 36.58000 ,-91.44200 
+Missouri_Osage, 38.47222 ,-91.90333 
+Missouri_Ozark, 36.63643 ,-92.43214 
+Missouri_Pemiscot, 36.21800 ,-89.79200 
+Missouri_Perry, 37.64750 ,-89.69500 
+Missouri_Pettis, 38.74833 ,-93.29667 
+Missouri_Phelps, 37.82000 ,-91.85571 
+Missouri_Pike, 39.37500 ,-91.10000 
+Missouri_Platte, 39.23917 ,-94.65500 
+Missouri_Polk, 37.61500 ,-93.41500 
+Missouri_Pulaski, 37.84125 ,-92.19750 
+Missouri_Putnam, 40.47200 ,-92.99200 
+Missouri_Ralls, 39.54000 ,-91.57500 
+Missouri_Randolph, 39.42000 ,-92.48429 
+Missouri_Ray, 39.27714 ,-94.01857 
+Missouri_Reynolds, 37.40167 ,-90.96333 
+Missouri_Ripley, 36.60667 ,-90.79500 
+Missouri_Saline, 39.14000 ,-93.22000 
+Missouri_Schuyler, 40.50200 ,-92.53200 
+Missouri_Scotland, 40.40800 ,-92.04400 
+Missouri_Scott, 37.09000 ,-89.59600 
+Missouri_Shannon, 37.04333 ,-91.39000 
+Missouri_Shelby, 39.77000 ,-92.04625 
+Missouri_St Charles, 38.77538 ,-90.64154 
+Missouri_St Clair, 38.06500 ,-93.76500 
+Missouri_St Francois, 37.85875 ,-90.50125 
+Missouri_St Louis, 38.64364 ,-90.33250 
+Missouri_St Louis City, 38.63000 ,-90.24000 
+Missouri_St. Clair, 37.98000 ,-93.66000 
+Missouri_St. Louis City, 38.63000 ,-90.24000 
+Missouri_Ste Genevieve, 37.95000 ,-90.06333 
+Missouri_Stoddard, 36.84556 ,-89.93111 
+Missouri_Stone, 36.71625 ,-93.44000 
+Missouri_Sullivan, 40.23875 ,-93.11375 
+Missouri_Taney, 36.65067 ,-93.05867 
+Missouri_Texas, 37.31400 ,-91.94933 
+Missouri_Vernon, 37.85000 ,-94.36091 
+Missouri_Warren, 38.81500 ,-91.11250 
+Missouri_Washington, 37.95333 ,-90.73778 
+Missouri_Wayne, 37.11583 ,-90.43250 
+Missouri_Webster, 37.28800 ,-92.89200 
+Missouri_Worth, 40.44500 ,-94.44500 
+Missouri_Wright, 37.19714 ,-92.44571 
+Montana_Beaverhead, 45.25667 ,-112.99500 
+Montana_Big Horn, 45.38875 ,-107.36250 
+Montana_Blaine, 48.53667 ,-108.87667 
+Montana_Broadwater, 46.28333 ,-111.49333 
+Montana_Carbon, 45.28222 ,-109.01333 
+Montana_Carter, 45.46200 ,-104.57200 
+Montana_Cascade, 47.38333 ,-111.26933 
+Montana_Chouteau, 47.86333 ,-110.55500 
+Montana_Custer, 46.25250 ,-105.50750 
+Montana_Daniels, 48.78500 ,-105.45000 
+Montana_Dawson, 47.38750 ,-104.98000 
+Montana_Deer Lodge, 46.12000 ,-112.97000 
+Montana_Fallon, 46.34500 ,-104.42000 
+Montana_Fergus, 47.19500 ,-109.39800 
+Montana_Flathead, 48.29400 ,-114.27500 
+Montana_Gallatin, 45.56625 ,-111.17875 
+Montana_Garfield, 47.22800 ,-107.27200 
+Montana_Glacier, 48.62000 ,-113.05500 
+Montana_Golden Valley, 46.41500 ,-109.19000 
+Montana_Granite, 46.47667 ,-113.31667 
+Montana_Hill, 48.54000 ,-110.26143 
+Montana_Jefferson, 46.06000 ,-112.05500 
+Montana_Judith Basin, 47.08400 ,-110.30000 
+Montana_Lake, 47.62667 ,-114.17667 
+Montana_Lewis and Clark, 46.78714 ,-112.15714 
+Montana_Liberty, 48.67750 ,-111.27500 
+Montana_Lincoln, 48.66500 ,-115.29000 
+Montana_Madison, 45.38571 ,-111.96714 
+Montana_McCone, 47.49667 ,-105.68333 
+Montana_Meagher, 46.52000 ,-110.76500 
+Montana_Mineral, 47.16000 ,-115.05000 
+Montana_Missoula, 46.96500 ,-113.97000 
+Montana_Musselshell, 46.43000 ,-108.28000 
+Montana_Park, 45.39833 ,-110.56667 
+Montana_Petroleum, 47.07000 ,-108.41500 
+Montana_Phillips, 48.39000 ,-107.94667 
+Montana_Pondera, 48.19500 ,-111.81250 
+Montana_Powder River, 45.40600 ,-105.53200 
+Montana_Powell, 46.70200 ,-112.90800 
+Montana_Prairie, 46.79333 ,-105.03000 
+Montana_Ravalli, 46.19750 ,-114.06875 
+Montana_Richland, 47.79000 ,-104.42400 
+Montana_Roosevelt, 48.26400 ,-104.86600 
+Montana_Rosebud, 46.14571 ,-106.55429 
+Montana_Sanders, 47.69000 ,-115.13250 
+Montana_Sheridan, 48.65000 ,-104.49000 
+Montana_Silver Bow, 45.89333 ,-112.62667 
+Montana_Stillwater, 45.62375 ,-109.38500 
+Montana_Sweet Grass, 45.81000 ,-109.90750 
+Montana_Teton, 47.86500 ,-112.10833 
+Montana_Toole, 48.75833 ,-111.68167 
+Montana_Treasure, 46.09333 ,-107.16667 
+Montana_Valley, 48.46000 ,-106.45200 
+Montana_Wheatland, 46.49667 ,-109.77000 
+Montana_Wibaux, 47.01000 ,-104.32000 
+Montana_Yellowstone, 45.90538 ,-108.36615 
+Nebraska_Adams, 40.52167 ,-98.53000 
+Nebraska_Antelope, 42.19143 ,-98.08143 
+Nebraska_Arthur, 41.57000 ,-101.69000 
+Nebraska_Banner, 41.55000 ,-103.74000 
+Nebraska_Blaine, 41.94000 ,-100.07333 
+Nebraska_Boone, 41.65400 ,-98.06000 
+Nebraska_Box Butte, 42.21000 ,-102.97000 
+Nebraska_Boyd, 42.88000 ,-98.73400 
+Nebraska_Brown, 42.54667 ,-99.86667 
+Nebraska_Buffalo, 40.80364 ,-99.10455 
+Nebraska_Burt, 41.86200 ,-96.35200 
+Nebraska_Butler, 41.21111 ,-97.11667 
+Nebraska_Cass, 40.88167 ,-96.16083 
+Nebraska_Cedar, 42.56750 ,-97.23250 
+Nebraska_Chase, 40.45500 ,-101.55750 
+Nebraska_Cherry, 42.80111 ,-100.77333 
+Nebraska_Cheyenne, 41.24000 ,-102.97000 
+Nebraska_Clay, 40.51182 ,-98.06273 
+Nebraska_Colfax, 41.60800 ,-97.06200 
+Nebraska_Cuming, 41.93750 ,-96.74500 
+Nebraska_Custer, 41.40182 ,-99.61727 
+Nebraska_Dakota, 42.38000 ,-96.53000 
+Nebraska_Dawes, 42.68000 ,-103.24000 
+Nebraska_Dawson, 40.85250 ,-99.85000 
+Nebraska_Deuel, 41.07500 ,-102.26500 
+Nebraska_Dixon, 42.47625 ,-96.86875 
+Nebraska_Dodge, 41.55286 ,-96.63429 
+Nebraska_Douglas, 41.26594 ,-96.04000 
+Nebraska_Dundy, 40.05250 ,-101.64750 
+Nebraska_Fillmore, 40.51625 ,-97.55750 
+Nebraska_Franklin, 40.18000 ,-98.93286 
+Nebraska_Frontier, 40.63000 ,-100.38600 
+Nebraska_Furnas, 40.21714 ,-99.96143 
+Nebraska_Gage, 40.24833 ,-96.64250 
+Nebraska_Garden, 41.41000 ,-102.36667 
+Nebraska_Garfield, 41.78000 ,-99.13000 
+Nebraska_Gosper, 40.57500 ,-99.80000 
+Nebraska_Grant, 42.02000 ,-101.74000 
+Nebraska_Greeley, 41.52000 ,-98.49500 
+Nebraska_Hall, 40.88167 ,-98.45667 
+Nebraska_Hamilton, 40.91167 ,-98.02167 
+Nebraska_Harlan, 40.14200 ,-99.45000 
+Nebraska_Hayes, 40.42500 ,-101.06000 
+Nebraska_Hitchcock, 40.18000 ,-101.02000 
+Nebraska_Holt, 42.39000 ,-98.72444 
+Nebraska_Hooker, 42.04000 ,-101.04000 
+Nebraska_Howard, 41.16167 ,-98.54000 
+Nebraska_Jefferson, 40.14875 ,-97.10875 
+Nebraska_Johnson, 40.39000 ,-96.25000 
+Nebraska_Kearney, 40.47250 ,-99.00250 
+Nebraska_Keith, 41.16800 ,-101.66800 
+Nebraska_Keya Paha, 42.88000 ,-99.57000 
+Nebraska_Kimball, 41.23000 ,-103.67333 
+Nebraska_Knox, 42.59000 ,-97.80625 
+Nebraska_Lancaster, 40.78500 ,-96.67794 
+Nebraska_Lincoln, 40.99000 ,-100.83125 
+Nebraska_Logan, 41.47000 ,-100.51000 
+Nebraska_Loup, 41.76000 ,-99.38000 
+Nebraska_Madison, 41.94000 ,-97.63000 
+Nebraska_McPherson, 41.55000 ,-100.94000 
+Nebraska_Merrick, 41.17500 ,-97.99667 
+Nebraska_Morrill, 41.71750 ,-103.09000 
+Nebraska_Nance, 41.42333 ,-97.92000 
+Nebraska_Nemaha, 40.41000 ,-95.83286 
+Nebraska_Nuckolls, 40.14833 ,-98.00833 
+Nebraska_Otoe, 40.63300 ,-96.15700 
+Nebraska_Pawnee, 40.14833 ,-96.20667 
+Nebraska_Perkins, 40.82000 ,-101.67000 
+Nebraska_Phelps, 40.47250 ,-99.43500 
+Nebraska_Pierce, 42.31750 ,-97.58750 
+Nebraska_Platte, 41.58500 ,-97.49333 
+Nebraska_Polk, 41.13500 ,-97.58250 
+Nebraska_Red Willow, 40.15000 ,-100.40000 
+Nebraska_Richardson, 40.13375 ,-95.70750 
+Nebraska_Rock, 42.59000 ,-99.42500 
+Nebraska_Saline, 40.49375 ,-97.10125 
+Nebraska_Sarpy, 41.16385 ,-96.01692 
+Nebraska_Saunders, 41.21000 ,-96.60786 
+Nebraska_Scotts Bluff, 41.88333 ,-103.76167 
+Nebraska_Seward, 40.88000 ,-97.11125 
+Nebraska_Sheridan, 42.38667 ,-102.35667 
+Nebraska_Sherman, 41.17200 ,-98.96000 
+Nebraska_Sioux, 42.68000 ,-103.88000 
+Nebraska_Stanton, 41.97000 ,-97.13500 
+Nebraska_Thayer, 40.17200 ,-97.61300 
+Nebraska_Thomas, 41.97000 ,-100.55333 
+Nebraska_Thurston, 42.13500 ,-96.53833 
+Nebraska_Valley, 41.54500 ,-98.95250 
+Nebraska_Washington, 41.49500 ,-96.18500 
+Nebraska_Wayne, 42.19500 ,-97.16750 
+Nebraska_Webster, 40.17800 ,-98.50000 
+Nebraska_Wheeler, 41.83000 ,-98.61000 
+Nebraska_York, 40.88143 ,-97.59857 
+Nevada_Carson City, 39.17000 ,-119.76000 
+Nevada_Churchill, 39.50000 ,-118.29000 
+Nevada_Clark, 36.11534 ,-115.10959 
+Nevada_Douglas, 38.91167 ,-119.70333 
+Nevada_Elko, 41.13000 ,-115.56100 
+Nevada_Esmeralda, 37.60500 ,-117.72000 
+Nevada_Eureka, 40.17000 ,-116.27500 
+Nevada_Humboldt, 41.22667 ,-117.79333 
+Nevada_Lander, 40.00500 ,-117.11000 
+Nevada_Lincoln, 37.39000 ,-114.77600 
+Nevada_Lyon, 39.19200 ,-119.25200 
+Nevada_Mineral, 38.56000 ,-118.56500 
+Nevada_Nye, 37.32286 ,-116.29714 
+Nevada_Pershing, 40.45500 ,-118.13000 
+Nevada_Washoe, 39.52684 ,-119.76947 
+Nevada_White Pine, 39.16000 ,-114.60000 
+New Hampshire_Belknap, 43.48857 ,-71.39857 
+New Hampshire_Carroll, 43.84654 ,-71.18538 
+New Hampshire_Cheshire, 42.93000 ,-72.27250 
+New Hampshire_Coos, 44.59500 ,-71.38333 
+New Hampshire_Grafton, 43.90788 ,-71.90848 
+New Hampshire_Hillsborough, 42.88618 ,-71.64412 
+New Hampshire_Merrimack, 43.29625 ,-71.67167 
+New Hampshire_Rockingham, 42.97229 ,-71.06257 
+New Hampshire_Strafford, 43.29118 ,-70.99353 
+New Hampshire_Sullivan, 43.35286 ,-72.22500 
+New Jersey_Atlantic, 39.43500 ,-74.64958 
+New Jersey_Bergen, 40.92182 ,-74.05182 
+New Jersey_Burlington, 40.01107 ,-74.78250 
+New Jersey_Camden, 39.86000 ,-75.02394 
+New Jersey_Cape May, 39.10333 ,-74.77417 
+New Jersey_Cumberland, 39.33500 ,-75.07083 
+New Jersey_Essex, 40.77032 ,-74.22226 
+New Jersey_Gloucester, 39.74920 ,-75.15360 
+New Jersey_Hudson, 40.73176 ,-74.05647 
+New Jersey_Hunterdon, 40.58350 ,-74.92500 
+New Jersey_Mercer, 40.25750 ,-74.73650 
+New Jersey_Middlesex, 40.47889 ,-74.38000 
+New Jersey_Monmouth, 40.28653 ,-74.11755 
+New Jersey_Morris, 40.85681 ,-74.49149 
+New Jersey_Ocean, 39.90192 ,-74.20346 
+New Jersey_Passaic, 40.94185 ,-74.20481 
+New Jersey_Salem, 39.65000 ,-75.38833 
+New Jersey_Somerset, 40.56167 ,-74.58625 
+New Jersey_Sussex, 41.11211 ,-74.64895 
+New Jersey_Union, 40.65808 ,-74.30462 
+New Jersey_Warren, 40.81889 ,-75.01111 
+New Mexico_Bernalillo, 35.11045 ,-106.58545 
+New Mexico_Catron, 33.94500 ,-108.51333 
+New Mexico_Chaves, 33.10000 ,-104.57833 
+New Mexico_Cibola, 35.01000 ,-107.92600 
+New Mexico_Colfax, 36.53000 ,-104.75500 
+New Mexico_Curry, 34.49429 ,-103.34429 
+New Mexico_De Baca, 34.44667 ,-104.27667 
+New Mexico_Dona Ana, 32.28056 ,-106.76667 
+New Mexico_Eddy, 32.58250 ,-104.37000 
+New Mexico_Grant, 32.81875 ,-108.19625 
+New Mexico_Guadalupe, 35.09000 ,-104.82250 
+New Mexico_Harding, 35.90750 ,-104.11250 
+New Mexico_Hidalgo, 32.14000 ,-108.76500 
+New Mexico_Lea, 32.90333 ,-103.35778 
+New Mexico_Lincoln, 33.48769 ,-105.48923 
+New Mexico_Los Alamos, 35.89000 ,-106.28000 
+New Mexico_Luna, 32.26000 ,-107.75000 
+New Mexico_McKinley, 35.47143 ,-108.49143 
+New Mexico_Mora, 36.03222 ,-105.16000 
+New Mexico_Otero, 32.94700 ,-105.79500 
+New Mexico_Quay, 35.08250 ,-103.52375 
+New Mexico_Rio Arriba, 36.33333 ,-106.38444 
+New Mexico_Roosevelt, 33.88714 ,-103.30000 
+New Mexico_San Juan, 36.76833 ,-108.14750 
+New Mexico_San Miguel, 35.57583 ,-105.22417 
+New Mexico_Sandoval, 35.58059 ,-106.63294 
+New Mexico_Santa Fe, 35.53455 ,-105.98455 
+New Mexico_Sierra, 33.06000 ,-107.36750 
+New Mexico_Socorro, 34.21444 ,-106.89333 
+New Mexico_Taos, 36.33900 ,-105.67500 
+New Mexico_Torrance, 34.64833 ,-105.92000 
+New Mexico_Union, 36.46625 ,-103.59500 
+New Mexico_Valencia, 34.74800 ,-106.72800 
+New York_Albany, 42.61553 ,-73.88237 
+New York_Allegany, 42.23739 ,-78.02870 
+New York_Bronx, 40.84000 ,-73.87000 
+New York_Broome, 42.14667 ,-75.84810 
+New York_Cattaraugus, 42.28250 ,-78.66042 
+New York_Cayuga, 42.90929 ,-76.58714 
+New York_Chautauqua, 42.24269 ,-79.36577 
+New York_Chemung, 42.11063 ,-76.76813 
+New York_Chenango, 42.50389 ,-75.59167 
+New York_Clinton, 44.74609 ,-73.64565 
+New York_Columbia, 42.27577 ,-73.60462 
+New York_Cortland, 42.58750 ,-76.05500 
+New York_Delaware, 42.23935 ,-74.89226 
+New York_Dutchess, 41.75034 ,-73.76172 
+New York_Erie, 42.80839 ,-78.77887 
+New York_Essex, 44.12679 ,-73.69036 
+New York_Franklin, 44.70667 ,-74.35111 
+New York_Fulton, 43.09222 ,-74.43667 
+New York_Genesee, 42.98692 ,-78.17385 
+New York_Greene, 42.29697 ,-74.07485 
+New York_Hamilton, 43.67667 ,-74.45889 
+New York_Herkimer, 43.16857 ,-74.98143 
+New York_Jefferson, 44.02931 ,-75.92483 
+New York_Kings, 40.64114 ,-73.94091 
+New York_Lewis, 43.73000 ,-75.42750 
+New York_Livingston, 42.74588 ,-77.79412 
+New York_Madison, 42.87909 ,-75.68227 
+New York_Monroe, 43.13927 ,-77.63098 
+New York_Montgomery, 42.92444 ,-74.39111 
+New York_Nassau, 40.72652 ,-73.60899 
+New York_New York, 40.71214 ,-73.98929 
+New York_Niagara, 43.19235 ,-78.81647 
+New York_Oneida, 43.17850 ,-75.39750 
+New York_Onondaga, 43.03282 ,-76.17487 
+New York_Ontario, 42.86250 ,-77.32875 
+New York_Orange, 41.39541 ,-74.28405 
+New York_Orleans, 43.27250 ,-78.21750 
+New York_Oswego, 43.40750 ,-76.13250 
+New York_Otsego, 42.61400 ,-75.00933 
+New York_Putnam, 41.38875 ,-73.77875 
+New York_Queens, 40.71594 ,-73.81953 
+New York_Rensselaer, 42.68600 ,-73.55800 
+New York_Richmond, 40.58000 ,-74.14000 
+New York_Rockland, 41.12577 ,-73.99462 
+New York_Saratoga, 43.04667 ,-73.79857 
+New York_Schenectady, 42.80462 ,-73.98000 
+New York_Schoharie, 42.62056 ,-74.44722 
+New York_Schuyler, 42.36800 ,-76.85900 
+New York_Seneca, 42.74167 ,-76.80667 
+New York_St Lawrence, 44.56167 ,-75.11444 
+New York_Steuben, 42.27125 ,-77.38875 
+New York_Suffolk, 40.84422 ,-72.97556 
+New York_Sullivan, 41.69279 ,-74.78140 
+New York_Tioga, 42.15917 ,-76.41250 
+New York_Tompkins, 42.46100 ,-76.44600 
+New York_Ulster, 41.88159 ,-74.17295 
+New York_Warren, 43.54889 ,-73.76222 
+New York_Washington, 43.34211 ,-73.40211 
+New York_Wayne, 43.15333 ,-77.04133 
+New York_Westchester, 41.09884 ,-73.77304 
+New York_Wyoming, 42.69353 ,-78.23647 
+New York_Yates, 42.65000 ,-77.07333 
+North Carolina_Alamance, 36.05000 ,-79.40286 
+North Carolina_Alexander, 35.89333 ,-81.10000 
+North Carolina_Alleghany, 36.48667 ,-81.11833 
+North Carolina_Anson, 34.95400 ,-80.10000 
+North Carolina_Ashe, 36.42545 ,-81.47182 
+North Carolina_Avery, 36.07750 ,-81.85750 
+North Carolina_Beaufort, 35.47000 ,-76.84889 
+North Carolina_Bertie, 36.13143 ,-77.02857 
+North Carolina_Bladen, 34.56857 ,-78.61714 
+North Carolina_Brunswick, 34.00833 ,-78.29250 
+North Carolina_Buncombe, 35.58625 ,-82.52750 
+North Carolina_Burke, 35.71250 ,-81.53750 
+North Carolina_Cabarrus, 35.38857 ,-80.57286 
+North Carolina_Caldwell, 35.84667 ,-81.47667 
+North Carolina_Camden, 36.34333 ,-76.18667 
+North Carolina_Carteret, 34.78000 ,-76.61929 
+North Carolina_Caswell, 36.44143 ,-79.28571 
+North Carolina_Catawba, 35.66111 ,-81.16000 
+North Carolina_Chatham, 35.63500 ,-79.31833 
+North Carolina_Cherokee, 35.11500 ,-83.91750 
+North Carolina_Chowan, 36.15000 ,-76.61500 
+North Carolina_Clay, 35.01500 ,-83.85500 
+North Carolina_Cleveland, 35.31500 ,-81.50667 
+North Carolina_Columbus, 34.28615 ,-78.66385 
+North Carolina_Craven, 35.12750 ,-77.10625 
+North Carolina_Cumberland, 35.06929 ,-78.85286 
+North Carolina_Currituck, 36.31400 ,-75.92467 
+North Carolina_Dare, 35.89857 ,-75.71429 
+North Carolina_Davidson, 35.77200 ,-80.19800 
+North Carolina_Davie, 35.91000 ,-80.47500 
+North Carolina_Duplin, 34.93636 ,-77.96818 
+North Carolina_Durham, 36.00111 ,-78.90667 
+North Carolina_Edgecombe, 35.88200 ,-77.61000 
+North Carolina_Forsyth, 36.12813 ,-80.24750 
+North Carolina_Franklin, 36.05000 ,-78.30200 
+North Carolina_Gaston, 35.28769 ,-81.14231 
+North Carolina_Gates, 36.43833 ,-76.68833 
+North Carolina_Graham, 35.37000 ,-83.72333 
+North Carolina_Granville, 36.22667 ,-78.66333 
+North Carolina_Greene, 35.48667 ,-77.64667 
+North Carolina_Guilford, 36.06417 ,-79.81917 
+North Carolina_Halifax, 36.29000 ,-77.64000 
+North Carolina_Harnett, 35.35111 ,-78.84333 
+North Carolina_Haywood, 35.53500 ,-82.97000 
+North Carolina_Henderson, 35.32700 ,-82.48100 
+North Carolina_Hertford, 36.37333 ,-76.95000 
+North Carolina_Hoke, 34.97000 ,-79.22000 
+North Carolina_Hyde, 35.52250 ,-76.24250 
+North Carolina_Iredell, 35.79000 ,-80.84375 
+North Carolina_Jackson, 35.25286 ,-83.13571 
+North Carolina_Johnston, 35.53444 ,-78.34667 
+North Carolina_Jones, 35.03000 ,-77.28500 
+North Carolina_Lee, 35.41500 ,-79.15500 
+North Carolina_Lenoir, 35.20800 ,-77.67800 
+North Carolina_Lincoln, 35.47800 ,-81.22200 
+North Carolina_Macon, 35.10800 ,-83.39200 
+North Carolina_Madison, 35.83333 ,-82.68333 
+North Carolina_Martin, 35.87600 ,-77.13800 
+North Carolina_McDowell, 35.67333 ,-82.03333 
+North Carolina_Mecklenburg, 35.21410 ,-80.82949 
+North Carolina_Mitchell, 35.96000 ,-82.10500 
+North Carolina_Montgomery, 35.32400 ,-79.83800 
+North Carolina_Moore, 35.23400 ,-79.48400 
+North Carolina_Nash, 35.93750 ,-77.93000 
+North Carolina_New Hanover, 34.18500 ,-77.89500 
+North Carolina_Northampton, 36.44000 ,-77.40750 
+North Carolina_Onslow, 34.70917 ,-77.36417 
+North Carolina_Orange, 35.98857 ,-79.09000 
+North Carolina_Pamlico, 35.14500 ,-76.70000 
+North Carolina_Pasquotank, 36.29000 ,-76.22000 
+North Carolina_Pender, 34.52429 ,-77.92143 
+North Carolina_Perquimans, 36.22000 ,-76.50000 
+North Carolina_Person, 36.34167 ,-78.98833 
+North Carolina_Pitt, 35.58700 ,-77.40300 
+North Carolina_Polk, 35.24000 ,-82.23250 
+North Carolina_Randolph, 35.78417 ,-79.77500 
+North Carolina_Richmond, 34.98000 ,-79.68000 
+North Carolina_Robeson, 34.69750 ,-79.10917 
+North Carolina_Rockingham, 36.39571 ,-79.82571 
+North Carolina_Rowan, 35.63545 ,-80.52455 
+North Carolina_Rutherford, 35.36875 ,-81.89625 
+North Carolina_Sampson, 34.95000 ,-78.40300 
+North Carolina_Scotland, 34.79750 ,-79.49250 
+North Carolina_Stanly, 35.31286 ,-80.27714 
+North Carolina_Stokes, 36.37750 ,-80.24000 
+North Carolina_Surry, 36.37700 ,-80.68000 
+North Carolina_Swain, 35.44500 ,-83.37500 
+North Carolina_Transylvania, 35.19714 ,-82.75429 
+North Carolina_Tyrrell, 35.91000 ,-76.25000 
+North Carolina_Union, 35.00429 ,-80.57143 
+North Carolina_Vance, 36.32500 ,-78.38500 
+North Carolina_Wake, 35.78333 ,-78.67848 
+North Carolina_Warren, 36.43400 ,-78.12400 
+North Carolina_Washington, 35.86667 ,-76.58000 
+North Carolina_Watauga, 36.23333 ,-81.69000 
+North Carolina_Wayne, 35.37571 ,-77.96143 
+North Carolina_Wilkes, 36.19417 ,-81.17167 
+North Carolina_Wilson, 35.71000 ,-77.92833 
+North Carolina_Yadkin, 36.18200 ,-80.70000 
+North Carolina_Yancey, 35.96000 ,-82.30000 
+North Dakota_Adams, 46.05000 ,-102.78500 
+North Dakota_Barnes, 46.92364 ,-98.03545 
+North Dakota_Benson, 48.07667 ,-99.33444 
+North Dakota_Billings, 47.04500 ,-103.36500 
+North Dakota_Bottineau, 48.77222 ,-100.86889 
+North Dakota_Bowman, 46.18333 ,-103.39667 
+North Dakota_Burke, 48.83500 ,-102.52500 
+North Dakota_Burleigh, 46.88364 ,-100.52545 
+North Dakota_Cass, 46.94708 ,-97.15000 
+North Dakota_Cavalier, 48.79700 ,-98.56500 
+North Dakota_Dickey, 46.10600 ,-98.54800 
+North Dakota_Divide, 48.85400 ,-103.49600 
+North Dakota_Dunn, 47.28667 ,-102.49833 
+North Dakota_Eddy, 47.75000 ,-99.12000 
+North Dakota_Emmons, 46.33333 ,-100.11333 
+North Dakota_Foster, 47.50500 ,-98.76750 
+North Dakota_Golden Valley, 46.85000 ,-103.94000 
+North Dakota_Grand Forks, 47.92813 ,-97.35625 
+North Dakota_Grant, 46.35600 ,-101.55800 
+North Dakota_Griggs, 47.44800 ,-98.26000 
+North Dakota_Hettinger, 46.44333 ,-102.57333 
+North Dakota_Kidder, 46.99500 ,-99.76167 
+North Dakota_Lamoure, 46.44429 ,-98.46000 
+North Dakota_Logan, 46.48000 ,-99.33000 
+North Dakota_McHenry, 48.18417 ,-100.67500 
+North Dakota_McIntosh, 46.13250 ,-99.52500 
+North Dakota_McKenzie, 47.76571 ,-103.30571 
+North Dakota_McLean, 47.61143 ,-101.20286 
+North Dakota_Mercer, 47.28600 ,-101.75000 
+North Dakota_Morton, 46.73143 ,-101.39714 
+North Dakota_Mountrail, 48.18286 ,-102.35429 
+North Dakota_Nelson, 47.90750 ,-98.15750 
+North Dakota_Oliver, 47.11000 ,-101.29000 
+North Dakota_Pembina, 48.76333 ,-97.53917 
+North Dakota_Pierce, 48.33667 ,-99.90667 
+North Dakota_Ramsey, 48.28400 ,-98.73300 
+North Dakota_Ransom, 46.53750 ,-97.67250 
+North Dakota_Renville, 48.74000 ,-101.54500 
+North Dakota_Richland, 46.28083 ,-96.92333 
+North Dakota_Rolette, 48.75714 ,-99.74714 
+North Dakota_Sargent, 46.12000 ,-97.60000 
+North Dakota_Sheridan, 47.61600 ,-100.31800 
+North Dakota_Sioux, 46.20250 ,-100.74250 
+North Dakota_Slope, 46.38500 ,-103.62000 
+North Dakota_Stark, 46.84857 ,-102.68571 
+North Dakota_Steele, 47.46000 ,-97.76200 
+North Dakota_Stutsman, 46.96833 ,-98.86667 
+North Dakota_Towner, 48.69500 ,-99.28833 
+North Dakota_Traill, 47.43333 ,-97.19889 
+North Dakota_Walsh, 48.36727 ,-97.74455 
+North Dakota_Ward, 48.30692 ,-101.50769 
+North Dakota_Wells, 47.56125 ,-99.64250 
+North Dakota_Williams, 48.44125 ,-103.29000 
+Ohio_Adams, 38.82429 ,-83.49571 
+Ohio_Allen, 40.76455 ,-84.10364 
+Ohio_Ashland, 40.84714 ,-82.25857 
+Ohio_Ashtabula, 41.70000 ,-80.74786 
+Ohio_Athens, 39.33583 ,-82.05083 
+Ohio_Auglaize, 40.52000 ,-84.26714 
+Ohio_Belmont, 40.01538 ,-80.92462 
+Ohio_Brown, 38.90250 ,-83.86375 
+Ohio_Butler, 39.43000 ,-84.52583 
+Ohio_Carroll, 40.56700 ,-81.09700 
+Ohio_Champaign, 40.14143 ,-83.71286 
+Ohio_Clark, 39.90100 ,-83.81700 
+Ohio_Clermont, 39.05083 ,-84.19833 
+Ohio_Clinton, 39.36429 ,-83.83143 
+Ohio_Columbiana, 40.78267 ,-80.74467 
+Ohio_Coshocton, 40.31714 ,-81.93714 
+Ohio_Crawford, 40.83400 ,-82.82000 
+Ohio_Cuyahoga, 41.44824 ,-81.67529 
+Ohio_Darke, 40.15545 ,-84.61273 
+Ohio_Defiance, 41.30600 ,-84.56400 
+Ohio_Delaware, 40.22400 ,-83.01000 
+Ohio_Erie, 41.37500 ,-82.57833 
+Ohio_Fairfield, 39.75538 ,-82.60923 
+Ohio_Fayette, 39.59333 ,-83.45667 
+Ohio_Franklin, 39.97878 ,-82.97707 
+Ohio_Fulton, 41.61667 ,-84.12167 
+Ohio_Gallia, 38.84857 ,-82.29000 
+Ohio_Geauga, 41.51800 ,-81.18400 
+Ohio_Greene, 39.73308 ,-84.04692 
+Ohio_Guernsey, 39.97375 ,-81.49375 
+Ohio_Hamilton, 39.09824 ,-84.51627 
+Ohio_Hancock, 40.97545 ,-83.65455 
+Ohio_Hardin, 40.71286 ,-83.66143 
+Ohio_Harrison, 40.30167 ,-81.08333 
+Ohio_Henry, 41.29750 ,-84.03750 
+Ohio_Highland, 39.28250 ,-83.58000 
+Ohio_Hocking, 39.48500 ,-82.57250 
+Ohio_Holmes, 40.54857 ,-81.97286 
+Ohio_Huron, 41.14600 ,-82.59200 
+Ohio_Jackson, 39.06000 ,-82.59750 
+Ohio_Jefferson, 40.34000 ,-80.71533 
+Ohio_Knox, 40.37286 ,-82.42429 
+Ohio_Lake, 41.69000 ,-81.29286 
+Ohio_Lawrence, 38.55111 ,-82.51111 
+Ohio_Licking, 40.09700 ,-82.53500 
+Ohio_Logan, 40.39385 ,-83.77923 
+Ohio_Lorain, 41.36857 ,-82.10857 
+Ohio_Lucas, 41.63143 ,-83.61821 
+Ohio_Madison, 39.81500 ,-83.40250 
+Ohio_Mahoning, 41.04120 ,-80.69000 
+Ohio_Marion, 40.56429 ,-83.17714 
+Ohio_Medina, 41.11182 ,-81.91909 
+Ohio_Meigs, 39.03375 ,-81.97500 
+Ohio_Mercer, 40.51571 ,-84.60857 
+Ohio_Miami, 40.04200 ,-84.26100 
+Ohio_Monroe, 39.75714 ,-81.06000 
+Ohio_Montgomery, 39.76618 ,-84.22794 
+Ohio_Morgan, 39.60333 ,-81.84500 
+Ohio_Morrow, 40.49000 ,-82.84200 
+Ohio_Muskingum, 39.96583 ,-81.94250 
+Ohio_Noble, 39.74500 ,-81.43500 
+Ohio_Ottawa, 41.51571 ,-83.15143 
+Ohio_Paulding, 41.08500 ,-84.57875 
+Ohio_Perry, 39.74500 ,-82.22800 
+Ohio_Pickaway, 39.66667 ,-83.07333 
+Ohio_Pike, 39.07000 ,-83.02750 
+Ohio_Portage, 41.15600 ,-81.19867 
+Ohio_Preble, 39.77000 ,-84.65375 
+Ohio_Putnam, 40.99429 ,-84.12571 
+Ohio_Richland, 40.75455 ,-82.52091 
+Ohio_Ross, 39.35000 ,-83.08429 
+Ohio_Sandusky, 41.35875 ,-83.17625 
+Ohio_Scioto, 38.78909 ,-82.99091 
+Ohio_Seneca, 41.11556 ,-83.17222 
+Ohio_Shelby, 40.34000 ,-84.21625 
+Ohio_Stark, 40.78966 ,-81.39000 
+Ohio_Summit, 41.11531 ,-81.51438 
+Ohio_Trumbull, 41.26913 ,-80.74043 
+Ohio_Tuscarawas, 40.46462 ,-81.47923 
+Ohio_Union, 40.23857 ,-83.38714 
+Ohio_Van Wert, 40.81833 ,-84.59500 
+Ohio_Vinton, 39.24333 ,-82.49167 
+Ohio_Warren, 39.40545 ,-84.19182 
+Ohio_Washington, 39.44333 ,-81.49600 
+Ohio_Wayne, 40.86357 ,-81.85714 
+Ohio_Williams, 41.55625 ,-84.55750 
+Ohio_Wood, 41.37900 ,-83.59000 
+Ohio_Wyandot, 40.87000 ,-83.27571 
+Oklahoma_Adair, 35.90800 ,-94.66400 
+Oklahoma_Alfalfa, 36.67125 ,-98.31875 
+Oklahoma_Atoka, 34.42000 ,-96.03429 
+Oklahoma_Beaver, 36.79333 ,-100.42500 
+Oklahoma_Beckham, 35.26400 ,-99.67600 
+Oklahoma_Blaine, 35.93250 ,-98.41750 
+Oklahoma_Bryan, 33.96600 ,-96.35900 
+Oklahoma_Caddo, 35.13182 ,-98.34636 
+Oklahoma_Canadian, 35.51833 ,-97.86667 
+Oklahoma_Carter, 34.28750 ,-97.36125 
+Oklahoma_Cherokee, 35.88000 ,-95.00833 
+Oklahoma_Choctaw, 34.02286 ,-95.51857 
+Oklahoma_Cimarron, 36.75000 ,-102.62750 
+Oklahoma_Cleveland, 35.29727 ,-97.38818 
+Oklahoma_Coal, 34.57667 ,-96.32333 
+Oklahoma_Comanche, 34.62300 ,-98.45000 
+Oklahoma_Cotton, 34.24500 ,-98.39250 
+Oklahoma_Craig, 36.71000 ,-95.13250 
+Oklahoma_Creek, 35.96625 ,-96.25750 
+Oklahoma_Custer, 35.60500 ,-98.90000 
+Oklahoma_Delaware, 36.34556 ,-94.85000 
+Oklahoma_Dewey, 35.99125 ,-99.04625 
+Oklahoma_Ellis, 36.27000 ,-99.75250 
+Oklahoma_Garfield, 36.37643 ,-97.82143 
+Oklahoma_Garvin, 34.70556 ,-97.31444 
+Oklahoma_Grady, 35.05900 ,-97.88800 
+Oklahoma_Grant, 36.78286 ,-97.79857 
+Oklahoma_Greer, 34.96000 ,-99.45667 
+Oklahoma_Harmon, 34.74667 ,-99.85000 
+Oklahoma_Harper, 36.75000 ,-99.76000 
+Oklahoma_Haskell, 35.19800 ,-95.10400 
+Oklahoma_Hughes, 35.07000 ,-96.20571 
+Oklahoma_Jackson, 34.60500 ,-99.38125 
+Oklahoma_Jefferson, 34.07667 ,-97.89000 
+Oklahoma_Johnston, 34.28167 ,-96.62667 
+Oklahoma_Kay, 36.78500 ,-97.17375 
+Oklahoma_Kingfisher, 35.89571 ,-97.95286 
+Oklahoma_Kiowa, 34.90714 ,-98.98143 
+Oklahoma_Latimer, 34.93000 ,-95.19000 
+Oklahoma_Le Flore, 35.00214 ,-94.67143 
+Oklahoma_Lincoln, 35.69667 ,-96.86667 
+Oklahoma_Logan, 35.78571 ,-97.51286 
+Oklahoma_Love, 33.91200 ,-97.22200 
+Oklahoma_Major, 36.30143 ,-98.39143 
+Oklahoma_Marshall, 34.02333 ,-96.80000 
+Oklahoma_Mayes, 36.31286 ,-95.20000 
+Oklahoma_McClain, 35.03667 ,-97.40833 
+Oklahoma_McCurtain, 34.11417 ,-94.84167 
+Oklahoma_McIntosh, 35.37400 ,-95.66600 
+Oklahoma_Murray, 34.49000 ,-97.05000 
+Oklahoma_Muskogee, 35.62900 ,-95.36400 
+Oklahoma_Noble, 36.39833 ,-97.25333 
+Oklahoma_Nowata, 36.84200 ,-95.66400 
+Oklahoma_Okfuskee, 35.44200 ,-96.36600 
+Oklahoma_Oklahoma, 35.48907 ,-97.48074 
+Oklahoma_Okmulgee, 35.61500 ,-95.95250 
+Oklahoma_Osage, 36.53091 ,-96.35545 
+Oklahoma_Ottawa, 36.88000 ,-94.81667 
+Oklahoma_Pawnee, 36.28667 ,-96.62000 
+Oklahoma_Payne, 36.07714 ,-96.92000 
+Oklahoma_Pittsburg, 34.93889 ,-95.68556 
+Oklahoma_Pontotoc, 34.71400 ,-96.64000 
+Oklahoma_Pottawatomie, 35.21625 ,-96.94750 
+Oklahoma_Pushmataha, 34.40889 ,-95.37556 
+Oklahoma_Roger Mills, 35.66167 ,-99.76833 
+Oklahoma_Rogers, 36.34286 ,-95.60429 
+Oklahoma_Seminole, 35.07800 ,-96.63400 
+Oklahoma_Sequoyah, 35.44667 ,-94.78000 
+Oklahoma_Stephens, 34.45750 ,-97.89000 
+Oklahoma_Texas, 36.69667 ,-101.39167 
+Oklahoma_Tillman, 34.34429 ,-98.88286 
+Oklahoma_Tulsa, 36.11184 ,-95.91368 
+Oklahoma_Wagoner, 35.95000 ,-95.58500 
+Oklahoma_Washington, 36.70600 ,-95.93800 
+Oklahoma_Washita, 35.31556 ,-99.02222 
+Oklahoma_Woods, 36.70000 ,-98.80000 
+Oklahoma_Woodward, 36.38200 ,-99.33200 
+Oregon_Baker, 44.71600 ,-117.63800 
+Oregon_Benton, 44.50714 ,-123.35000 
+Oregon_Clackamas, 45.32458 ,-122.40375 
+Oregon_Clatsop, 46.03400 ,-123.82200 
+Oregon_Columbia, 45.91250 ,-122.99750 
+Oregon_Coos, 43.19250 ,-124.14375 
+Oregon_Crook, 44.12250 ,-120.38750 
+Oregon_Curry, 42.61167 ,-124.23833 
+Oregon_Deschutes, 43.99714 ,-121.23857 
+Oregon_Douglas, 43.25750 ,-123.36542 
+Oregon_Gilliam, 45.51333 ,-120.22333 
+Oregon_Grant, 44.50400 ,-119.12000 
+Oregon_Harney, 43.13500 ,-118.84125 
+Oregon_Hood River, 45.55000 ,-121.68333 
+Oregon_Jackson, 42.43400 ,-122.80800 
+Oregon_Jefferson, 44.53000 ,-121.17600 
+Oregon_Josephine, 42.32700 ,-123.51200 
+Oregon_Klamath, 42.53769 ,-121.63846 
+Oregon_Lake, 42.58833 ,-120.40667 
+Oregon_Lane, 43.99351 ,-123.10027 
+Oregon_Lincoln, 44.68235 ,-123.91529 
+Oregon_Linn, 44.48167 ,-122.82083 
+Oregon_Malheur, 43.83455 ,-117.51636 
+Oregon_Marion, 44.94000 ,-122.76208 
+Oregon_Morrow, 45.60000 ,-119.61400 
+Oregon_Multnomah, 45.52353 ,-122.59412 
+Oregon_Polk, 44.92429 ,-123.33571 
+Oregon_Sherman, 45.42667 ,-120.71667 
+Oregon_Tillamook, 45.39000 ,-123.83500 
+Oregon_Umatilla, 45.77000 ,-118.80636 
+Oregon_Union, 45.35286 ,-117.95571 
+Oregon_Wallowa, 45.47200 ,-117.17800 
+Oregon_Wasco, 45.29167 ,-121.12333 
+Oregon_Washington, 45.52905 ,-122.97571 
+Oregon_Wheeler, 44.77667 ,-119.93333 
+Oregon_Yamhill, 45.21800 ,-123.20400 
+Pennsylvania_Adams, 39.88500 ,-77.15583 
+Pennsylvania_Allegheny, 40.44081 ,-79.94768 
+Pennsylvania_Armstrong, 40.82333 ,-79.45867 
+Pennsylvania_Beaver, 40.66882 ,-80.31882 
+Pennsylvania_Bedford, 40.07524 ,-78.46048 
+Pennsylvania_Berks, 40.39263 ,-75.87421 
+Pennsylvania_Blair, 40.42917 ,-78.37333 
+Pennsylvania_Bradford, 41.78591 ,-76.48818 
+Pennsylvania_Bucks, 40.29675 ,-75.05500 
+Pennsylvania_Butler, 40.88600 ,-79.92520 
+Pennsylvania_Cambria, 40.47382 ,-78.73206 
+Pennsylvania_Cameron, 41.41000 ,-78.13667 
+Pennsylvania_Carbon, 40.87000 ,-75.77000 
+Pennsylvania_Centre, 40.89455 ,-77.74136 
+Pennsylvania_Chester, 39.97276 ,-75.71483 
+Pennsylvania_Clarion, 41.20412 ,-79.43824 
+Pennsylvania_Clearfield, 40.94344 ,-78.43750 
+Pennsylvania_Clinton, 41.18500 ,-77.63250 
+Pennsylvania_Columbia, 41.04250 ,-76.40000 
+Pennsylvania_Crawford, 41.66000 ,-80.11158 
+Pennsylvania_Cumberland, 40.16357 ,-77.18214 
+Pennsylvania_Dauphin, 40.34818 ,-76.81545 
+Pennsylvania_Delaware, 39.91000 ,-75.34684 
+Pennsylvania_Elk, 41.39000 ,-78.62364 
+Pennsylvania_Erie, 42.05412 ,-80.10824 
+Pennsylvania_Fayette, 39.93343 ,-79.60657 
+Pennsylvania_Forest, 41.39200 ,-79.21800 
+Pennsylvania_Franklin, 39.98800 ,-77.69850 
+Pennsylvania_Fulton, 39.96909 ,-78.06909 
+Pennsylvania_Greene, 39.84059 ,-80.19294 
+Pennsylvania_Huntingdon, 40.35545 ,-78.00773 
+Pennsylvania_Indiana, 40.63893 ,-79.07429 
+Pennsylvania_Jefferson, 41.04789 ,-79.02579 
+Pennsylvania_Juniata, 40.56000 ,-77.34400 
+Pennsylvania_Lackawanna, 41.42304 ,-75.62609 
+Pennsylvania_Lancaster, 40.03705 ,-76.25045 
+Pennsylvania_Lawrence, 40.96417 ,-80.37167 
+Pennsylvania_Lebanon, 40.36000 ,-76.39889 
+Pennsylvania_Lehigh, 40.60320 ,-75.52680 
+Pennsylvania_Luzerne, 41.19452 ,-75.95065 
+Pennsylvania_Lycoming, 41.26533 ,-77.00400 
+Pennsylvania_McKean, 41.86214 ,-78.52071 
+Pennsylvania_Mercer, 41.28294 ,-80.27412 
+Pennsylvania_Mifflin, 40.59300 ,-77.61400 
+Pennsylvania_Monroe, 41.02125 ,-75.36208 
+Pennsylvania_Montgomery, 40.17827 ,-75.30423 
+Pennsylvania_Montour, 40.96000 ,-76.61000 
+Pennsylvania_Northampton, 40.71944 ,-75.33944 
+Pennsylvania_Northumberland, 40.82882 ,-76.68765 
+Pennsylvania_Perry, 40.41250 ,-77.19000 
+Pennsylvania_Philadelphia, 39.95118 ,-75.15961 
+Pennsylvania_Pike, 41.33154 ,-75.02615 
+Pennsylvania_Potter, 41.82000 ,-77.89818 
+Pennsylvania_Schuylkill, 40.69794 ,-76.25382 
+Pennsylvania_Snyder, 40.75667 ,-77.01889 
+Pennsylvania_Somerset, 39.98000 ,-79.01692 
+Pennsylvania_Sullivan, 41.46714 ,-76.53143 
+Pennsylvania_Susquehanna, 41.80714 ,-75.75238 
+Pennsylvania_Tioga, 41.82211 ,-77.23421 
+Pennsylvania_Union, 40.95750 ,-76.94875 
+Pennsylvania_Venango, 41.38364 ,-79.75636 
+Pennsylvania_Warren, 41.84077 ,-79.32154 
+Pennsylvania_Washington, 40.19152 ,-80.12939 
+Pennsylvania_Wayne, 41.62600 ,-75.29650 
+Pennsylvania_Westmoreland, 40.29434 ,-79.54736 
+Pennsylvania_Wyoming, 41.52500 ,-75.90833 
+Pennsylvania_York, 39.92111 ,-76.71000 
+Rhode Island_Bristol, 41.70333 ,-71.28000 
+Rhode Island_Kent, 41.67750 ,-71.54000 
+Rhode Island_Newport, 41.53286 ,-71.26286 
+Rhode Island_Providence, 41.86171 ,-71.49771 
+Rhode Island_Washington, 41.47200 ,-71.62600 
+South Carolina_Abbeville, 34.24000 ,-82.42000 
+South Carolina_Aiken, 33.53286 ,-81.69214 
+South Carolina_Allendale, 33.02500 ,-81.30000 
+South Carolina_Anderson, 34.49909 ,-82.63000 
+South Carolina_Bamberg, 33.21750 ,-81.08750 
+South Carolina_Barnwell, 33.33333 ,-81.35333 
+South Carolina_Beaufort, 32.37769 ,-80.74923 
+South Carolina_Berkeley, 33.16833 ,-79.95083 
+South Carolina_Calhoun, 33.60500 ,-80.74000 
+South Carolina_Charleston, 32.80727 ,-79.99000 
+South Carolina_Cherokee, 35.08667 ,-81.60333 
+South Carolina_Chester, 34.67167 ,-81.03000 
+South Carolina_Chesterfield, 34.67125 ,-80.17625 
+South Carolina_Clarendon, 33.74200 ,-80.14600 
+South Carolina_Colleton, 32.94125 ,-80.72375 
+South Carolina_Darlington, 34.32000 ,-79.94600 
+South Carolina_Dillon, 34.37571 ,-79.35571 
+South Carolina_Dorchester, 33.09000 ,-80.34750 
+South Carolina_Edgefield, 33.71500 ,-81.88000 
+South Carolina_Fairfield, 34.35250 ,-81.16250 
+South Carolina_Florence, 34.01727 ,-79.74455 
+South Carolina_Georgetown, 33.37000 ,-79.23000 
+South Carolina_Greenville, 34.85450 ,-82.34500 
+South Carolina_Greenwood, 34.14167 ,-82.17667 
+South Carolina_Hampton, 32.79000 ,-81.14286 
+South Carolina_Horry, 33.85375 ,-78.94375 
+South Carolina_Jasper, 32.47800 ,-81.04400 
+South Carolina_Kershaw, 34.30667 ,-80.57833 
+South Carolina_Lancaster, 34.71000 ,-80.72000 
+South Carolina_Laurens, 34.41875 ,-82.00250 
+South Carolina_Lee, 34.08000 ,-80.17000 
+South Carolina_Lexington, 33.93500 ,-81.21357 
+South Carolina_Marion, 34.10000 ,-79.35333 
+South Carolina_Marlboro, 34.61800 ,-79.65000 
+South Carolina_McCormick, 33.81800 ,-82.27200 
+South Carolina_Newberry, 34.27375 ,-81.60750 
+South Carolina_Oconee, 34.74700 ,-83.04200 
+South Carolina_Orangeburg, 33.43438 ,-80.79938 
+South Carolina_Pickens, 34.80667 ,-82.72667 
+South Carolina_Richland, 33.99267 ,-80.98133 
+South Carolina_Saluda, 33.89667 ,-81.72000 
+South Carolina_Spartanburg, 34.92650 ,-81.96200 
+South Carolina_Sumter, 33.93000 ,-80.40667 
+South Carolina_Union, 34.71500 ,-81.60750 
+South Carolina_Williamsburg, 33.62000 ,-79.72750 
+South Carolina_York, 34.96417 ,-81.14000 
+South Dakota_Aurora, 43.67000 ,-98.54000 
+South Dakota_Beadle, 44.41857 ,-98.31571 
+South Dakota_Bennett, 43.20000 ,-101.71000 
+South Dakota_Bon Homme, 42.98200 ,-97.83200 
+South Dakota_Brookings, 44.33167 ,-96.72833 
+South Dakota_Brown, 45.55250 ,-98.32667 
+South Dakota_Brule, 43.77000 ,-99.15000 
+South Dakota_Buffalo, 44.03500 ,-99.19500 
+South Dakota_Butte, 44.66250 ,-103.55250 
+South Dakota_Campbell, 45.81667 ,-100.14000 
+South Dakota_Charles Mix, 43.17600 ,-98.50800 
+South Dakota_Clark, 44.82571 ,-97.70143 
+South Dakota_Clay, 42.84667 ,-96.95000 
+South Dakota_Codington, 45.00400 ,-97.26800 
+South Dakota_Corson, 45.86714 ,-101.26143 
+South Dakota_Custer, 43.69250 ,-103.32500 
+South Dakota_Davison, 43.66000 ,-98.09000 
+South Dakota_Day, 45.40714 ,-97.59429 
+South Dakota_Deuel, 44.70000 ,-96.62833 
+South Dakota_Dewey, 45.29833 ,-101.02167 
+South Dakota_Douglas, 43.37000 ,-98.41000 
+South Dakota_Edmunds, 45.47750 ,-99.36750 
+South Dakota_Fall River, 43.32500 ,-103.44750 
+South Dakota_Faulk, 45.06800 ,-99.16800 
+South Dakota_Grant, 45.14000 ,-96.69875 
+South Dakota_Gregory, 43.12167 ,-99.13167 
+South Dakota_Haakon, 44.19000 ,-101.49667 
+South Dakota_Hamlin, 44.64000 ,-97.19500 
+South Dakota_Hand, 44.61000 ,-99.05000 
+South Dakota_Hanson, 43.65667 ,-97.73667 
+South Dakota_Harding, 45.65200 ,-103.40600 
+South Dakota_Hughes, 44.46667 ,-100.01000 
+South Dakota_Hutchinson, 43.31667 ,-97.76500 
+South Dakota_Hyde, 44.42667 ,-99.49000 
+South Dakota_Jackson, 43.68200 ,-101.58000 
+South Dakota_Jerauld, 44.13000 ,-98.46500 
+South Dakota_Jones, 43.89333 ,-100.71000 
+South Dakota_Kingsbury, 44.36000 ,-97.43667 
+South Dakota_Lake, 44.03000 ,-97.07143 
+South Dakota_Lawrence, 44.40333 ,-103.70000 
+South Dakota_Lincoln, 43.34000 ,-96.67625 
+South Dakota_Lyman, 43.91000 ,-99.79333 
+South Dakota_Marshall, 45.71667 ,-97.59833 
+South Dakota_McCook, 43.65600 ,-97.38600 
+South Dakota_McPherson, 45.75000 ,-99.26667 
+South Dakota_Meade, 44.53000 ,-102.78100 
+South Dakota_Mellette, 43.50333 ,-100.80667 
+South Dakota_Miner, 44.01250 ,-97.62750 
+South Dakota_Minnehaha, 43.62000 ,-96.72529 
+South Dakota_Moody, 43.97750 ,-96.67500 
+South Dakota_Pennington, 44.00308 ,-102.88308 
+South Dakota_Perkins, 45.66200 ,-102.45600 
+South Dakota_Potter, 45.12500 ,-99.77250 
+South Dakota_Roberts, 45.56889 ,-96.95222 
+South Dakota_Sanborn, 43.98000 ,-98.11000 
+South Dakota_Shannon, 43.19167 ,-102.37167 
+South Dakota_Spink, 44.98222 ,-98.34889 
+South Dakota_Stanley, 44.36500 ,-100.69500 
+South Dakota_Sully, 44.76500 ,-100.06500 
+South Dakota_Todd, 43.25333 ,-100.86333 
+South Dakota_Tripp, 43.40333 ,-99.78667 
+South Dakota_Turner, 43.30750 ,-97.08625 
+South Dakota_Union, 42.78000 ,-96.62800 
+South Dakota_Walworth, 45.51750 ,-100.15250 
+South Dakota_Yankton, 42.96000 ,-97.32000 
+South Dakota_Ziebach, 45.04000 ,-101.60000 
+Tennessee_Anderson, 36.12500 ,-84.15833 
+Tennessee_Bedford, 35.53400 ,-86.39200 
+Tennessee_Benton, 36.07250 ,-88.06000 
+Tennessee_Bledsoe, 35.60000 ,-85.19000 
+Tennessee_Blount, 35.73400 ,-83.94700 
+Tennessee_Bradley, 35.17400 ,-84.86400 
+Tennessee_Campbell, 36.43000 ,-84.16000 
+Tennessee_Cannon, 35.81667 ,-86.08667 
+Tennessee_Carroll, 35.96000 ,-88.44545 
+Tennessee_Carter, 36.28750 ,-82.19000 
+Tennessee_Cheatham, 36.24000 ,-87.07000 
+Tennessee_Chester, 35.47000 ,-88.54500 
+Tennessee_Claiborne, 36.50667 ,-83.68833 
+Tennessee_Clay, 36.56500 ,-85.59000 
+Tennessee_Cocke, 35.92167 ,-83.14500 
+Tennessee_Coffee, 35.44000 ,-86.11400 
+Tennessee_Crockett, 35.79250 ,-89.10250 
+Tennessee_Cumberland, 35.94000 ,-85.00000 
+Tennessee_Davidson, 36.18061 ,-86.76485 
+Tennessee_De Kalb, 36.00750 ,-85.94250 
+Tennessee_Decatur, 35.61500 ,-88.08750 
+Tennessee_Dickson, 36.15500 ,-87.34500 
+Tennessee_Dyer, 36.07800 ,-89.38000 
+Tennessee_Fayette, 35.14000 ,-89.43200 
+Tennessee_Fentress, 36.30600 ,-84.97600 
+Tennessee_Franklin, 35.15375 ,-86.07875 
+Tennessee_Gibson, 35.99375 ,-88.89375 
+Tennessee_Giles, 35.12500 ,-87.03000 
+Tennessee_Grainger, 36.27500 ,-83.52500 
+Tennessee_Greene, 36.20429 ,-82.78429 
+Tennessee_Grundy, 35.35429 ,-85.70429 
+Tennessee_Hamblen, 36.22000 ,-83.26000 
+Tennessee_Hamilton, 35.10889 ,-85.21370 
+Tennessee_Hancock, 36.55000 ,-83.12500 
+Tennessee_Hardeman, 35.18000 ,-89.02250 
+Tennessee_Hardin, 35.21857 ,-88.25714 
+Tennessee_Hawkins, 36.43571 ,-82.94000 
+Tennessee_Haywood, 35.52500 ,-89.32500 
+Tennessee_Henderson, 35.58571 ,-88.33857 
+Tennessee_Henry, 36.30857 ,-88.30143 
+Tennessee_Hickman, 35.83857 ,-87.41000 
+Tennessee_Houston, 36.31333 ,-87.78333 
+Tennessee_Humphreys, 36.03500 ,-87.78000 
+Tennessee_Jackson, 36.33250 ,-85.68750 
+Tennessee_Jefferson, 36.07400 ,-83.48200 
+Tennessee_Johnson, 36.43600 ,-81.84400 
+Tennessee_Knox, 35.97909 ,-83.93955 
+Tennessee_Lake, 36.31500 ,-89.47500 
+Tennessee_Lauderdale, 35.78000 ,-89.47500 
+Tennessee_Lawrence, 35.17500 ,-87.37375 
+Tennessee_Lewis, 35.55000 ,-87.55000 
+Tennessee_Lincoln, 35.12778 ,-86.57111 
+Tennessee_Loudon, 35.73000 ,-84.29200 
+Tennessee_Macon, 36.52500 ,-85.94000 
+Tennessee_Madison, 35.56875 ,-88.83125 
+Tennessee_Marion, 35.11286 ,-85.60429 
+Tennessee_Marshall, 35.45250 ,-86.75500 
+Tennessee_Maury, 35.62000 ,-87.12571 
+Tennessee_McMinn, 35.39667 ,-84.59500 
+Tennessee_McNairy, 35.16900 ,-88.53400 
+Tennessee_Meigs, 35.49333 ,-84.78667 
+Tennessee_Monroe, 35.51750 ,-84.33250 
+Tennessee_Montgomery, 36.47429 ,-87.39857 
+Tennessee_Moore, 35.28000 ,-86.35000 
+Tennessee_Morgan, 36.11833 ,-84.60667 
+Tennessee_Obion, 36.36333 ,-89.10167 
+Tennessee_Overton, 36.37500 ,-85.27000 
+Tennessee_Perry, 35.68000 ,-87.81500 
+Tennessee_Pickett, 36.56500 ,-85.04000 
+Tennessee_Polk, 35.12375 ,-84.52625 
+Tennessee_Putnam, 36.13400 ,-85.52600 
+Tennessee_Rhea, 35.58200 ,-84.94600 
+Tennessee_Roane, 35.89000 ,-84.58000 
+Tennessee_Robertson, 36.52000 ,-86.82000 
+Tennessee_Rutherford, 35.85167 ,-86.40250 
+Tennessee_Scott, 36.44400 ,-84.51400 
+Tennessee_Sequatchie, 35.37000 ,-85.38000 
+Tennessee_Sevier, 35.85500 ,-83.59500 
+Tennessee_Shelby, 35.11405 ,-89.94459 
+Tennessee_Smith, 36.20200 ,-85.90300 
+Tennessee_Stewart, 36.50800 ,-87.73600 
+Tennessee_Sullivan, 36.50875 ,-82.41500 
+Tennessee_Sumner, 36.45143 ,-86.42857 
+Tennessee_Tipton, 35.47571 ,-89.74143 
+Tennessee_Trousdale, 36.39500 ,-86.09500 
+Tennessee_Unicoi, 36.11333 ,-82.44000 
+Tennessee_Union, 36.26000 ,-83.78000 
+Tennessee_Van Buren, 35.74000 ,-85.45000 
+Tennessee_Warren, 35.66333 ,-85.76000 
+Tennessee_Washington, 36.30714 ,-82.47714 
+Tennessee_Wayne, 35.17500 ,-87.79167 
+Tennessee_Weakley, 36.29714 ,-88.71571 
+Tennessee_White, 35.86500 ,-85.53500 
+Tennessee_Williamson, 35.90111 ,-86.82889 
+Tennessee_Wilson, 36.17250 ,-86.32250 
+Texas_Anderson, 31.83000 ,-95.67000 
+Texas_Andrews, 32.32000 ,-102.54000 
+Texas_Angelina, 31.28000 ,-94.67667 
+Texas_Aransas, 28.04000 ,-97.05000 
+Texas_Archer, 33.67333 ,-98.52000 
+Texas_Armstrong, 34.94500 ,-101.45000 
+Texas_Atascosa, 28.96625 ,-98.56625 
+Texas_Austin, 29.87000 ,-96.31333 
+Texas_Bailey, 33.94750 ,-102.75750 
+Texas_Bandera, 29.71800 ,-99.21600 
+Texas_Bastrop, 30.12000 ,-97.29250 
+Texas_Baylor, 33.59000 ,-99.25000 
+Texas_Bee, 28.26000 ,-97.71667 
+Texas_Bell, 31.03313 ,-97.49188 
+Texas_Bexar, 29.45013 ,-98.49280 
+Texas_Blanco, 30.25250 ,-98.42500 
+Texas_Borden, 32.77000 ,-101.45000 
+Texas_Bosque, 31.90875 ,-97.66375 
+Texas_Bowie, 33.42750 ,-94.30000 
+Texas_Brazoria, 29.24250 ,-95.44813 
+Texas_Brazos, 30.64286 ,-96.34571 
+Texas_Brewster, 29.84000 ,-103.64000 
+Texas_Briscoe, 34.41500 ,-101.17500 
+Texas_Brooks, 27.07500 ,-98.13500 
+Texas_Brown, 31.74000 ,-98.94714 
+Texas_Burleson, 30.43000 ,-96.61500 
+Texas_Burnet, 30.73250 ,-98.11250 
+Texas_Caldwell, 29.82800 ,-97.70200 
+Texas_Calhoun, 28.51000 ,-96.66500 
+Texas_Callahan, 32.30333 ,-99.34667 
+Texas_Cameron, 26.11385 ,-97.54769 
+Texas_Camp, 32.97500 ,-95.03000 
+Texas_Carson, 35.38500 ,-101.20500 
+Texas_Cass, 33.09889 ,-94.33889 
+Texas_Castro, 34.55000 ,-102.25750 
+Texas_Chambers, 29.81200 ,-94.63600 
+Texas_Cherokee, 31.92333 ,-95.14667 
+Texas_Childress, 34.40000 ,-100.31500 
+Texas_Clay, 33.88000 ,-98.15500 
+Texas_Cochran, 33.72000 ,-102.75000 
+Texas_Coke, 31.94667 ,-100.48333 
+Texas_Coleman, 31.77800 ,-99.49000 
+Texas_Collin, 33.10308 ,-96.64231 
+Texas_Collingsworth, 34.83667 ,-100.21000 
+Texas_Colorado, 29.65500 ,-96.50750 
+Texas_Comal, 29.75286 ,-98.29857 
+Texas_Comanche, 31.94000 ,-98.57500 
+Texas_Concho, 31.37500 ,-99.89750 
+Texas_Cooke, 33.56000 ,-97.27333 
+Texas_Coryell, 31.36714 ,-97.80429 
+Texas_Cottle, 34.11500 ,-100.37000 
+Texas_Crane, 31.23000 ,-102.37000 
+Texas_Crockett, 30.70000 ,-101.20000 
+Texas_Crosby, 33.66000 ,-101.38000 
+Texas_Culberson, 31.74000 ,-105.08000 
+Texas_Dallam, 36.21500 ,-102.76000 
+Texas_Dallas, 32.79225 ,-96.76640 
+Texas_Dawson, 32.72667 ,-101.93000 
+Texas_De Witt, 29.02200 ,-97.43000 
+Texas_Deaf Smith, 34.82000 ,-102.39000 
+Texas_Delta, 33.41000 ,-95.73400 
+Texas_Denton, 33.12538 ,-97.07115 
+Texas_Dickens, 33.65500 ,-100.86250 
+Texas_Dimmit, 28.50667 ,-99.72667 
+Texas_Donley, 34.89667 ,-100.77000 
+Texas_Duval, 27.60750 ,-98.41500 
+Texas_Eastland, 32.30000 ,-98.78143 
+Texas_Ector, 31.88750 ,-102.39125 
+Texas_Edwards, 29.85500 ,-100.12000 
+Texas_El Paso, 31.82310 ,-106.41828 
+Texas_Ellis, 32.36000 ,-96.83182 
+Texas_Erath, 32.21333 ,-98.18667 
+Texas_Falls, 31.24000 ,-97.00833 
+Texas_Fannin, 33.57417 ,-96.12917 
+Texas_Fayette, 29.88444 ,-96.85556 
+Texas_Fisher, 32.77500 ,-100.32500 
+Texas_Floyd, 34.05000 ,-101.38500 
+Texas_Foard, 33.98000 ,-99.72000 
+Texas_Fort Bend, 29.59200 ,-95.69267 
+Texas_Franklin, 33.08500 ,-95.21500 
+Texas_Freestone, 31.69400 ,-96.29200 
+Texas_Frio, 28.91000 ,-99.03000 
+Texas_Gaines, 32.85667 ,-102.54333 
+Texas_Galveston, 29.41000 ,-94.94600 
+Texas_Garza, 33.11500 ,-101.29000 
+Texas_Gillespie, 30.32800 ,-98.93000 
+Texas_Glasscock, 31.87000 ,-101.48000 
+Texas_Goliad, 28.66000 ,-97.39000 
+Texas_Gonzales, 29.44375 ,-97.55375 
+Texas_Gray, 35.38500 ,-100.78000 
+Texas_Grayson, 33.61200 ,-96.67667 
+Texas_Gregg, 32.50000 ,-94.80625 
+Texas_Grimes, 30.54000 ,-95.96667 
+Texas_Guadalupe, 29.58333 ,-98.07333 
+Texas_Hale, 33.98750 ,-101.74750 
+Texas_Hall, 34.59333 ,-100.70667 
+Texas_Hamilton, 31.81500 ,-98.15500 
+Texas_Hansford, 36.16667 ,-101.35667 
+Texas_Hardeman, 34.27000 ,-99.62500 
+Texas_Hardin, 30.27000 ,-94.36833 
+Texas_Harris, 29.78471 ,-95.36382 
+Texas_Harrison, 32.55167 ,-94.33167 
+Texas_Hartley, 35.78000 ,-102.36000 
+Texas_Haskell, 33.25333 ,-99.81167 
+Texas_Hays, 30.07000 ,-97.93857 
+Texas_Hemphill, 35.91000 ,-100.38000 
+Texas_Henderson, 32.24455 ,-95.87091 
+Texas_Hidalgo, 26.24810 ,-98.21143 
+Texas_Hill, 31.96077 ,-97.06769 
+Texas_Hockley, 33.65000 ,-102.30750 
+Texas_Hood, 32.46200 ,-97.83200 
+Texas_Hopkins, 33.14625 ,-95.53000 
+Texas_Houston, 31.31750 ,-95.38750 
+Texas_Howard, 32.31000 ,-101.47000 
+Texas_Hudspeth, 31.51000 ,-105.71000 
+Texas_Hunt, 33.13222 ,-96.06556 
+Texas_Hutchinson, 35.70333 ,-101.47667 
+Texas_Irion, 31.19000 ,-100.99500 
+Texas_Jack, 33.17500 ,-98.24250 
+Texas_Jackson, 28.94000 ,-96.53000 
+Texas_Jasper, 30.77500 ,-93.95250 
+Texas_Jeff Davis, 30.58500 ,-104.19500 
+Texas_Jefferson, 29.99267 ,-94.06667 
+Texas_Jim Hogg, 27.09500 ,-98.78000 
+Texas_Jim Wells, 27.68333 ,-98.03667 
+Texas_Johnson, 32.38200 ,-97.32000 
+Texas_Jones, 32.81667 ,-99.79833 
+Texas_Karnes, 28.94857 ,-97.85857 
+Texas_Kaufman, 32.60714 ,-96.32857 
+Texas_Kendall, 29.88500 ,-98.68000 
+Texas_Kent, 33.30500 ,-100.61500 
+Texas_Kerr, 30.05200 ,-99.21600 
+Texas_Kimble, 30.49250 ,-99.84250 
+Texas_Kinney, 29.31000 ,-100.41000 
+Texas_Kleberg, 27.39000 ,-97.83500 
+Texas_Knox, 33.47250 ,-99.68500 
+Texas_La Salle, 28.44000 ,-99.02000 
+Texas_Lamar, 33.65455 ,-95.54909 
+Texas_Lamb, 34.09143 ,-102.33000 
+Texas_Lampasas, 31.11333 ,-98.19000 
+Texas_Lavaca, 29.43250 ,-97.09750 
+Texas_Lee, 30.29600 ,-96.89200 
+Texas_Leon, 31.29429 ,-96.04857 
+Texas_Liberty, 30.11600 ,-94.79600 
+Texas_Limestone, 31.55000 ,-96.60500 
+Texas_Lipscomb, 36.30750 ,-100.24250 
+Texas_Live Oak, 28.36600 ,-98.09800 
+Texas_Llano, 30.75125 ,-98.51375 
+Texas_Lubbock, 33.56773 ,-101.85273 
+Texas_Lynn, 33.15667 ,-101.77667 
+Texas_Madison, 30.96667 ,-95.91000 
+Texas_Marion, 32.82500 ,-94.44500 
+Texas_Martin, 32.24667 ,-101.88333 
+Texas_Mason, 30.82750 ,-99.10250 
+Texas_Matagorda, 28.94200 ,-95.97800 
+Texas_Maverick, 28.82500 ,-100.56000 
+Texas_McCulloch, 31.21000 ,-99.38833 
+Texas_McLennan, 31.53500 ,-97.17545 
+Texas_McMullen, 28.45500 ,-98.44500 
+Texas_Medina, 29.30889 ,-98.98111 
+Texas_Menard, 30.87000 ,-99.78667 
+Texas_Midland, 32.02000 ,-102.10000 
+Texas_Milam, 30.77167 ,-97.00000 
+Texas_Mills, 31.56333 ,-98.57667 
+Texas_Mitchell, 32.38000 ,-100.85667 
+Texas_Montague, 33.64000 ,-97.73143 
+Texas_Montgomery, 30.24667 ,-95.47333 
+Texas_Moore, 35.83333 ,-101.91333 
+Texas_Morris, 33.04333 ,-94.72000 
+Texas_Motley, 34.04000 ,-100.88333 
+Texas_Nacogdoches, 31.61750 ,-94.61250 
+Texas_Navarro, 32.07750 ,-96.50750 
+Texas_Newton, 30.82400 ,-93.74600 
+Texas_Nolan, 32.29600 ,-100.38800 
+Texas_Nueces, 27.79133 ,-97.41833 
+Texas_Ochiltree, 36.39000 ,-100.80000 
+Texas_Oldham, 35.24000 ,-102.44000 
+Texas_Orange, 30.08500 ,-93.83750 
+Texas_Palo Pinto, 32.67143 ,-98.29143 
+Texas_Panola, 32.13000 ,-94.33200 
+Texas_Parker, 32.83000 ,-97.77100 
+Texas_Parmer, 34.51000 ,-102.83000 
+Texas_Pecos, 30.89000 ,-102.88000 
+Texas_Polk, 30.80200 ,-94.94400 
+Texas_Potter, 35.20000 ,-101.81000 
+Texas_Presidio, 29.93500 ,-104.19000 
+Texas_Rains, 32.90000 ,-95.81500 
+Texas_Randall, 35.10286 ,-101.83143 
+Texas_Reagan, 31.19000 ,-101.45000 
+Texas_Real, 29.67000 ,-99.83333 
+Texas_Red River, 33.61333 ,-95.05667 
+Texas_Reeves, 31.19000 ,-103.62000 
+Texas_Refugio, 28.26250 ,-97.17000 
+Texas_Roberts, 35.69000 ,-100.64000 
+Texas_Robertson, 31.00500 ,-96.60250 
+Texas_Rockwall, 32.93667 ,-96.41000 
+Texas_Runnels, 31.80833 ,-100.05500 
+Texas_Rusk, 32.12167 ,-94.76500 
+Texas_Sabine, 31.35000 ,-93.92000 
+Texas_San Augustine, 31.41000 ,-94.18500 
+Texas_San Jacinto, 30.58400 ,-95.14800 
+Texas_San Patricio, 27.95429 ,-97.42143 
+Texas_San Saba, 31.14667 ,-98.78667 
+Texas_Schleicher, 30.86000 ,-100.59000 
+Texas_Scurry, 32.70500 ,-100.95500 
+Texas_Shackelford, 32.63000 ,-99.22500 
+Texas_Shelby, 31.85800 ,-94.16000 
+Texas_Sherman, 36.33000 ,-102.07000 
+Texas_Smith, 32.32214 ,-95.28000 
+Texas_Somervell, 32.26333 ,-97.69667 
+Texas_Starr, 26.57600 ,-98.62800 
+Texas_Stephens, 32.71500 ,-98.77500 
+Texas_Sterling, 31.83000 ,-100.98000 
+Texas_Stonewall, 33.12500 ,-100.13500 
+Texas_Sutton, 30.57000 ,-100.64000 
+Texas_Swisher, 34.44500 ,-101.75500 
+Texas_Tarrant, 32.76016 ,-97.24333 
+Texas_Taylor, 32.37308 ,-99.82077 
+Texas_Terrell, 30.05000 ,-102.12000 
+Texas_Terry, 33.22667 ,-102.34667 
+Texas_Throckmorton, 33.09500 ,-99.11000 
+Texas_Titus, 33.23333 ,-94.97667 
+Texas_Tom Green, 31.41300 ,-100.39300 
+Texas_Travis, 30.27340 ,-97.74360 
+Texas_Trinity, 31.13200 ,-95.11800 
+Texas_Tyler, 30.73143 ,-94.36571 
+Texas_Upshur, 32.70600 ,-94.87200 
+Texas_Upton, 31.38000 ,-102.02000 
+Texas_Uvalde, 29.39000 ,-99.62600 
+Texas_Val Verde, 29.46667 ,-100.94333 
+Texas_Van Zandt, 32.60143 ,-95.79143 
+Texas_Victoria, 28.83250 ,-96.93250 
+Texas_Walker, 30.65000 ,-95.52000 
+Texas_Waller, 29.93500 ,-96.01500 
+Texas_Ward, 31.63000 ,-103.06000 
+Texas_Washington, 30.21000 ,-96.35250 
+Texas_Webb, 27.50000 ,-99.31000 
+Texas_Wharton, 29.27143 ,-96.15286 
+Texas_Wheeler, 35.44000 ,-100.30750 
+Texas_Wichita, 33.93273 ,-98.56545 
+Texas_Wilbarger, 34.17500 ,-99.22000 
+Texas_Willacy, 26.44000 ,-97.78000 
+Texas_Williamson, 30.57167 ,-97.64500 
+Texas_Wilson, 29.24250 ,-98.07000 
+Texas_Winkler, 31.85000 ,-103.09000 
+Texas_Wise, 33.15875 ,-97.62625 
+Texas_Wood, 32.78500 ,-95.43333 
+Texas_Yoakum, 33.07500 ,-102.82500 
+Texas_Young, 33.18400 ,-98.64000 
+Texas_Zapata, 26.93333 ,-99.22667 
+Texas_Zavala, 28.81000 ,-99.71500 
+Utah_Beaver, 38.32000 ,-112.85667 
+Utah_Box Elder, 41.66929 ,-112.42071 
+Utah_Cache, 41.77286 ,-111.85929 
+Utah_Carbon, 39.59600 ,-110.76000 
+Utah_Daggett, 40.92500 ,-109.56500 
+Utah_Davis, 40.99818 ,-111.93455 
+Utah_Duchesne, 40.35545 ,-110.31636 
+Utah_Emery, 39.21750 ,-110.81000 
+Utah_Garfield, 37.85667 ,-112.17000 
+Utah_Grand, 38.86667 ,-109.46667 
+Utah_Iron, 37.80250 ,-113.48250 
+Utah_Juab, 39.76500 ,-111.83500 
+Utah_Kane, 37.27000 ,-112.23000 
+Utah_Millard, 39.18250 ,-112.84750 
+Utah_Morgan, 41.07000 ,-111.60500 
+Utah_Piute, 38.45000 ,-111.90000 
+Utah_Rich, 41.68500 ,-111.27500 
+Utah_Salt Lake, 40.67000 ,-111.89878 
+Utah_San Juan, 37.70000 ,-109.69667 
+Utah_Sanpete, 39.34429 ,-111.62286 
+Utah_Sevier, 38.69667 ,-112.08333 
+Utah_Summit, 40.73333 ,-111.32833 
+Utah_Tooele, 40.41250 ,-112.86000 
+Utah_Uintah, 40.41500 ,-109.68125 
+Utah_Utah, 40.22591 ,-111.70909 
+Utah_Wasatch, 40.43000 ,-111.38000 
+Utah_Washington, 37.25933 ,-113.47333 
+Utah_Wayne, 38.32000 ,-111.37000 
+Utah_Weber, 41.22444 ,-111.95667 
+Vermont_Addison, 44.02867 ,-73.14267 
+Vermont_Bennington, 43.02067 ,-73.09200 
+Vermont_Caledonia, 44.46688 ,-72.11125 
+Vermont_Chittenden, 44.46000 ,-73.11688 
+Vermont_Essex, 44.69100 ,-71.72200 
+Vermont_Franklin, 44.86615 ,-72.88462 
+Vermont_Grand Isle, 44.80400 ,-73.30400 
+Vermont_Lamoille, 44.62727 ,-72.65273 
+Vermont_Orange, 43.98667 ,-72.32750 
+Vermont_Orleans, 44.81600 ,-72.24550 
+Vermont_Rutland, 43.55600 ,-73.02600 
+Vermont_Washington, 44.27238 ,-72.55286 
+Vermont_Windham, 42.99708 ,-72.69042 
+Vermont_Windsor, 43.56310 ,-72.54414 
+Virginia_Accomack, 37.80852 ,-75.61741 
+Virginia_Albemarle, 38.00538 ,-78.55769 
+Virginia_Alexandria City, 38.82000 ,-77.08000 
+Virginia_Alleghany, 37.79500 ,-79.90500 
+Virginia_Amelia, 37.31500 ,-78.02500 
+Virginia_Amherst, 37.53750 ,-79.05750 
+Virginia_Appomattox, 37.32750 ,-78.84750 
+Virginia_Arlington, 38.87000 ,-77.09727 
+Virginia_Augusta, 38.13941 ,-79.10765 
+Virginia_Bath, 38.05000 ,-79.69250 
+Virginia_Bedford, 37.33800 ,-79.49700 
+Virginia_Bedford City, 37.32000 ,-79.52000 
+Virginia_Bland, 37.12250 ,-81.17750 
+Virginia_Botetourt, 37.47500 ,-79.85500 
+Virginia_Bristol City, 36.61000 ,-82.16000 
+Virginia_Brunswick, 36.75167 ,-77.86667 
+Virginia_Buchanan, 37.24545 ,-82.03000 
+Virginia_Buckingham, 37.61250 ,-78.43000 
+Virginia_Buena Vista City, 37.73000 ,-79.35000 
+Virginia_Campbell, 37.16333 ,-79.17333 
+Virginia_Caroline, 38.08000 ,-77.35667 
+Virginia_Carroll, 36.70375 ,-80.70500 
+Virginia_Charles City, 37.34000 ,-77.07000 
+Virginia_Charlotte, 36.99500 ,-78.64700 
+Virginia_Charlottesville City, 38.03000 ,-78.48000 
+Virginia_Chesapeake City, 36.67000 ,-76.30000 
+Virginia_Chesterfield, 37.46083 ,-77.53167 
+Virginia_Clarke, 39.07800 ,-77.98200 
+Virginia_Colonial Heights City, 37.26000 ,-77.39000 
+Virginia_Craig, 37.53000 ,-80.19500 
+Virginia_Culpeper, 38.47250 ,-77.94917 
+Virginia_Cumberland, 37.63333 ,-78.16667 
+Virginia_Danville City, 36.58000 ,-79.40000 
+Virginia_Dickenson, 37.09750 ,-82.31250 
+Virginia_Dinwiddie, 37.10143 ,-77.67571 
+Virginia_Emporia City, 36.69000 ,-77.53000 
+Virginia_Essex, 37.93000 ,-76.90500 
+Virginia_Fairfax, 38.85614 ,-77.23068 
+Virginia_Fairfax City, 38.85000 ,-77.29000 
+Virginia_Falls Church City, 38.88000 ,-77.17000 
+Virginia_Fauquier, 38.72000 ,-77.80000 
+Virginia_Floyd, 36.96000 ,-80.33000 
+Virginia_Fluvanna, 37.82167 ,-78.27667 
+Virginia_Franklin, 37.01000 ,-79.86900 
+Virginia_Franklin City, 36.68000 ,-76.93000 
+Virginia_Frederick, 39.15900 ,-78.23600 
+Virginia_Fredericksburg City, 38.29000 ,-77.48000 
+Virginia_Galax City, 36.66000 ,-80.91000 
+Virginia_Giles, 37.32333 ,-80.70333 
+Virginia_Gloucester, 37.41500 ,-76.53000 
+Virginia_Goochland, 37.68375 ,-77.83125 
+Virginia_Grayson, 36.65167 ,-81.27833 
+Virginia_Greene, 38.26333 ,-78.45667 
+Virginia_Greensville, 36.69500 ,-77.50500 
+Virginia_Halifax, 36.73300 ,-78.92700 
+Virginia_Hampton City, 37.03429 ,-76.29143 
+Virginia_Hanover, 37.75000 ,-77.49667 
+Virginia_Harrisonburg City, 38.47000 ,-78.90500 
+Virginia_Henrico, 37.55538 ,-77.43615 
+Virginia_Henry, 36.68143 ,-79.90714 
+Virginia_Highland, 38.38167 ,-79.53333 
+Virginia_Hopewell City, 37.29000 ,-77.29000 
+Virginia_Isle of Wight, 36.85800 ,-76.70800 
+Virginia_James City, 37.32000 ,-76.75000 
+Virginia_King and Queen, 37.69500 ,-76.88700 
+Virginia_King George, 38.29500 ,-77.11500 
+Virginia_King William, 37.67500 ,-77.02000 
+Virginia_Lancaster, 37.67750 ,-76.42750 
+Virginia_Lee, 36.72250 ,-83.10750 
+Virginia_Loudoun, 39.05278 ,-77.53222 
+Virginia_Louisa, 38.02500 ,-77.95000 
+Virginia_Lunenburg, 36.97000 ,-78.20333 
+Virginia_Lynchburg City, 37.40000 ,-79.19000 
+Virginia_Madison, 38.38600 ,-78.23467 
+Virginia_Manassas City, 38.74000 ,-77.48000 
+Virginia_Manassas Park City, 38.74000 ,-77.48000 
+Virginia_Martinsville City, 36.68000 ,-79.86000 
+Virginia_Mathews, 37.42933 ,-76.33933 
+Virginia_Mecklenburg, 36.65900 ,-78.38100 
+Virginia_Middlesex, 37.61200 ,-76.50700 
+Virginia_Montgomery, 37.13500 ,-80.34667 
+Virginia_Nelson, 37.77357 ,-78.86071 
+Virginia_New Kent, 37.47000 ,-76.97200 
+Virginia_Newport News City, 37.07625 ,-76.52000 
+Virginia_Norfolk City, 36.84000 ,-76.28000 
+Virginia_Northampton, 37.42000 ,-75.89600 
+Virginia_Northumberland, 37.88000 ,-76.42333 
+Virginia_Norton City, 36.93000 ,-82.62000 
+Virginia_Nottoway, 37.14333 ,-78.11000 
+Virginia_Orange, 38.25857 ,-78.01857 
+Virginia_Page, 38.61750 ,-78.48750 
+Virginia_Patrick, 36.66286 ,-80.31000 
+Virginia_Petersburg City, 37.20000 ,-77.39000 
+Virginia_Pittsylvania, 36.83462 ,-79.38538 
+Virginia_Poquoson City, 37.12000 ,-76.34000 
+Virginia_Portsmouth City, 36.83000 ,-76.29000 
+Virginia_Powhatan, 37.65000 ,-77.97000 
+Virginia_Prince Edward, 37.21600 ,-78.37800 
+Virginia_Prince George, 37.16000 ,-77.32400 
+Virginia_Prince William, 38.67500 ,-77.42357 
+Virginia_Pulaski, 37.03000 ,-80.71000 
+Virginia_Radford City, 37.12000 ,-80.55000 
+Virginia_Rappahannock, 38.68000 ,-78.11625 
+Virginia_Richmond, 37.92000 ,-76.69000 
+Virginia_Richmond City, 37.55000 ,-77.46000 
+Virginia_Roanoke, 37.26800 ,-80.00000 
+Virginia_Roanoke City, 37.27000 ,-79.95000 
+Virginia_Rockbridge, 37.80222 ,-79.39778 
+Virginia_Rockingham, 38.48611 ,-78.86722 
+Virginia_Russell, 36.95667 ,-82.05167 
+Virginia_Salem City, 37.28000 ,-80.05000 
+Virginia_Scott, 36.70714 ,-82.54857 
+Virginia_Shenandoah, 38.84167 ,-78.56167 
+Virginia_Smyth, 36.82400 ,-81.54800 
+Virginia_Southampton, 36.69375 ,-77.12250 
+Virginia_Spotsylvania, 38.19400 ,-77.59400 
+Virginia_Stafford, 38.35500 ,-77.44000 
+Virginia_Staunton City, 38.15000 ,-79.06000 
+Virginia_Suffolk City, 36.70000 ,-76.63000 
+Virginia_Surry, 37.09750 ,-76.90000 
+Virginia_Sussex, 36.94250 ,-77.18750 
+Virginia_Tazewell, 37.10545 ,-81.61727 
+Virginia_Virginia Beach City, 36.74231 ,-76.06154 
+Virginia_Warren, 38.88333 ,-78.18667 
+Virginia_Washington, 36.70143 ,-81.96143 
+Virginia_Waynesboro City, 38.06000 ,-78.90000 
+Virginia_Westmoreland, 38.10750 ,-76.75250 
+Virginia_Williamsburg City, 37.27000 ,-76.70000 
+Virginia_Winchester City, 39.17000 ,-78.17000 
+Virginia_Wise, 36.94833 ,-82.58333 
+Virginia_Wythe, 36.88000 ,-81.05875 
+Virginia_York, 37.22200 ,-76.48600 
+Washington_Adams, 46.89400 ,-118.55400 
+Washington_Asotin, 46.20333 ,-117.21667 
+Washington_Benton, 46.22250 ,-119.33375 
+Washington_Chelan, 47.65125 ,-120.38500 
+Washington_Clallam, 48.09667 ,-123.89000 
+Washington_Clark, 45.72200 ,-122.54750 
+Washington_Columbia, 46.31000 ,-117.90000 
+Washington_Cowlitz, 46.17800 ,-122.76500 
+Washington_Douglas, 47.64143 ,-119.90286 
+Washington_Ferry, 48.66000 ,-118.47000 
+Washington_Franklin, 46.53750 ,-119.00000 
+Washington_Garfield, 46.44000 ,-117.54000 
+Washington_Grant, 47.30846 ,-119.39308 
+Washington_Grays Harbor, 47.09214 ,-123.80071 
+Washington_Island, 48.10714 ,-122.52429 
+Washington_Jefferson, 47.90500 ,-122.97500 
+Washington_King, 47.53977 ,-122.21081 
+Washington_Kitsap, 47.64563 ,-122.63125 
+Washington_Kittitas, 47.08333 ,-120.69333 
+Washington_Klickitat, 45.84583 ,-121.06333 
+Washington_Lewis, 46.54556 ,-122.57111 
+Washington_Lincoln, 47.54750 ,-118.37500 
+Washington_Mason, 47.36444 ,-123.07667 
+Washington_Okanogan, 48.42600 ,-119.67067 
+Washington_Pacific, 46.54125 ,-123.92375 
+Washington_Pend Oreille, 48.50800 ,-117.29400 
+Washington_Pierce, 47.16189 ,-122.42868 
+Washington_San Juan, 48.57200 ,-122.86800 
+Washington_Skagit, 48.48900 ,-122.09900 
+Washington_Skamania, 45.74333 ,-121.73000 
+Washington_Snohomish, 47.93654 ,-122.09654 
+Washington_Spokane, 47.65706 ,-117.33000 
+Washington_Stevens, 48.23833 ,-117.87167 
+Washington_Thurston, 46.96364 ,-122.84909 
+Washington_Wahkiakum, 46.28500 ,-123.49500 
+Washington_Walla Walla, 46.17286 ,-118.42286 
+Washington_Whatcom, 48.84571 ,-122.44714 
+Washington_Whitman, 46.92889 ,-117.37778 
+Washington_Yakima, 46.50350 ,-120.47000 
+West Virginia_Barbour, 39.11250 ,-79.99500 
+West Virginia_Berkeley, 39.43600 ,-78.00800 
+West Virginia_Boone, 38.04720 ,-81.70400 
+West Virginia_Braxton, 38.72636 ,-80.68455 
+West Virginia_Brooke, 40.28750 ,-80.57500 
+West Virginia_Cabell, 38.41600 ,-82.29600 
+West Virginia_Calhoun, 38.83286 ,-81.10143 
+West Virginia_Clay, 38.45692 ,-81.09538 
+West Virginia_Doddridge, 39.29333 ,-80.70000 
+West Virginia_Fayette, 38.04696 ,-81.11870 
+West Virginia_Gilmer, 38.91200 ,-80.85500 
+West Virginia_Grant, 39.12000 ,-79.19167 
+West Virginia_Greenbrier, 37.89235 ,-80.51176 
+West Virginia_Hampshire, 39.33063 ,-78.58500 
+West Virginia_Hancock, 40.52750 ,-80.58000 
+West Virginia_Hardy, 38.99500 ,-78.87750 
+West Virginia_Harrison, 39.29917 ,-80.35333 
+West Virginia_Jackson, 38.81917 ,-81.70417 
+West Virginia_Jefferson, 39.32250 ,-77.83750 
+West Virginia_Kanawha, 38.30912 ,-81.56382 
+West Virginia_Lewis, 38.97250 ,-80.49750 
+West Virginia_Lincoln, 38.19200 ,-82.03600 
+West Virginia_Logan, 37.82857 ,-81.93357 
+West Virginia_Marion, 39.51875 ,-80.24625 
+West Virginia_Marshall, 39.89750 ,-80.68500 
+West Virginia_Mason, 38.78182 ,-82.07000 
+West Virginia_McDowell, 37.37571 ,-81.66786 
+West Virginia_Mercer, 37.41000 ,-81.14333 
+West Virginia_Mineral, 39.46875 ,-78.92375 
+West Virginia_Mingo, 37.68385 ,-82.10000 
+West Virginia_Monongalia, 39.65778 ,-80.06333 
+West Virginia_Monroe, 37.56583 ,-80.59417 
+West Virginia_Morgan, 39.58500 ,-78.25000 
+West Virginia_Nicholas, 38.26000 ,-80.81235 
+West Virginia_Ohio, 40.07000 ,-80.62667 
+West Virginia_Pendleton, 38.68571 ,-79.34714 
+West Virginia_Pleasants, 39.38500 ,-81.22500 
+West Virginia_Pocahontas, 38.36800 ,-79.92600 
+West Virginia_Preston, 39.44538 ,-79.70077 
+West Virginia_Putnam, 38.52375 ,-81.90500 
+West Virginia_Raleigh, 37.75700 ,-81.27900 
+West Virginia_Randolph, 38.80353 ,-79.89882 
+West Virginia_Ritchie, 39.15273 ,-81.05455 
+West Virginia_Roane, 38.67250 ,-81.31875 
+West Virginia_Summers, 37.67200 ,-80.86000 
+West Virginia_Taylor, 39.31333 ,-80.02000 
+West Virginia_Tucker, 39.08143 ,-79.60000 
+West Virginia_Tyler, 39.49250 ,-80.94250 
+West Virginia_Upshur, 38.83500 ,-80.28375 
+West Virginia_Wayne, 38.15917 ,-82.43250 
+West Virginia_Webster, 38.49429 ,-80.48857 
+West Virginia_Wetzel, 39.58833 ,-80.63417 
+West Virginia_Wirt, 38.99500 ,-81.32000 
+West Virginia_Wood, 39.23000 ,-81.51364 
+West Virginia_Wyoming, 37.62500 ,-81.55364 
+Wisconsin_Adams, 43.98833 ,-89.78000 
+Wisconsin_Ashland, 46.28286 ,-90.72000 
+Wisconsin_Barron, 45.40273 ,-91.89364 
+Wisconsin_Bayfield, 46.57400 ,-91.15600 
+Wisconsin_Brown, 44.47462 ,-88.00923 
+Wisconsin_Buffalo, 44.32800 ,-91.82000 
+Wisconsin_Burnett, 45.84600 ,-92.39200 
+Wisconsin_Calumet, 44.10833 ,-88.14667 
+Wisconsin_Chippewa, 45.06222 ,-91.23667 
+Wisconsin_Clark, 44.75786 ,-90.56857 
+Wisconsin_Columbia, 43.43300 ,-89.24600 
+Wisconsin_Crawford, 43.21571 ,-90.94286 
+Wisconsin_Dane, 43.07514 ,-89.40200 
+Wisconsin_Dodge, 43.42000 ,-88.62412 
+Wisconsin_Door, 45.03111 ,-87.24333 
+Wisconsin_Douglas, 46.50222 ,-91.85111 
+Wisconsin_Dunn, 44.97000 ,-91.92889 
+Wisconsin_Eau Claire, 44.72000 ,-91.31857 
+Wisconsin_Florence, 45.84000 ,-88.34000 
+Wisconsin_Fond Du Lac, 43.76643 ,-88.49429 
+Wisconsin_Forest, 45.57857 ,-88.73143 
+Wisconsin_Grant, 42.85313 ,-90.70500 
+Wisconsin_Green, 42.67750 ,-89.53750 
+Wisconsin_Green Lake, 43.76750 ,-89.06000 
+Wisconsin_Iowa, 42.98000 ,-90.15455 
+Wisconsin_Iron, 46.38333 ,-90.25167 
+Wisconsin_Jackson, 44.31000 ,-90.97400 
+Wisconsin_Jefferson, 43.04800 ,-88.74600 
+Wisconsin_Juneau, 43.81429 ,-90.13571 
+Wisconsin_Kenosha, 42.55500 ,-87.99600 
+Wisconsin_Kewaunee, 44.53750 ,-87.56500 
+Wisconsin_La Crosse, 43.89500 ,-91.12375 
+Wisconsin_Lafayette, 42.64750 ,-90.08375 
+Wisconsin_Langlade, 45.25625 ,-89.03750 
+Wisconsin_Lincoln, 45.32250 ,-89.64500 
+Wisconsin_Manitowoc, 44.09500 ,-87.78600 
+Wisconsin_Marathon, 44.90375 ,-89.76500 
+Wisconsin_Marinette, 45.35846 ,-87.98308 
+Wisconsin_Marquette, 43.80400 ,-89.41200 
+Wisconsin_Menominee, 44.93000 ,-88.72500 
+Wisconsin_Milwaukee, 43.03229 ,-87.95429 
+Wisconsin_Monroe, 43.88857 ,-90.58286 
+Wisconsin_Oconto, 44.96273 ,-88.22000 
+Wisconsin_Oneida, 45.69875 ,-89.54000 
+Wisconsin_Outagamie, 44.33500 ,-88.42857 
+Wisconsin_Ozaukee, 43.34875 ,-87.93625 
+Wisconsin_Pepin, 44.54000 ,-92.10500 
+Wisconsin_Pierce, 44.71400 ,-92.41800 
+Wisconsin_Polk, 45.41462 ,-92.48385 
+Wisconsin_Portage, 44.47600 ,-89.46100 
+Wisconsin_Price, 45.63625 ,-90.38000 
+Wisconsin_Racine, 42.72667 ,-87.95500 
+Wisconsin_Richland, 43.31500 ,-90.40667 
+Wisconsin_Rock, 42.67500 ,-89.03500 
+Wisconsin_Rusk, 45.45571 ,-91.05571 
+Wisconsin_Sauk, 43.40692 ,-89.90385 
+Wisconsin_Sawyer, 45.81000 ,-91.26857 
+Wisconsin_Shawano, 44.78500 ,-88.71429 
+Wisconsin_Sheboygan, 43.69231 ,-87.88769 
+Wisconsin_St Croix, 45.02909 ,-92.45727 
+Wisconsin_Taylor, 45.19857 ,-90.51714 
+Wisconsin_Trempealeau, 44.27500 ,-91.36200 
+Wisconsin_Vernon, 43.59818 ,-90.88636 
+Wisconsin_Vilas, 46.04000 ,-89.51000 
+Wisconsin_Walworth, 42.61091 ,-88.55909 
+Wisconsin_Washburn, 45.80750 ,-91.81125 
+Wisconsin_Washington, 43.33909 ,-88.23455 
+Wisconsin_Waukesha, 43.02480 ,-88.25760 
+Wisconsin_Waupaca, 44.44700 ,-88.94300 
+Wisconsin_Waushara, 44.10000 ,-89.24222 
+Wisconsin_Winnebago, 44.07000 ,-88.59333 
+Wisconsin_Wood, 44.50909 ,-89.95909 
+Wyoming_Albany, 41.45714 ,-105.67429 
+Wyoming_Big Horn, 44.49444 ,-108.12333 
+Wyoming_Campbell, 44.44800 ,-105.45000 
+Wyoming_Carbon, 41.54400 ,-106.94100 
+Wyoming_Converse, 42.81000 ,-105.29750 
+Wyoming_Crook, 44.54286 ,-104.48000 
+Wyoming_Fremont, 43.09500 ,-108.47667 
+Wyoming_Goshen, 42.01875 ,-104.33000 
+Wyoming_Hot Springs, 43.64000 ,-108.21000 
+Wyoming_Johnson, 44.02000 ,-106.67000 
+Wyoming_Laramie, 41.21444 ,-104.48333 
+Wyoming_Lincoln, 42.66000 ,-110.87083 
+Wyoming_Natrona, 42.94125 ,-106.53375 
+Wyoming_Niobrara, 42.80250 ,-104.44750 
+Wyoming_Park, 44.50500 ,-109.29000 
+Wyoming_Platte, 42.17600 ,-104.85000 
+Wyoming_Sheridan, 44.76111 ,-106.92778 
+Wyoming_Sublette, 42.85500 ,-110.01000 
+Wyoming_Sweetwater, 41.73667 ,-109.37333 
+Wyoming_Teton, 43.63500 ,-110.70167 
+Wyoming_Uinta, 41.23000 ,-110.44500 
+Wyoming_Washakie, 44.01500 ,-107.69500 
+Wyoming_Weston, 44.00000 ,-104.34500 
