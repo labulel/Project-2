@@ -1,0 +1,3389 @@
+State Name,AQI,Date
+Alabama,141,2015-01-01
+Alabama,170,2015-02-01
+Alabama,101,2015-03-01
+Alabama,80,2015-04-01
+Alabama,122,2015-05-01
+Alabama,112,2015-06-01
+Alabama,90,2015-07-01
+Alabama,147,2015-08-01
+Alabama,97,2015-09-01
+Alabama,129,2015-10-01
+Alabama,74,2015-11-01
+Alabama,92,2015-12-01
+Alaska,238,2015-01-01
+Alaska,180,2015-02-01
+Alaska,112,2015-03-01
+Alaska,97,2015-04-01
+Alaska,71,2015-05-01
+Alaska,220,2015-06-01
+Alaska,235,2015-07-01
+Alaska,93,2015-08-01
+Alaska,44,2015-09-01
+Alaska,84,2015-10-01
+Alaska,172,2015-11-01
+Alaska,165,2015-12-01
+Arizona,152,2015-01-01
+Arizona,176,2015-02-01
+Arizona,881,2015-03-01
+Arizona,200,2015-04-01
+Arizona,181,2015-05-01
+Arizona,195,2015-06-01
+Arizona,162,2015-07-01
+Arizona,200,2015-08-01
+Arizona,183,2015-09-01
+Arizona,157,2015-10-01
+Arizona,542,2015-11-01
+Arizona,266,2015-12-01
+Arkansas,84,2015-01-01
+Arkansas,63,2015-02-01
+Arkansas,63,2015-03-01
+Arkansas,84,2015-04-01
+Arkansas,93,2015-05-01
+Arkansas,101,2015-06-01
+Arkansas,84,2015-07-01
+Arkansas,87,2015-08-01
+Arkansas,87,2015-09-01
+Arkansas,101,2015-10-01
+Arkansas,74,2015-11-01
+Arkansas,67,2015-12-01
+California,180,2015-01-01
+California,3190,2015-02-01
+California,143,2015-03-01
+California,3994,2015-04-01
+California,203,2015-05-01
+California,223,2015-06-01
+California,238,2015-07-01
+California,204,2015-08-01
+California,320,2015-09-01
+California,192,2015-10-01
+California,1383,2015-11-01
+California,1968,2015-12-01
+Colorado,94,2015-01-01
+Colorado,81,2015-02-01
+Colorado,134,2015-03-01
+Colorado,293,2015-04-01
+Colorado,108,2015-05-01
+Colorado,169,2015-06-01
+Colorado,161,2015-07-01
+Colorado,299,2015-08-01
+Colorado,119,2015-09-01
+Colorado,84,2015-10-01
+Colorado,84,2015-11-01
+Colorado,111,2015-12-01
+Connecticut,78,2015-01-01
+Connecticut,99,2015-02-01
+Connecticut,83,2015-03-01
+Connecticut,106,2015-04-01
+Connecticut,147,2015-05-01
+Connecticut,174,2015-06-01
+Connecticut,154,2015-07-01
+Connecticut,166,2015-08-01
+Connecticut,177,2015-09-01
+Connecticut,67,2015-10-01
+Connecticut,85,2015-11-01
+Connecticut,85,2015-12-01
+Country Of Mexico,125,2015-02-01
+Country Of Mexico,174,2015-03-01
+Country Of Mexico,73,2015-04-01
+Country Of Mexico,94,2015-05-01
+Country Of Mexico,69,2015-06-01
+Country Of Mexico,83,2015-07-01
+Country Of Mexico,107,2015-08-01
+Country Of Mexico,133,2015-09-01
+Country Of Mexico,137,2015-10-01
+Country Of Mexico,152,2015-11-01
+Country Of Mexico,163,2015-12-01
+Delaware,102,2015-01-01
+Delaware,92,2015-02-01
+Delaware,101,2015-03-01
+Delaware,93,2015-04-01
+Delaware,97,2015-05-01
+Delaware,172,2015-06-01
+Delaware,105,2015-07-01
+Delaware,97,2015-08-01
+Delaware,143,2015-09-01
+Delaware,74,2015-10-01
+Delaware,66,2015-11-01
+Delaware,90,2015-12-01
+District Of Columbia,79,2015-01-01
+District Of Columbia,77,2015-02-01
+District Of Columbia,69,2015-03-01
+District Of Columbia,71,2015-04-01
+District Of Columbia,87,2015-05-01
+District Of Columbia,126,2015-06-01
+District Of Columbia,100,2015-07-01
+District Of Columbia,100,2015-08-01
+District Of Columbia,126,2015-09-01
+District Of Columbia,65,2015-10-01
+District Of Columbia,64,2015-11-01
+District Of Columbia,90,2015-12-01
+Florida,111,2015-01-01
+Florida,101,2015-02-01
+Florida,105,2015-03-01
+Florida,119,2015-04-01
+Florida,111,2015-05-01
+Florida,141,2015-06-01
+Florida,104,2015-07-01
+Florida,100,2015-08-01
+Florida,83,2015-09-01
+Florida,107,2015-10-01
+Florida,82,2015-11-01
+Florida,65,2015-12-01
+Georgia,85,2015-01-01
+Georgia,85,2015-02-01
+Georgia,180,2015-03-01
+Georgia,233,2015-04-01
+Georgia,161,2015-05-01
+Georgia,105,2015-06-01
+Georgia,129,2015-07-01
+Georgia,172,2015-08-01
+Georgia,101,2015-09-01
+Georgia,75,2015-10-01
+Georgia,80,2015-11-01
+Georgia,96,2015-12-01
+Hawaii,222,2015-01-01
+Hawaii,200,2015-02-01
+Hawaii,200,2015-03-01
+Hawaii,200,2015-04-01
+Hawaii,200,2015-05-01
+Hawaii,200,2015-06-01
+Hawaii,200,2015-07-01
+Hawaii,200,2015-08-01
+Hawaii,200,2015-09-01
+Hawaii,200,2015-10-01
+Hawaii,200,2015-11-01
+Hawaii,213,2015-12-01
+Idaho,150,2015-01-01
+Idaho,117,2015-02-01
+Idaho,92,2015-03-01
+Idaho,103,2015-04-01
+Idaho,80,2015-05-01
+Idaho,105,2015-06-01
+Idaho,156,2015-07-01
+Idaho,302,2015-08-01
+Idaho,146,2015-09-01
+Idaho,166,2015-10-01
+Idaho,146,2015-11-01
+Idaho,122,2015-12-01
+Illinois,92,2015-01-01
+Illinois,85,2015-02-01
+Illinois,105,2015-03-01
+Illinois,119,2015-04-01
+Illinois,116,2015-05-01
+Illinois,108,2015-06-01
+Illinois,183,2015-07-01
+Illinois,115,2015-08-01
+Illinois,112,2015-09-01
+Illinois,127,2015-10-01
+Illinois,134,2015-11-01
+Illinois,116,2015-12-01
+Indiana,124,2015-01-01
+Indiana,114,2015-02-01
+Indiana,132,2015-03-01
+Indiana,139,2015-04-01
+Indiana,126,2015-05-01
+Indiana,126,2015-06-01
+Indiana,169,2015-07-01
+Indiana,115,2015-08-01
+Indiana,164,2015-09-01
+Indiana,106,2015-10-01
+Indiana,164,2015-11-01
+Indiana,176,2015-12-01
+Iowa,121,2015-01-01
+Iowa,112,2015-02-01
+Iowa,132,2015-03-01
+Iowa,151,2015-04-01
+Iowa,114,2015-05-01
+Iowa,108,2015-06-01
+Iowa,154,2015-07-01
+Iowa,79,2015-08-01
+Iowa,86,2015-09-01
+Iowa,100,2015-10-01
+Iowa,85,2015-11-01
+Iowa,84,2015-12-01
+Kansas,83,2015-01-01
+Kansas,86,2015-02-01
+Kansas,93,2015-03-01
+Kansas,122,2015-04-01
+Kansas,100,2015-05-01
+Kansas,108,2015-06-01
+Kansas,128,2015-07-01
+Kansas,97,2015-08-01
+Kansas,87,2015-09-01
+Kansas,74,2015-10-01
+Kansas,71,2015-11-01
+Kansas,63,2015-12-01
+Kentucky,80,2015-01-01
+Kentucky,78,2015-02-01
+Kentucky,125,2015-03-01
+Kentucky,84,2015-04-01
+Kentucky,129,2015-05-01
+Kentucky,126,2015-06-01
+Kentucky,174,2015-07-01
+Kentucky,101,2015-08-01
+Kentucky,159,2015-09-01
+Kentucky,139,2015-10-01
+Kentucky,71,2015-11-01
+Kentucky,70,2015-12-01
+Louisiana,79,2015-01-01
+Louisiana,102,2015-02-01
+Louisiana,100,2015-03-01
+Louisiana,122,2015-04-01
+Louisiana,129,2015-05-01
+Louisiana,126,2015-06-01
+Louisiana,156,2015-07-01
+Louisiana,147,2015-08-01
+Louisiana,103,2015-09-01
+Louisiana,156,2015-10-01
+Louisiana,107,2015-11-01
+Louisiana,121,2015-12-01
+Maine,97,2015-01-01
+Maine,76,2015-02-01
+Maine,94,2015-03-01
+Maine,77,2015-04-01
+Maine,108,2015-05-01
+Maine,100,2015-06-01
+Maine,105,2015-07-01
+Maine,133,2015-08-01
+Maine,143,2015-09-01
+Maine,62,2015-10-01
+Maine,63,2015-11-01
+Maine,74,2015-12-01
+Maryland,85,2015-01-01
+Maryland,95,2015-02-01
+Maryland,82,2015-03-01
+Maryland,100,2015-04-01
+Maryland,112,2015-05-01
+Maryland,187,2015-06-01
+Maryland,101,2015-07-01
+Maryland,129,2015-08-01
+Maryland,156,2015-09-01
+Maryland,61,2015-10-01
+Maryland,73,2015-11-01
+Maryland,100,2015-12-01
+Massachusetts,79,2015-01-01
+Massachusetts,82,2015-02-01
+Massachusetts,81,2015-03-01
+Massachusetts,71,2015-04-01
+Massachusetts,108,2015-05-01
+Massachusetts,122,2015-06-01
+Massachusetts,112,2015-07-01
+Massachusetts,115,2015-08-01
+Massachusetts,156,2015-09-01
+Massachusetts,64,2015-10-01
+Massachusetts,79,2015-11-01
+Massachusetts,71,2015-12-01
+Michigan,105,2015-01-01
+Michigan,95,2015-02-01
+Michigan,114,2015-03-01
+Michigan,93,2015-04-01
+Michigan,119,2015-05-01
+Michigan,126,2015-06-01
+Michigan,165,2015-07-01
+Michigan,122,2015-08-01
+Michigan,133,2015-09-01
+Michigan,87,2015-10-01
+Michigan,97,2015-11-01
+Michigan,83,2015-12-01
+Minnesota,85,2015-01-01
+Minnesota,108,2015-02-01
+Minnesota,72,2015-03-01
+Minnesota,119,2015-04-01
+Minnesota,101,2015-05-01
+Minnesota,110,2015-06-01
+Minnesota,151,2015-07-01
+Minnesota,119,2015-08-01
+Minnesota,110,2015-09-01
+Minnesota,92,2015-10-01
+Minnesota,82,2015-11-01
+Minnesota,66,2015-12-01
+Mississippi,85,2015-01-01
+Mississippi,83,2015-02-01
+Mississippi,77,2015-03-01
+Mississippi,84,2015-04-01
+Mississippi,100,2015-05-01
+Mississippi,94,2015-06-01
+Mississippi,72,2015-07-01
+Mississippi,97,2015-08-01
+Mississippi,87,2015-09-01
+Mississippi,115,2015-10-01
+Mississippi,55,2015-11-01
+Mississippi,77,2015-12-01
+Missouri,133,2015-01-01
+Missouri,134,2015-02-01
+Missouri,121,2015-03-01
+Missouri,127,2015-04-01
+Missouri,123,2015-05-01
+Missouri,129,2015-06-01
+Missouri,136,2015-07-01
+Missouri,119,2015-08-01
+Missouri,124,2015-09-01
+Missouri,117,2015-10-01
+Missouri,154,2015-11-01
+Missouri,124,2015-12-01
+Montana,147,2015-01-01
+Montana,92,2015-02-01
+Montana,158,2015-03-01
+Montana,74,2015-04-01
+Montana,130,2015-05-01
+Montana,191,2015-06-01
+Montana,135,2015-07-01
+Montana,247,2015-08-01
+Montana,164,2015-09-01
+Montana,158,2015-10-01
+Montana,111,2015-11-01
+Montana,132,2015-12-01
+Nebraska,115,2015-01-01
+Nebraska,82,2015-02-01
+Nebraska,106,2015-03-01
+Nebraska,122,2015-04-01
+Nebraska,87,2015-05-01
+Nebraska,108,2015-06-01
+Nebraska,92,2015-07-01
+Nebraska,79,2015-08-01
+Nebraska,100,2015-09-01
+Nebraska,77,2015-10-01
+Nebraska,75,2015-11-01
+Nebraska,71,2015-12-01
+Nevada,92,2015-01-01
+Nevada,118,2015-02-01
+Nevada,80,2015-03-01
+Nevada,165,2015-04-01
+Nevada,100,2015-05-01
+Nevada,169,2015-06-01
+Nevada,119,2015-07-01
+Nevada,133,2015-08-01
+Nevada,171,2015-09-01
+Nevada,77,2015-10-01
+Nevada,86,2015-11-01
+Nevada,112,2015-12-01
+New Hampshire,154,2015-01-01
+New Hampshire,87,2015-02-01
+New Hampshire,70,2015-03-01
+New Hampshire,87,2015-04-01
+New Hampshire,140,2015-05-01
+New Hampshire,108,2015-06-01
+New Hampshire,87,2015-07-01
+New Hampshire,87,2015-08-01
+New Hampshire,129,2015-09-01
+New Hampshire,101,2015-10-01
+New Hampshire,74,2015-11-01
+New Hampshire,81,2015-12-01
+New Jersey,89,2015-01-01
+New Jersey,111,2015-02-01
+New Jersey,107,2015-03-01
+New Jersey,87,2015-04-01
+New Jersey,136,2015-05-01
+New Jersey,161,2015-06-01
+New Jersey,143,2015-07-01
+New Jersey,136,2015-08-01
+New Jersey,166,2015-09-01
+New Jersey,66,2015-10-01
+New Jersey,95,2015-11-01
+New Jersey,106,2015-12-01
+New Mexico,77,2015-01-01
+New Mexico,98,2015-02-01
+New Mexico,77,2015-03-01
+New Mexico,157,2015-04-01
+New Mexico,100,2015-05-01
+New Mexico,126,2015-06-01
+New Mexico,140,2015-07-01
+New Mexico,122,2015-08-01
+New Mexico,100,2015-09-01
+New Mexico,157,2015-10-01
+New Mexico,124,2015-11-01
+New Mexico,79,2015-12-01
+New York,79,2015-01-01
+New York,84,2015-02-01
+New York,105,2015-03-01
+New York,84,2015-04-01
+New York,140,2015-05-01
+New York,147,2015-06-01
+New York,129,2015-07-01
+New York,129,2015-08-01
+New York,150,2015-09-01
+New York,63,2015-10-01
+New York,79,2015-11-01
+New York,87,2015-12-01
+North Carolina,96,2015-01-01
+North Carolina,82,2015-02-01
+North Carolina,71,2015-03-01
+North Carolina,97,2015-04-01
+North Carolina,105,2015-05-01
+North Carolina,126,2015-06-01
+North Carolina,112,2015-07-01
+North Carolina,129,2015-08-01
+North Carolina,112,2015-09-01
+North Carolina,83,2015-10-01
+North Carolina,71,2015-11-01
+North Carolina,73,2015-12-01
+North Dakota,75,2015-01-01
+North Dakota,138,2015-02-01
+North Dakota,74,2015-03-01
+North Dakota,85,2015-04-01
+North Dakota,136,2015-05-01
+North Dakota,176,2015-06-01
+North Dakota,171,2015-07-01
+North Dakota,179,2015-08-01
+North Dakota,58,2015-09-01
+North Dakota,72,2015-10-01
+North Dakota,148,2015-11-01
+North Dakota,63,2015-12-01
+Ohio,103,2015-01-01
+Ohio,119,2015-02-01
+Ohio,113,2015-03-01
+Ohio,141,2015-04-01
+Ohio,143,2015-05-01
+Ohio,133,2015-06-01
+Ohio,156,2015-07-01
+Ohio,113,2015-08-01
+Ohio,112,2015-09-01
+Ohio,75,2015-10-01
+Ohio,100,2015-11-01
+Ohio,117,2015-12-01
+Oklahoma,87,2015-01-01
+Oklahoma,85,2015-02-01
+Oklahoma,84,2015-03-01
+Oklahoma,115,2015-04-01
+Oklahoma,108,2015-05-01
+Oklahoma,100,2015-06-01
+Oklahoma,96,2015-07-01
+Oklahoma,147,2015-08-01
+Oklahoma,152,2015-09-01
+Oklahoma,119,2015-10-01
+Oklahoma,80,2015-11-01
+Oklahoma,58,2015-12-01
+Oregon,155,2015-01-01
+Oregon,117,2015-02-01
+Oregon,85,2015-03-01
+Oregon,62,2015-04-01
+Oregon,80,2015-05-01
+Oregon,108,2015-06-01
+Oregon,164,2015-07-01
+Oregon,284,2015-08-01
+Oregon,87,2015-09-01
+Oregon,79,2015-10-01
+Oregon,151,2015-11-01
+Oregon,104,2015-12-01
+Pennsylvania,108,2015-01-01
+Pennsylvania,119,2015-02-01
+Pennsylvania,140,2015-03-01
+Pennsylvania,107,2015-04-01
+Pennsylvania,175,2015-05-01
+Pennsylvania,166,2015-06-01
+Pennsylvania,152,2015-07-01
+Pennsylvania,143,2015-08-01
+Pennsylvania,151,2015-09-01
+Pennsylvania,145,2015-10-01
+Pennsylvania,126,2015-11-01
+Pennsylvania,155,2015-12-01
+Puerto Rico,117,2015-01-01
+Puerto Rico,61,2015-02-01
+Puerto Rico,196,2015-03-01
+Puerto Rico,90,2015-04-01
+Puerto Rico,90,2015-05-01
+Puerto Rico,72,2015-06-01
+Puerto Rico,75,2015-07-01
+Puerto Rico,65,2015-08-01
+Puerto Rico,146,2015-09-01
+Puerto Rico,108,2015-10-01
+Puerto Rico,156,2015-11-01
+Puerto Rico,100,2015-12-01
+Rhode Island,65,2015-01-01
+Rhode Island,74,2015-02-01
+Rhode Island,170,2015-03-01
+Rhode Island,77,2015-04-01
+Rhode Island,100,2015-05-01
+Rhode Island,166,2015-06-01
+Rhode Island,122,2015-07-01
+Rhode Island,126,2015-08-01
+Rhode Island,115,2015-09-01
+Rhode Island,64,2015-10-01
+Rhode Island,60,2015-11-01
+Rhode Island,74,2015-12-01
+South Carolina,114,2015-01-01
+South Carolina,62,2015-02-01
+South Carolina,64,2015-03-01
+South Carolina,102,2015-04-01
+South Carolina,112,2015-05-01
+South Carolina,90,2015-06-01
+South Carolina,93,2015-07-01
+South Carolina,105,2015-08-01
+South Carolina,100,2015-09-01
+South Carolina,72,2015-10-01
+South Carolina,74,2015-11-01
+South Carolina,64,2015-12-01
+South Dakota,65,2015-01-01
+South Dakota,82,2015-02-01
+South Dakota,105,2015-03-01
+South Dakota,118,2015-04-01
+South Dakota,122,2015-05-01
+South Dakota,108,2015-06-01
+South Dakota,152,2015-07-01
+South Dakota,120,2015-08-01
+South Dakota,71,2015-09-01
+South Dakota,71,2015-10-01
+South Dakota,84,2015-11-01
+South Dakota,72,2015-12-01
+Tennessee,121,2015-01-01
+Tennessee,114,2015-02-01
+Tennessee,105,2015-03-01
+Tennessee,108,2015-04-01
+Tennessee,133,2015-05-01
+Tennessee,129,2015-06-01
+Tennessee,97,2015-07-01
+Tennessee,110,2015-08-01
+Tennessee,100,2015-09-01
+Tennessee,138,2015-10-01
+Tennessee,108,2015-11-01
+Tennessee,109,2015-12-01
+Texas,101,2015-01-01
+Texas,90,2015-02-01
+Texas,93,2015-03-01
+Texas,147,2015-04-01
+Texas,133,2015-05-01
+Texas,203,2015-06-01
+Texas,147,2015-07-01
+Texas,200,2015-08-01
+Texas,161,2015-09-01
+Texas,154,2015-10-01
+Texas,90,2015-11-01
+Texas,99,2015-12-01
+Utah,153,2015-01-01
+Utah,71,2015-02-01
+Utah,80,2015-03-01
+Utah,189,2015-04-01
+Utah,90,2015-05-01
+Utah,143,2015-06-01
+Utah,108,2015-07-01
+Utah,157,2015-08-01
+Utah,101,2015-09-01
+Utah,53,2015-10-01
+Utah,89,2015-11-01
+Utah,106,2015-12-01
+Vermont,121,2015-01-01
+Vermont,110,2015-02-01
+Vermont,82,2015-03-01
+Vermont,77,2015-04-01
+Vermont,100,2015-05-01
+Vermont,74,2015-06-01
+Vermont,64,2015-07-01
+Vermont,65,2015-08-01
+Vermont,87,2015-09-01
+Vermont,53,2015-10-01
+Vermont,69,2015-11-01
+Vermont,81,2015-12-01
+Virgin Islands,26,2015-01-01
+Virgin Islands,25,2015-02-01
+Virgin Islands,61,2015-03-01
+Virgin Islands,83,2015-04-01
+Virgin Islands,88,2015-05-01
+Virgin Islands,87,2015-06-01
+Virgin Islands,80,2015-07-01
+Virgin Islands,59,2015-08-01
+Virgin Islands,51,2015-09-01
+Virgin Islands,69,2015-10-01
+Virgin Islands,59,2015-11-01
+Virgin Islands,36,2015-12-01
+Virginia,85,2015-01-01
+Virginia,84,2015-02-01
+Virginia,71,2015-03-01
+Virginia,97,2015-04-01
+Virginia,105,2015-05-01
+Virginia,122,2015-06-01
+Virginia,105,2015-07-01
+Virginia,119,2015-08-01
+Virginia,126,2015-09-01
+Virginia,62,2015-10-01
+Virginia,71,2015-11-01
+Virginia,76,2015-12-01
+Washington,152,2015-01-01
+Washington,116,2015-02-01
+Washington,104,2015-03-01
+Washington,64,2015-04-01
+Washington,93,2015-05-01
+Washington,136,2015-06-01
+Washington,162,2015-07-01
+Washington,490,2015-08-01
+Washington,112,2015-09-01
+Washington,127,2015-10-01
+Washington,189,2015-11-01
+Washington,121,2015-12-01
+West Virginia,92,2015-01-01
+West Virginia,94,2015-02-01
+West Virginia,105,2015-03-01
+West Virginia,105,2015-04-01
+West Virginia,115,2015-05-01
+West Virginia,133,2015-06-01
+West Virginia,162,2015-07-01
+West Virginia,105,2015-08-01
+West Virginia,110,2015-09-01
+West Virginia,86,2015-10-01
+West Virginia,63,2015-11-01
+West Virginia,91,2015-12-01
+Wisconsin,112,2015-01-01
+Wisconsin,109,2015-02-01
+Wisconsin,130,2015-03-01
+Wisconsin,132,2015-04-01
+Wisconsin,130,2015-05-01
+Wisconsin,116,2015-06-01
+Wisconsin,159,2015-07-01
+Wisconsin,128,2015-08-01
+Wisconsin,147,2015-09-01
+Wisconsin,137,2015-10-01
+Wisconsin,140,2015-11-01
+Wisconsin,121,2015-12-01
+Wyoming,94,2015-01-01
+Wyoming,99,2015-02-01
+Wyoming,161,2015-03-01
+Wyoming,101,2015-04-01
+Wyoming,107,2015-05-01
+Wyoming,105,2015-06-01
+Wyoming,152,2015-07-01
+Wyoming,146,2015-08-01
+Wyoming,119,2015-09-01
+Wyoming,82,2015-10-01
+Wyoming,198,2015-11-01
+Wyoming,90,2015-12-01
+Alabama,94,2016-01-01
+Alabama,76,2016-02-01
+Alabama,81,2016-03-01
+Alabama,105,2016-04-01
+Alabama,170,2016-05-01
+Alabama,151,2016-06-01
+Alabama,139,2016-07-01
+Alabama,77,2016-08-01
+Alabama,100,2016-09-01
+Alabama,131,2016-10-01
+Alabama,119,2016-11-01
+Alabama,179,2016-12-01
+Alaska,178,2016-01-01
+Alaska,156,2016-02-01
+Alaska,88,2016-03-01
+Alaska,117,2016-04-01
+Alaska,70,2016-05-01
+Alaska,64,2016-06-01
+Alaska,52,2016-07-01
+Alaska,43,2016-08-01
+Alaska,59,2016-09-01
+Alaska,156,2016-10-01
+Alaska,160,2016-11-01
+Alaska,180,2016-12-01
+Arizona,203,2016-01-01
+Arizona,175,2016-02-01
+Arizona,200,2016-03-01
+Arizona,200,2016-04-01
+Arizona,200,2016-05-01
+Arizona,204,2016-06-01
+Arizona,1263,2016-07-01
+Arizona,172,2016-08-01
+Arizona,175,2016-09-01
+Arizona,168,2016-10-01
+Arizona,123,2016-11-01
+Arizona,419,2016-12-01
+Arkansas,64,2016-01-01
+Arkansas,67,2016-02-01
+Arkansas,67,2016-03-01
+Arkansas,84,2016-04-01
+Arkansas,101,2016-05-01
+Arkansas,159,2016-06-01
+Arkansas,71,2016-07-01
+Arkansas,66,2016-08-01
+Arkansas,158,2016-09-01
+Arkansas,80,2016-10-01
+Arkansas,74,2016-11-01
+Arkansas,63,2016-12-01
+California,748,2016-01-01
+California,154,2016-02-01
+California,2002,2016-03-01
+California,300,2016-04-01
+California,3950,2016-05-01
+California,2056,2016-06-01
+California,389,2016-07-01
+California,217,2016-08-01
+California,176,2016-09-01
+California,6403,2016-10-01
+California,2999,2016-11-01
+California,2184,2016-12-01
+Colorado,105,2016-01-01
+Colorado,90,2016-02-01
+Colorado,114,2016-03-01
+Colorado,271,2016-04-01
+Colorado,122,2016-05-01
+Colorado,154,2016-06-01
+Colorado,159,2016-07-01
+Colorado,133,2016-08-01
+Colorado,109,2016-09-01
+Colorado,78,2016-10-01
+Colorado,85,2016-11-01
+Colorado,133,2016-12-01
+Connecticut,94,2016-01-01
+Connecticut,78,2016-02-01
+Connecticut,77,2016-03-01
+Connecticut,108,2016-04-01
+Connecticut,185,2016-05-01
+Connecticut,154,2016-06-01
+Connecticut,187,2016-07-01
+Connecticut,154,2016-08-01
+Connecticut,133,2016-09-01
+Connecticut,81,2016-10-01
+Connecticut,135,2016-11-01
+Connecticut,73,2016-12-01
+Country Of Mexico,148,2016-01-01
+Country Of Mexico,134,2016-02-01
+Country Of Mexico,140,2016-03-01
+Country Of Mexico,137,2016-04-01
+Country Of Mexico,99,2016-05-01
+Country Of Mexico,122,2016-06-01
+Country Of Mexico,148,2016-07-01
+Country Of Mexico,116,2016-08-01
+Country Of Mexico,119,2016-09-01
+Country Of Mexico,163,2016-10-01
+Country Of Mexico,194,2016-11-01
+Country Of Mexico,162,2016-12-01
+Delaware,76,2016-01-01
+Delaware,75,2016-02-01
+Delaware,84,2016-03-01
+Delaware,100,2016-04-01
+Delaware,154,2016-05-01
+Delaware,112,2016-06-01
+Delaware,147,2016-07-01
+Delaware,108,2016-08-01
+Delaware,140,2016-09-01
+Delaware,54,2016-10-01
+Delaware,92,2016-11-01
+Delaware,74,2016-12-01
+District Of Columbia,115,2016-01-01
+District Of Columbia,73,2016-02-01
+District Of Columbia,67,2016-03-01
+District Of Columbia,93,2016-04-01
+District Of Columbia,105,2016-05-01
+District Of Columbia,97,2016-06-01
+District Of Columbia,129,2016-07-01
+District Of Columbia,80,2016-08-01
+District Of Columbia,112,2016-09-01
+District Of Columbia,92,2016-10-01
+District Of Columbia,102,2016-11-01
+District Of Columbia,68,2016-12-01
+Florida,144,2016-01-01
+Florida,104,2016-02-01
+Florida,84,2016-03-01
+Florida,115,2016-04-01
+Florida,154,2016-05-01
+Florida,97,2016-06-01
+Florida,175,2016-07-01
+Florida,74,2016-08-01
+Florida,96,2016-09-01
+Florida,164,2016-10-01
+Florida,122,2016-11-01
+Florida,75,2016-12-01
+Georgia,92,2016-01-01
+Georgia,93,2016-02-01
+Georgia,122,2016-03-01
+Georgia,126,2016-04-01
+Georgia,140,2016-05-01
+Georgia,200,2016-06-01
+Georgia,122,2016-07-01
+Georgia,115,2016-08-01
+Georgia,112,2016-09-01
+Georgia,130,2016-10-01
+Georgia,174,2016-11-01
+Georgia,102,2016-12-01
+Hawaii,216,2016-01-01
+Hawaii,337,2016-02-01
+Hawaii,200,2016-03-01
+Hawaii,200,2016-04-01
+Hawaii,200,2016-05-01
+Hawaii,200,2016-06-01
+Hawaii,200,2016-07-01
+Hawaii,200,2016-08-01
+Hawaii,200,2016-09-01
+Hawaii,200,2016-10-01
+Hawaii,200,2016-11-01
+Hawaii,200,2016-12-01
+Idaho,158,2016-01-01
+Idaho,146,2016-02-01
+Idaho,81,2016-03-01
+Idaho,80,2016-04-01
+Idaho,67,2016-05-01
+Idaho,108,2016-06-01
+Idaho,102,2016-07-01
+Idaho,165,2016-08-01
+Idaho,116,2016-09-01
+Idaho,109,2016-10-01
+Idaho,170,2016-11-01
+Idaho,150,2016-12-01
+Illinois,123,2016-01-01
+Illinois,141,2016-02-01
+Illinois,127,2016-03-01
+Illinois,119,2016-04-01
+Illinois,136,2016-05-01
+Illinois,151,2016-06-01
+Illinois,169,2016-07-01
+Illinois,150,2016-08-01
+Illinois,112,2016-09-01
+Illinois,67,2016-10-01
+Illinois,84,2016-11-01
+Illinois,71,2016-12-01
+Indiana,127,2016-01-01
+Indiana,110,2016-02-01
+Indiana,121,2016-03-01
+Indiana,217,2016-04-01
+Indiana,119,2016-05-01
+Indiana,151,2016-06-01
+Indiana,126,2016-07-01
+Indiana,139,2016-08-01
+Indiana,101,2016-09-01
+Indiana,90,2016-10-01
+Indiana,131,2016-11-01
+Indiana,81,2016-12-01
+Iowa,90,2016-01-01
+Iowa,88,2016-02-01
+Iowa,156,2016-03-01
+Iowa,84,2016-04-01
+Iowa,154,2016-05-01
+Iowa,112,2016-06-01
+Iowa,101,2016-07-01
+Iowa,85,2016-08-01
+Iowa,84,2016-09-01
+Iowa,76,2016-10-01
+Iowa,84,2016-11-01
+Iowa,95,2016-12-01
+Kansas,75,2016-01-01
+Kansas,77,2016-02-01
+Kansas,67,2016-03-01
+Kansas,195,2016-04-01
+Kansas,90,2016-05-01
+Kansas,129,2016-06-01
+Kansas,115,2016-07-01
+Kansas,71,2016-08-01
+Kansas,71,2016-09-01
+Kansas,98,2016-10-01
+Kansas,95,2016-11-01
+Kansas,67,2016-12-01
+Kentucky,82,2016-01-01
+Kentucky,83,2016-02-01
+Kentucky,71,2016-03-01
+Kentucky,112,2016-04-01
+Kentucky,112,2016-05-01
+Kentucky,156,2016-06-01
+Kentucky,112,2016-07-01
+Kentucky,101,2016-08-01
+Kentucky,126,2016-09-01
+Kentucky,77,2016-10-01
+Kentucky,164,2016-11-01
+Kentucky,95,2016-12-01
+Louisiana,97,2016-01-01
+Louisiana,123,2016-02-01
+Louisiana,100,2016-03-01
+Louisiana,112,2016-04-01
+Louisiana,126,2016-05-01
+Louisiana,108,2016-06-01
+Louisiana,126,2016-07-01
+Louisiana,87,2016-08-01
+Louisiana,116,2016-09-01
+Louisiana,146,2016-10-01
+Louisiana,95,2016-11-01
+Louisiana,73,2016-12-01
+Maine,80,2016-01-01
+Maine,66,2016-02-01
+Maine,79,2016-03-01
+Maine,101,2016-04-01
+Maine,90,2016-05-01
+Maine,164,2016-06-01
+Maine,122,2016-07-01
+Maine,108,2016-08-01
+Maine,54,2016-09-01
+Maine,46,2016-10-01
+Maine,77,2016-11-01
+Maine,89,2016-12-01
+Maryland,103,2016-01-01
+Maryland,71,2016-02-01
+Maryland,81,2016-03-01
+Maryland,115,2016-04-01
+Maryland,150,2016-05-01
+Maryland,133,2016-06-01
+Maryland,204,2016-07-01
+Maryland,140,2016-08-01
+Maryland,164,2016-09-01
+Maryland,58,2016-10-01
+Maryland,103,2016-11-01
+Maryland,71,2016-12-01
+Massachusetts,99,2016-01-01
+Massachusetts,71,2016-02-01
+Massachusetts,67,2016-03-01
+Massachusetts,93,2016-04-01
+Massachusetts,161,2016-05-01
+Massachusetts,101,2016-06-01
+Massachusetts,143,2016-07-01
+Massachusetts,100,2016-08-01
+Massachusetts,87,2016-09-01
+Massachusetts,60,2016-10-01
+Massachusetts,74,2016-11-01
+Massachusetts,85,2016-12-01
+Michigan,117,2016-01-01
+Michigan,115,2016-02-01
+Michigan,108,2016-03-01
+Michigan,129,2016-04-01
+Michigan,154,2016-05-01
+Michigan,159,2016-06-01
+Michigan,122,2016-07-01
+Michigan,129,2016-08-01
+Michigan,97,2016-09-01
+Michigan,102,2016-10-01
+Michigan,127,2016-11-01
+Michigan,105,2016-12-01
+Minnesota,105,2016-01-01
+Minnesota,83,2016-02-01
+Minnesota,77,2016-03-01
+Minnesota,89,2016-04-01
+Minnesota,151,2016-05-01
+Minnesota,93,2016-06-01
+Minnesota,87,2016-07-01
+Minnesota,67,2016-08-01
+Minnesota,105,2016-09-01
+Minnesota,86,2016-10-01
+Minnesota,78,2016-11-01
+Minnesota,110,2016-12-01
+Mississippi,71,2016-01-01
+Mississippi,59,2016-02-01
+Mississippi,63,2016-03-01
+Mississippi,87,2016-04-01
+Mississippi,100,2016-05-01
+Mississippi,100,2016-06-01
+Mississippi,90,2016-07-01
+Mississippi,115,2016-08-01
+Mississippi,75,2016-09-01
+Mississippi,84,2016-10-01
+Mississippi,80,2016-11-01
+Mississippi,59,2016-12-01
+Missouri,85,2016-01-01
+Missouri,95,2016-02-01
+Missouri,74,2016-03-01
+Missouri,90,2016-04-01
+Missouri,115,2016-05-01
+Missouri,151,2016-06-01
+Missouri,159,2016-07-01
+Missouri,136,2016-08-01
+Missouri,126,2016-09-01
+Missouri,87,2016-10-01
+Missouri,105,2016-11-01
+Missouri,88,2016-12-01
+Montana,149,2016-01-01
+Montana,129,2016-02-01
+Montana,83,2016-03-01
+Montana,76,2016-04-01
+Montana,124,2016-05-01
+Montana,96,2016-06-01
+Montana,68,2016-07-01
+Montana,165,2016-08-01
+Montana,365,2016-09-01
+Montana,114,2016-10-01
+Montana,132,2016-11-01
+Montana,138,2016-12-01
+Nebraska,73,2016-01-01
+Nebraska,99,2016-02-01
+Nebraska,69,2016-03-01
+Nebraska,126,2016-04-01
+Nebraska,130,2016-05-01
+Nebraska,103,2016-06-01
+Nebraska,87,2016-07-01
+Nebraska,52,2016-08-01
+Nebraska,58,2016-09-01
+Nebraska,61,2016-10-01
+Nebraska,108,2016-11-01
+Nebraska,90,2016-12-01
+Nevada,105,2016-01-01
+Nevada,73,2016-02-01
+Nevada,74,2016-03-01
+Nevada,100,2016-04-01
+Nevada,129,2016-05-01
+Nevada,147,2016-06-01
+Nevada,349,2016-07-01
+Nevada,133,2016-08-01
+Nevada,95,2016-09-01
+Nevada,134,2016-10-01
+Nevada,102,2016-11-01
+Nevada,78,2016-12-01
+New Hampshire,98,2016-01-01
+New Hampshire,63,2016-02-01
+New Hampshire,77,2016-03-01
+New Hampshire,90,2016-04-01
+New Hampshire,119,2016-05-01
+New Hampshire,87,2016-06-01
+New Hampshire,122,2016-07-01
+New Hampshire,93,2016-08-01
+New Hampshire,71,2016-09-01
+New Hampshire,101,2016-10-01
+New Hampshire,62,2016-11-01
+New Hampshire,72,2016-12-01
+New Jersey,105,2016-01-01
+New Jersey,95,2016-02-01
+New Jersey,110,2016-03-01
+New Jersey,93,2016-04-01
+New Jersey,161,2016-05-01
+New Jersey,129,2016-06-01
+New Jersey,136,2016-07-01
+New Jersey,119,2016-08-01
+New Jersey,129,2016-09-01
+New Jersey,80,2016-10-01
+New Jersey,142,2016-11-01
+New Jersey,97,2016-12-01
+New Mexico,82,2016-01-01
+New Mexico,82,2016-02-01
+New Mexico,143,2016-03-01
+New Mexico,147,2016-04-01
+New Mexico,158,2016-05-01
+New Mexico,129,2016-06-01
+New Mexico,168,2016-07-01
+New Mexico,108,2016-08-01
+New Mexico,93,2016-09-01
+New Mexico,82,2016-10-01
+New Mexico,98,2016-11-01
+New Mexico,585,2016-12-01
+New York,89,2016-01-01
+New York,69,2016-02-01
+New York,88,2016-03-01
+New York,108,2016-04-01
+New York,156,2016-05-01
+New York,133,2016-06-01
+New York,140,2016-07-01
+New York,108,2016-08-01
+New York,100,2016-09-01
+New York,68,2016-10-01
+New York,70,2016-11-01
+New York,64,2016-12-01
+North Carolina,87,2016-01-01
+North Carolina,108,2016-02-01
+North Carolina,91,2016-03-01
+North Carolina,119,2016-04-01
+North Carolina,136,2016-05-01
+North Carolina,156,2016-06-01
+North Carolina,119,2016-07-01
+North Carolina,90,2016-08-01
+North Carolina,115,2016-09-01
+North Carolina,128,2016-10-01
+North Carolina,174,2016-11-01
+North Carolina,104,2016-12-01
+North Dakota,79,2016-01-01
+North Dakota,74,2016-02-01
+North Dakota,56,2016-03-01
+North Dakota,75,2016-04-01
+North Dakota,117,2016-05-01
+North Dakota,64,2016-06-01
+North Dakota,58,2016-07-01
+North Dakota,68,2016-08-01
+North Dakota,62,2016-09-01
+North Dakota,61,2016-10-01
+North Dakota,106,2016-11-01
+North Dakota,107,2016-12-01
+Ohio,110,2016-01-01
+Ohio,200,2016-02-01
+Ohio,80,2016-03-01
+Ohio,122,2016-04-01
+Ohio,143,2016-05-01
+Ohio,140,2016-06-01
+Ohio,129,2016-07-01
+Ohio,119,2016-08-01
+Ohio,119,2016-09-01
+Ohio,64,2016-10-01
+Ohio,129,2016-11-01
+Ohio,86,2016-12-01
+Oklahoma,79,2016-01-01
+Oklahoma,102,2016-02-01
+Oklahoma,77,2016-03-01
+Oklahoma,126,2016-04-01
+Oklahoma,93,2016-05-01
+Oklahoma,164,2016-06-01
+Oklahoma,111,2016-07-01
+Oklahoma,115,2016-08-01
+Oklahoma,77,2016-09-01
+Oklahoma,108,2016-10-01
+Oklahoma,66,2016-11-01
+Oklahoma,101,2016-12-01
+Oregon,108,2016-01-01
+Oregon,93,2016-02-01
+Oregon,56,2016-03-01
+Oregon,57,2016-04-01
+Oregon,74,2016-05-01
+Oregon,112,2016-06-01
+Oregon,77,2016-07-01
+Oregon,108,2016-08-01
+Oregon,67,2016-09-01
+Oregon,87,2016-10-01
+Oregon,115,2016-11-01
+Oregon,158,2016-12-01
+Pennsylvania,152,2016-01-01
+Pennsylvania,102,2016-02-01
+Pennsylvania,101,2016-03-01
+Pennsylvania,115,2016-04-01
+Pennsylvania,147,2016-05-01
+Pennsylvania,147,2016-06-01
+Pennsylvania,217,2016-07-01
+Pennsylvania,133,2016-08-01
+Pennsylvania,143,2016-09-01
+Pennsylvania,99,2016-10-01
+Pennsylvania,144,2016-11-01
+Pennsylvania,87,2016-12-01
+Puerto Rico,129,2016-01-01
+Puerto Rico,52,2016-02-01
+Puerto Rico,225,2016-03-01
+Puerto Rico,127,2016-04-01
+Puerto Rico,129,2016-05-01
+Puerto Rico,162,2016-06-01
+Puerto Rico,119,2016-07-01
+Puerto Rico,150,2016-08-01
+Puerto Rico,107,2016-09-01
+Puerto Rico,198,2016-10-01
+Puerto Rico,93,2016-11-01
+Puerto Rico,203,2016-12-01
+Rhode Island,74,2016-01-01
+Rhode Island,68,2016-02-01
+Rhode Island,73,2016-03-01
+Rhode Island,84,2016-04-01
+Rhode Island,151,2016-05-01
+Rhode Island,115,2016-06-01
+Rhode Island,140,2016-07-01
+Rhode Island,87,2016-08-01
+Rhode Island,100,2016-09-01
+Rhode Island,66,2016-10-01
+Rhode Island,59,2016-11-01
+Rhode Island,77,2016-12-01
+South Carolina,62,2016-01-01
+South Carolina,119,2016-02-01
+South Carolina,84,2016-03-01
+South Carolina,108,2016-04-01
+South Carolina,122,2016-05-01
+South Carolina,126,2016-06-01
+South Carolina,90,2016-07-01
+South Carolina,77,2016-08-01
+South Carolina,105,2016-09-01
+South Carolina,80,2016-10-01
+South Carolina,188,2016-11-01
+South Carolina,69,2016-12-01
+South Dakota,77,2016-01-01
+South Dakota,76,2016-02-01
+South Dakota,63,2016-03-01
+South Dakota,108,2016-04-01
+South Dakota,112,2016-05-01
+South Dakota,105,2016-06-01
+South Dakota,67,2016-07-01
+South Dakota,74,2016-08-01
+South Dakota,66,2016-09-01
+South Dakota,73,2016-10-01
+South Dakota,70,2016-11-01
+South Dakota,66,2016-12-01
+Tennessee,94,2016-01-01
+Tennessee,108,2016-02-01
+Tennessee,103,2016-03-01
+Tennessee,155,2016-04-01
+Tennessee,112,2016-05-01
+Tennessee,143,2016-06-01
+Tennessee,115,2016-07-01
+Tennessee,120,2016-08-01
+Tennessee,135,2016-09-01
+Tennessee,111,2016-10-01
+Tennessee,177,2016-11-01
+Tennessee,136,2016-12-01
+Texas,77,2016-01-01
+Texas,103,2016-02-01
+Texas,108,2016-03-01
+Texas,147,2016-04-01
+Texas,147,2016-05-01
+Texas,174,2016-06-01
+Texas,143,2016-07-01
+Texas,159,2016-08-01
+Texas,136,2016-09-01
+Texas,147,2016-10-01
+Texas,134,2016-11-01
+Texas,160,2016-12-01
+Utah,129,2016-01-01
+Utah,216,2016-02-01
+Utah,61,2016-03-01
+Utah,97,2016-04-01
+Utah,93,2016-05-01
+Utah,166,2016-06-01
+Utah,122,2016-07-01
+Utah,166,2016-08-01
+Utah,97,2016-09-01
+Utah,106,2016-10-01
+Utah,102,2016-11-01
+Utah,151,2016-12-01
+Vermont,87,2016-01-01
+Vermont,58,2016-02-01
+Vermont,66,2016-03-01
+Vermont,84,2016-04-01
+Vermont,112,2016-05-01
+Vermont,90,2016-06-01
+Vermont,61,2016-07-01
+Vermont,77,2016-08-01
+Vermont,46,2016-09-01
+Vermont,46,2016-10-01
+Vermont,61,2016-11-01
+Vermont,60,2016-12-01
+Virgin Islands,45,2016-01-01
+Virgin Islands,45,2016-02-01
+Virgin Islands,22,2016-03-01
+Virgin Islands,65,2016-04-01
+Virgin Islands,47,2016-05-01
+Virgin Islands,46,2016-06-01
+Virgin Islands,52,2016-07-01
+Virgin Islands,50,2016-08-01
+Virgin Islands,64,2016-09-01
+Virgin Islands,38,2016-10-01
+Virgin Islands,16,2016-11-01
+Virgin Islands,19,2016-12-01
+Virginia,128,2016-01-01
+Virginia,75,2016-02-01
+Virginia,71,2016-03-01
+Virginia,122,2016-04-01
+Virginia,105,2016-05-01
+Virginia,112,2016-06-01
+Virginia,133,2016-07-01
+Virginia,129,2016-08-01
+Virginia,133,2016-09-01
+Virginia,59,2016-10-01
+Virginia,106,2016-11-01
+Virginia,69,2016-12-01
+Washington,186,2016-01-01
+Washington,126,2016-02-01
+Washington,59,2016-03-01
+Washington,118,2016-04-01
+Washington,67,2016-05-01
+Washington,122,2016-06-01
+Washington,105,2016-07-01
+Washington,115,2016-08-01
+Washington,61,2016-09-01
+Washington,92,2016-10-01
+Washington,92,2016-11-01
+Washington,153,2016-12-01
+West Virginia,97,2016-01-01
+West Virginia,70,2016-02-01
+West Virginia,70,2016-03-01
+West Virginia,119,2016-04-01
+West Virginia,105,2016-05-01
+West Virginia,129,2016-06-01
+West Virginia,112,2016-07-01
+West Virginia,85,2016-08-01
+West Virginia,97,2016-09-01
+West Virginia,84,2016-10-01
+West Virginia,109,2016-11-01
+West Virginia,72,2016-12-01
+Wisconsin,125,2016-01-01
+Wisconsin,123,2016-02-01
+Wisconsin,129,2016-03-01
+Wisconsin,148,2016-04-01
+Wisconsin,151,2016-05-01
+Wisconsin,154,2016-06-01
+Wisconsin,150,2016-07-01
+Wisconsin,185,2016-08-01
+Wisconsin,89,2016-09-01
+Wisconsin,90,2016-10-01
+Wisconsin,89,2016-11-01
+Wisconsin,66,2016-12-01
+Wyoming,100,2016-01-01
+Wyoming,91,2016-02-01
+Wyoming,67,2016-03-01
+Wyoming,93,2016-04-01
+Wyoming,110,2016-05-01
+Wyoming,100,2016-06-01
+Wyoming,111,2016-07-01
+Wyoming,93,2016-08-01
+Wyoming,99,2016-09-01
+Wyoming,96,2016-10-01
+Wyoming,173,2016-11-01
+Wyoming,141,2016-12-01
+Alabama,139,2017-01-01
+Alabama,116,2017-02-01
+Alabama,138,2017-03-01
+Alabama,100,2017-04-01
+Alabama,129,2017-05-01
+Alabama,221,2017-06-01
+Alabama,99,2017-07-01
+Alabama,101,2017-08-01
+Alabama,101,2017-09-01
+Alabama,103,2017-10-01
+Alabama,98,2017-11-01
+Alabama,114,2017-12-01
+Alaska,180,2017-01-01
+Alaska,160,2017-02-01
+Alaska,139,2017-03-01
+Alaska,77,2017-04-01
+Alaska,80,2017-05-01
+Alaska,71,2017-06-01
+Alaska,121,2017-07-01
+Alaska,58,2017-08-01
+Alaska,72,2017-09-01
+Alaska,66,2017-10-01
+Alaska,157,2017-11-01
+Alaska,171,2017-12-01
+Arizona,189,2017-01-01
+Arizona,235,2017-02-01
+Arizona,200,2017-03-01
+Arizona,173,2017-04-01
+Arizona,190,2017-05-01
+Arizona,161,2017-06-01
+Arizona,365,2017-07-01
+Arizona,197,2017-08-01
+Arizona,289,2017-09-01
+Arizona,200,2017-10-01
+Arizona,185,2017-11-01
+Arizona,190,2017-12-01
+Arkansas,60,2017-01-01
+Arkansas,77,2017-02-01
+Arkansas,77,2017-03-01
+Arkansas,77,2017-04-01
+Arkansas,90,2017-05-01
+Arkansas,140,2017-06-01
+Arkansas,84,2017-07-01
+Arkansas,90,2017-08-01
+Arkansas,97,2017-09-01
+Arkansas,83,2017-10-01
+Arkansas,76,2017-11-01
+Arkansas,72,2017-12-01
+California,1977,2017-01-01
+California,849,2017-02-01
+California,1296,2017-03-01
+California,3439,2017-04-01
+California,331,2017-05-01
+California,217,2017-06-01
+California,233,2017-07-01
+California,223,2017-08-01
+California,1245,2017-09-01
+California,1132,2017-10-01
+California,2434,2017-11-01
+California,537,2017-12-01
+Colorado,87,2017-01-01
+Colorado,68,2017-02-01
+Colorado,107,2017-03-01
+Colorado,140,2017-04-01
+Colorado,112,2017-05-01
+Colorado,119,2017-06-01
+Colorado,136,2017-07-01
+Colorado,126,2017-08-01
+Colorado,155,2017-09-01
+Colorado,85,2017-10-01
+Colorado,102,2017-11-01
+Colorado,94,2017-12-01
+Connecticut,83,2017-01-01
+Connecticut,74,2017-02-01
+Connecticut,72,2017-03-01
+Connecticut,97,2017-04-01
+Connecticut,164,2017-05-01
+Connecticut,179,2017-06-01
+Connecticut,161,2017-07-01
+Connecticut,115,2017-08-01
+Connecticut,90,2017-09-01
+Connecticut,60,2017-10-01
+Connecticut,70,2017-11-01
+Connecticut,71,2017-12-01
+Country Of Mexico,151,2017-01-01
+Country Of Mexico,156,2017-02-01
+Country Of Mexico,123,2017-03-01
+Country Of Mexico,102,2017-04-01
+Country Of Mexico,112,2017-05-01
+Country Of Mexico,143,2017-06-01
+Country Of Mexico,93,2017-07-01
+Country Of Mexico,81,2017-08-01
+Country Of Mexico,99,2017-09-01
+Country Of Mexico,162,2017-10-01
+Country Of Mexico,156,2017-11-01
+Country Of Mexico,417,2017-12-01
+Delaware,70,2017-01-01
+Delaware,81,2017-02-01
+Delaware,68,2017-03-01
+Delaware,93,2017-04-01
+Delaware,147,2017-05-01
+Delaware,112,2017-06-01
+Delaware,119,2017-07-01
+Delaware,77,2017-08-01
+Delaware,133,2017-09-01
+Delaware,58,2017-10-01
+Delaware,107,2017-11-01
+Delaware,117,2017-12-01
+District Of Columbia,68,2017-01-01
+District Of Columbia,81,2017-02-01
+District Of Columbia,57,2017-03-01
+District Of Columbia,84,2017-04-01
+District Of Columbia,105,2017-05-01
+District Of Columbia,108,2017-06-01
+District Of Columbia,119,2017-07-01
+District Of Columbia,77,2017-08-01
+District Of Columbia,80,2017-09-01
+District Of Columbia,67,2017-10-01
+District Of Columbia,86,2017-11-01
+District Of Columbia,88,2017-12-01
+Florida,84,2017-01-01
+Florida,89,2017-02-01
+Florida,136,2017-03-01
+Florida,103,2017-04-01
+Florida,150,2017-05-01
+Florida,78,2017-06-01
+Florida,96,2017-07-01
+Florida,84,2017-08-01
+Florida,97,2017-09-01
+Florida,87,2017-10-01
+Florida,94,2017-11-01
+Florida,123,2017-12-01
+Georgia,364,2017-01-01
+Georgia,95,2017-02-01
+Georgia,151,2017-03-01
+Georgia,151,2017-04-01
+Georgia,143,2017-05-01
+Georgia,97,2017-06-01
+Georgia,129,2017-07-01
+Georgia,150,2017-08-01
+Georgia,105,2017-09-01
+Georgia,84,2017-10-01
+Georgia,83,2017-11-01
+Georgia,99,2017-12-01
+Hawaii,200,2017-01-01
+Hawaii,277,2017-02-01
+Hawaii,200,2017-03-01
+Hawaii,200,2017-04-01
+Hawaii,200,2017-05-01
+Hawaii,200,2017-06-01
+Hawaii,200,2017-07-01
+Hawaii,200,2017-08-01
+Hawaii,200,2017-09-01
+Hawaii,200,2017-10-01
+Hawaii,200,2017-11-01
+Hawaii,200,2017-12-01
+Idaho,169,2017-01-01
+Idaho,166,2017-02-01
+Idaho,200,2017-03-01
+Idaho,61,2017-04-01
+Idaho,115,2017-05-01
+Idaho,97,2017-06-01
+Idaho,119,2017-07-01
+Idaho,163,2017-08-01
+Idaho,307,2017-09-01
+Idaho,99,2017-10-01
+Idaho,118,2017-11-01
+Idaho,152,2017-12-01
+Illinois,104,2017-01-01
+Illinois,94,2017-02-01
+Illinois,101,2017-03-01
+Illinois,100,2017-04-01
+Illinois,115,2017-05-01
+Illinois,150,2017-06-01
+Illinois,177,2017-07-01
+Illinois,119,2017-08-01
+Illinois,122,2017-09-01
+Illinois,104,2017-10-01
+Illinois,107,2017-11-01
+Illinois,85,2017-12-01
+Indiana,91,2017-01-01
+Indiana,85,2017-02-01
+Indiana,75,2017-03-01
+Indiana,114,2017-04-01
+Indiana,101,2017-05-01
+Indiana,147,2017-06-01
+Indiana,143,2017-07-01
+Indiana,80,2017-08-01
+Indiana,101,2017-09-01
+Indiana,77,2017-10-01
+Indiana,167,2017-11-01
+Indiana,116,2017-12-01
+Iowa,89,2017-01-01
+Iowa,79,2017-02-01
+Iowa,77,2017-03-01
+Iowa,103,2017-04-01
+Iowa,89,2017-05-01
+Iowa,97,2017-06-01
+Iowa,135,2017-07-01
+Iowa,89,2017-08-01
+Iowa,115,2017-09-01
+Iowa,90,2017-10-01
+Iowa,79,2017-11-01
+Iowa,82,2017-12-01
+Kansas,76,2017-01-01
+Kansas,80,2017-02-01
+Kansas,187,2017-03-01
+Kansas,100,2017-04-01
+Kansas,77,2017-05-01
+Kansas,84,2017-06-01
+Kansas,93,2017-07-01
+Kansas,101,2017-08-01
+Kansas,100,2017-09-01
+Kansas,74,2017-10-01
+Kansas,72,2017-11-01
+Kansas,83,2017-12-01
+Kentucky,57,2017-01-01
+Kentucky,75,2017-02-01
+Kentucky,74,2017-03-01
+Kentucky,94,2017-04-01
+Kentucky,119,2017-05-01
+Kentucky,115,2017-06-01
+Kentucky,112,2017-07-01
+Kentucky,108,2017-08-01
+Kentucky,112,2017-09-01
+Kentucky,109,2017-10-01
+Kentucky,107,2017-11-01
+Kentucky,111,2017-12-01
+Louisiana,83,2017-01-01
+Louisiana,96,2017-02-01
+Louisiana,101,2017-03-01
+Louisiana,105,2017-04-01
+Louisiana,129,2017-05-01
+Louisiana,119,2017-06-01
+Louisiana,110,2017-07-01
+Louisiana,95,2017-08-01
+Louisiana,140,2017-09-01
+Louisiana,92,2017-10-01
+Louisiana,85,2017-11-01
+Louisiana,99,2017-12-01
+Maine,97,2017-01-01
+Maine,74,2017-02-01
+Maine,68,2017-03-01
+Maine,150,2017-04-01
+Maine,147,2017-05-01
+Maine,182,2017-06-01
+Maine,71,2017-07-01
+Maine,90,2017-08-01
+Maine,70,2017-09-01
+Maine,54,2017-10-01
+Maine,74,2017-11-01
+Maine,85,2017-12-01
+Maryland,108,2017-01-01
+Maryland,125,2017-02-01
+Maryland,119,2017-03-01
+Maryland,125,2017-04-01
+Maryland,161,2017-05-01
+Maryland,166,2017-06-01
+Maryland,151,2017-07-01
+Maryland,127,2017-08-01
+Maryland,123,2017-09-01
+Maryland,159,2017-10-01
+Maryland,144,2017-11-01
+Maryland,199,2017-12-01
+Massachusetts,80,2017-01-01
+Massachusetts,76,2017-02-01
+Massachusetts,70,2017-03-01
+Massachusetts,105,2017-04-01
+Massachusetts,151,2017-05-01
+Massachusetts,177,2017-06-01
+Massachusetts,174,2017-07-01
+Massachusetts,105,2017-08-01
+Massachusetts,74,2017-09-01
+Massachusetts,75,2017-10-01
+Massachusetts,70,2017-11-01
+Massachusetts,73,2017-12-01
+Michigan,111,2017-01-01
+Michigan,86,2017-02-01
+Michigan,137,2017-03-01
+Michigan,118,2017-04-01
+Michigan,97,2017-05-01
+Michigan,186,2017-06-01
+Michigan,147,2017-07-01
+Michigan,119,2017-08-01
+Michigan,112,2017-09-01
+Michigan,106,2017-10-01
+Michigan,110,2017-11-01
+Michigan,101,2017-12-01
+Minnesota,93,2017-01-01
+Minnesota,85,2017-02-01
+Minnesota,74,2017-03-01
+Minnesota,82,2017-04-01
+Minnesota,80,2017-05-01
+Minnesota,100,2017-06-01
+Minnesota,97,2017-07-01
+Minnesota,115,2017-08-01
+Minnesota,96,2017-09-01
+Minnesota,85,2017-10-01
+Minnesota,83,2017-11-01
+Minnesota,82,2017-12-01
+Mississippi,69,2017-01-01
+Mississippi,62,2017-02-01
+Mississippi,64,2017-03-01
+Mississippi,80,2017-04-01
+Mississippi,105,2017-05-01
+Mississippi,74,2017-06-01
+Mississippi,100,2017-07-01
+Mississippi,67,2017-08-01
+Mississippi,74,2017-09-01
+Mississippi,64,2017-10-01
+Mississippi,77,2017-11-01
+Mississippi,85,2017-12-01
+Missouri,89,2017-01-01
+Missouri,149,2017-02-01
+Missouri,97,2017-03-01
+Missouri,87,2017-04-01
+Missouri,115,2017-05-01
+Missouri,159,2017-06-01
+Missouri,129,2017-07-01
+Missouri,100,2017-08-01
+Missouri,108,2017-09-01
+Missouri,76,2017-10-01
+Missouri,86,2017-11-01
+Missouri,104,2017-12-01
+Montana,160,2017-01-01
+Montana,143,2017-02-01
+Montana,122,2017-03-01
+Montana,67,2017-04-01
+Montana,64,2017-05-01
+Montana,103,2017-06-01
+Montana,184,2017-07-01
+Montana,457,2017-08-01
+Montana,593,2017-09-01
+Montana,89,2017-10-01
+Montana,115,2017-11-01
+Montana,123,2017-12-01
+Nebraska,64,2017-01-01
+Nebraska,68,2017-02-01
+Nebraska,73,2017-03-01
+Nebraska,97,2017-04-01
+Nebraska,114,2017-05-01
+Nebraska,100,2017-06-01
+Nebraska,100,2017-07-01
+Nebraska,100,2017-08-01
+Nebraska,142,2017-09-01
+Nebraska,102,2017-10-01
+Nebraska,83,2017-11-01
+Nebraska,113,2017-12-01
+Nevada,128,2017-01-01
+Nevada,129,2017-02-01
+Nevada,164,2017-03-01
+Nevada,97,2017-04-01
+Nevada,108,2017-05-01
+Nevada,154,2017-06-01
+Nevada,193,2017-07-01
+Nevada,119,2017-08-01
+Nevada,97,2017-09-01
+Nevada,87,2017-10-01
+Nevada,121,2017-11-01
+Nevada,167,2017-12-01
+New Hampshire,72,2017-01-01
+New Hampshire,71,2017-02-01
+New Hampshire,174,2017-03-01
+New Hampshire,126,2017-04-01
+New Hampshire,100,2017-05-01
+New Hampshire,112,2017-06-01
+New Hampshire,97,2017-07-01
+New Hampshire,93,2017-08-01
+New Hampshire,54,2017-09-01
+New Hampshire,58,2017-10-01
+New Hampshire,74,2017-11-01
+New Hampshire,65,2017-12-01
+New Jersey,103,2017-01-01
+New Jersey,106,2017-02-01
+New Jersey,114,2017-03-01
+New Jersey,122,2017-04-01
+New Jersey,143,2017-05-01
+New Jersey,140,2017-06-01
+New Jersey,122,2017-07-01
+New Jersey,105,2017-08-01
+New Jersey,126,2017-09-01
+New Jersey,77,2017-10-01
+New Jersey,91,2017-11-01
+New Jersey,122,2017-12-01
+New Mexico,76,2017-01-01
+New Mexico,192,2017-02-01
+New Mexico,617,2017-03-01
+New Mexico,332,2017-04-01
+New Mexico,191,2017-05-01
+New Mexico,151,2017-06-01
+New Mexico,122,2017-07-01
+New Mexico,122,2017-08-01
+New Mexico,133,2017-09-01
+New Mexico,84,2017-10-01
+New Mexico,73,2017-11-01
+New Mexico,91,2017-12-01
+New York,103,2017-01-01
+New York,104,2017-02-01
+New York,108,2017-03-01
+New York,112,2017-04-01
+New York,140,2017-05-01
+New York,159,2017-06-01
+New York,136,2017-07-01
+New York,122,2017-08-01
+New York,93,2017-09-01
+New York,80,2017-10-01
+New York,68,2017-11-01
+New York,97,2017-12-01
+North Carolina,124,2017-01-01
+North Carolina,148,2017-02-01
+North Carolina,152,2017-03-01
+North Carolina,183,2017-04-01
+North Carolina,125,2017-05-01
+North Carolina,110,2017-06-01
+North Carolina,115,2017-07-01
+North Carolina,110,2017-08-01
+North Carolina,115,2017-09-01
+North Carolina,137,2017-10-01
+North Carolina,177,2017-11-01
+North Carolina,162,2017-12-01
+North Dakota,89,2017-01-01
+North Dakota,59,2017-02-01
+North Dakota,70,2017-03-01
+North Dakota,71,2017-04-01
+North Dakota,68,2017-05-01
+North Dakota,110,2017-06-01
+North Dakota,108,2017-07-01
+North Dakota,97,2017-08-01
+North Dakota,198,2017-09-01
+North Dakota,90,2017-10-01
+North Dakota,119,2017-11-01
+North Dakota,95,2017-12-01
+Ohio,107,2017-01-01
+Ohio,79,2017-02-01
+Ohio,79,2017-03-01
+Ohio,87,2017-04-01
+Ohio,108,2017-05-01
+Ohio,143,2017-06-01
+Ohio,147,2017-07-01
+Ohio,119,2017-08-01
+Ohio,115,2017-09-01
+Ohio,105,2017-10-01
+Ohio,159,2017-11-01
+Ohio,106,2017-12-01
+Oklahoma,91,2017-01-01
+Oklahoma,82,2017-02-01
+Oklahoma,134,2017-03-01
+Oklahoma,107,2017-04-01
+Oklahoma,122,2017-05-01
+Oklahoma,126,2017-06-01
+Oklahoma,115,2017-07-01
+Oklahoma,119,2017-08-01
+Oklahoma,151,2017-09-01
+Oklahoma,122,2017-10-01
+Oklahoma,71,2017-11-01
+Oklahoma,75,2017-12-01
+Oregon,162,2017-01-01
+Oregon,101,2017-02-01
+Oregon,67,2017-03-01
+Oregon,58,2017-04-01
+Oregon,173,2017-05-01
+Oregon,248,2017-06-01
+Oregon,80,2017-07-01
+Oregon,365,2017-08-01
+Oregon,380,2017-09-01
+Oregon,92,2017-10-01
+Oregon,97,2017-11-01
+Oregon,151,2017-12-01
+Pennsylvania,120,2017-01-01
+Pennsylvania,103,2017-02-01
+Pennsylvania,140,2017-03-01
+Pennsylvania,112,2017-04-01
+Pennsylvania,166,2017-05-01
+Pennsylvania,136,2017-06-01
+Pennsylvania,129,2017-07-01
+Pennsylvania,130,2017-08-01
+Pennsylvania,140,2017-09-01
+Pennsylvania,114,2017-10-01
+Pennsylvania,200,2017-11-01
+Pennsylvania,164,2017-12-01
+Puerto Rico,64,2017-01-01
+Puerto Rico,116,2017-02-01
+Puerto Rico,67,2017-03-01
+Puerto Rico,64,2017-04-01
+Puerto Rico,234,2017-05-01
+Puerto Rico,74,2017-06-01
+Puerto Rico,91,2017-07-01
+Puerto Rico,92,2017-08-01
+Puerto Rico,101,2017-09-01
+Rhode Island,70,2017-01-01
+Rhode Island,60,2017-02-01
+Rhode Island,54,2017-03-01
+Rhode Island,71,2017-04-01
+Rhode Island,150,2017-05-01
+Rhode Island,151,2017-06-01
+Rhode Island,87,2017-07-01
+Rhode Island,80,2017-08-01
+Rhode Island,57,2017-09-01
+Rhode Island,67,2017-10-01
+Rhode Island,67,2017-11-01
+Rhode Island,69,2017-12-01
+South Carolina,88,2017-01-01
+South Carolina,77,2017-02-01
+South Carolina,82,2017-03-01
+South Carolina,84,2017-04-01
+South Carolina,108,2017-05-01
+South Carolina,97,2017-06-01
+South Carolina,105,2017-07-01
+South Carolina,84,2017-08-01
+South Carolina,112,2017-09-01
+South Carolina,61,2017-10-01
+South Carolina,113,2017-11-01
+South Carolina,83,2017-12-01
+South Dakota,107,2017-01-01
+South Dakota,65,2017-02-01
+South Dakota,61,2017-03-01
+South Dakota,97,2017-04-01
+South Dakota,87,2017-05-01
+South Dakota,100,2017-06-01
+South Dakota,100,2017-07-01
+South Dakota,72,2017-08-01
+South Dakota,159,2017-09-01
+South Dakota,66,2017-10-01
+South Dakota,64,2017-11-01
+South Dakota,76,2017-12-01
+Tennessee,141,2017-01-01
+Tennessee,102,2017-02-01
+Tennessee,115,2017-03-01
+Tennessee,106,2017-04-01
+Tennessee,108,2017-05-01
+Tennessee,161,2017-06-01
+Tennessee,133,2017-07-01
+Tennessee,114,2017-08-01
+Tennessee,91,2017-09-01
+Tennessee,90,2017-10-01
+Tennessee,104,2017-11-01
+Tennessee,200,2017-12-01
+Texas,188,2017-01-01
+Texas,121,2017-02-01
+Texas,171,2017-03-01
+Texas,161,2017-04-01
+Texas,183,2017-05-01
+Texas,193,2017-06-01
+Texas,153,2017-07-01
+Texas,143,2017-08-01
+Texas,177,2017-09-01
+Texas,170,2017-10-01
+Texas,160,2017-11-01
+Texas,159,2017-12-01
+Utah,179,2017-01-01
+Utah,206,2017-02-01
+Utah,71,2017-03-01
+Utah,100,2017-04-01
+Utah,105,2017-05-01
+Utah,119,2017-06-01
+Utah,162,2017-07-01
+Utah,112,2017-08-01
+Utah,143,2017-09-01
+Utah,99,2017-10-01
+Utah,85,2017-11-01
+Utah,155,2017-12-01
+Vermont,71,2017-01-01
+Vermont,64,2017-02-01
+Vermont,61,2017-03-01
+Vermont,101,2017-04-01
+Vermont,80,2017-05-01
+Vermont,87,2017-06-01
+Vermont,56,2017-07-01
+Vermont,62,2017-08-01
+Vermont,58,2017-09-01
+Vermont,54,2017-10-01
+Vermont,61,2017-11-01
+Vermont,77,2017-12-01
+Virgin Islands,28,2017-01-01
+Virgin Islands,56,2017-02-01
+Virgin Islands,31,2017-03-01
+Virgin Islands,21,2017-04-01
+Virgin Islands,80,2017-05-01
+Virgin Islands,55,2017-06-01
+Virgin Islands,66,2017-07-01
+Virgin Islands,56,2017-08-01
+Virgin Islands,36,2017-09-01
+Virginia,200,2017-01-01
+Virginia,200,2017-02-01
+Virginia,200,2017-03-01
+Virginia,200,2017-04-01
+Virginia,200,2017-05-01
+Virginia,188,2017-06-01
+Virginia,154,2017-07-01
+Virginia,140,2017-08-01
+Virginia,116,2017-09-01
+Virginia,74,2017-10-01
+Virginia,92,2017-11-01
+Virginia,86,2017-12-01
+Washington,155,2017-01-01
+Washington,133,2017-02-01
+Washington,106,2017-03-01
+Washington,119,2017-04-01
+Washington,100,2017-05-01
+Washington,140,2017-06-01
+Washington,158,2017-07-01
+Washington,195,2017-08-01
+Washington,283,2017-09-01
+Washington,103,2017-10-01
+Washington,106,2017-11-01
+Washington,113,2017-12-01
+West Virginia,82,2017-01-01
+West Virginia,151,2017-02-01
+West Virginia,132,2017-03-01
+West Virginia,156,2017-04-01
+West Virginia,84,2017-05-01
+West Virginia,105,2017-06-01
+West Virginia,91,2017-07-01
+West Virginia,81,2017-08-01
+West Virginia,97,2017-09-01
+West Virginia,150,2017-10-01
+West Virginia,158,2017-11-01
+West Virginia,200,2017-12-01
+Wisconsin,111,2017-01-01
+Wisconsin,90,2017-02-01
+Wisconsin,103,2017-03-01
+Wisconsin,122,2017-04-01
+Wisconsin,132,2017-05-01
+Wisconsin,147,2017-06-01
+Wisconsin,140,2017-07-01
+Wisconsin,136,2017-08-01
+Wisconsin,143,2017-09-01
+Wisconsin,89,2017-10-01
+Wisconsin,101,2017-11-01
+Wisconsin,97,2017-12-01
+Wyoming,122,2017-01-01
+Wyoming,122,2017-02-01
+Wyoming,150,2017-03-01
+Wyoming,131,2017-04-01
+Wyoming,103,2017-05-01
+Wyoming,264,2017-06-01
+Wyoming,105,2017-07-01
+Wyoming,93,2017-08-01
+Wyoming,164,2017-09-01
+Wyoming,159,2017-10-01
+Wyoming,696,2017-11-01
+Wyoming,208,2017-12-01
+Alabama,153,2018-01-01
+Alabama,76,2018-02-01
+Alabama,101,2018-03-01
+Alabama,102,2018-04-01
+Alabama,105,2018-05-01
+Alabama,156,2018-06-01
+Alabama,100,2018-07-01
+Alabama,122,2018-08-01
+Alabama,93,2018-09-01
+Alabama,90,2018-10-01
+Alabama,77,2018-11-01
+Alabama,96,2018-12-01
+Alaska,156,2018-01-01
+Alaska,153,2018-02-01
+Alaska,87,2018-03-01
+Alaska,117,2018-04-01
+Alaska,101,2018-05-01
+Alaska,154,2018-06-01
+Alaska,73,2018-07-01
+Alaska,56,2018-08-01
+Alaska,113,2018-09-01
+Alaska,95,2018-10-01
+Alaska,155,2018-11-01
+Alaska,153,2018-12-01
+Arizona,249,2018-01-01
+Arizona,290,2018-02-01
+Arizona,126,2018-03-01
+Arizona,996,2018-04-01
+Arizona,245,2018-05-01
+Arizona,136,2018-06-01
+Arizona,560,2018-07-01
+Arizona,554,2018-08-01
+Arizona,119,2018-09-01
+Arizona,126,2018-10-01
+Arizona,142,2018-11-01
+Arizona,153,2018-12-01
+Arkansas,78,2018-01-01
+Arkansas,66,2018-02-01
+Arkansas,93,2018-03-01
+Arkansas,87,2018-04-01
+Arkansas,90,2018-05-01
+Arkansas,122,2018-06-01
+Arkansas,122,2018-07-01
+Arkansas,115,2018-08-01
+Arkansas,90,2018-09-01
+Arkansas,66,2018-10-01
+Arkansas,72,2018-11-01
+Arkansas,74,2018-12-01
+California,180,2018-01-01
+California,994,2018-02-01
+California,241,2018-03-01
+California,476,2018-04-01
+California,624,2018-05-01
+California,221,2018-06-01
+California,301,2018-07-01
+California,297,2018-08-01
+California,202,2018-09-01
+California,133,2018-10-01
+California,445,2018-11-01
+California,159,2018-12-01
+Colorado,106,2018-01-01
+Colorado,128,2018-02-01
+Colorado,90,2018-03-01
+Colorado,235,2018-04-01
+Colorado,122,2018-05-01
+Colorado,218,2018-06-01
+Colorado,162,2018-07-01
+Colorado,156,2018-08-01
+Colorado,126,2018-09-01
+Colorado,73,2018-10-01
+Colorado,75,2018-11-01
+Colorado,78,2018-12-01
+Connecticut,104,2018-01-01
+Connecticut,67,2018-02-01
+Connecticut,65,2018-03-01
+Connecticut,80,2018-04-01
+Connecticut,147,2018-05-01
+Connecticut,143,2018-06-01
+Connecticut,185,2018-07-01
+Connecticut,164,2018-08-01
+Connecticut,126,2018-09-01
+Connecticut,52,2018-10-01
+Connecticut,70,2018-11-01
+Connecticut,89,2018-12-01
+Country Of Mexico,369,2018-01-01
+Country Of Mexico,159,2018-02-01
+Country Of Mexico,95,2018-03-01
+Country Of Mexico,131,2018-04-01
+Country Of Mexico,101,2018-05-01
+Country Of Mexico,119,2018-06-01
+Country Of Mexico,133,2018-07-01
+Country Of Mexico,95,2018-08-01
+Country Of Mexico,64,2018-09-01
+Country Of Mexico,86,2018-10-01
+Country Of Mexico,105,2018-11-01
+Country Of Mexico,135,2018-12-01
+Delaware,77,2018-01-01
+Delaware,64,2018-02-01
+Delaware,69,2018-03-01
+Delaware,84,2018-04-01
+Delaware,115,2018-05-01
+Delaware,119,2018-06-01
+Delaware,150,2018-07-01
+Delaware,90,2018-08-01
+Delaware,122,2018-09-01
+Delaware,56,2018-10-01
+Delaware,75,2018-11-01
+Delaware,73,2018-12-01
+District Of Columbia,79,2018-01-01
+District Of Columbia,71,2018-02-01
+District Of Columbia,72,2018-03-01
+District Of Columbia,77,2018-04-01
+District Of Columbia,97,2018-05-01
+District Of Columbia,122,2018-06-01
+District Of Columbia,164,2018-07-01
+District Of Columbia,93,2018-08-01
+District Of Columbia,84,2018-09-01
+District Of Columbia,54,2018-10-01
+District Of Columbia,64,2018-11-01
+District Of Columbia,81,2018-12-01
+Florida,124,2018-01-01
+Florida,76,2018-02-01
+Florida,119,2018-03-01
+Florida,151,2018-04-01
+Florida,122,2018-05-01
+Florida,90,2018-06-01
+Florida,155,2018-07-01
+Florida,74,2018-08-01
+Florida,75,2018-09-01
+Florida,127,2018-10-01
+Florida,78,2018-11-01
+Florida,126,2018-12-01
+Georgia,84,2018-01-01
+Georgia,72,2018-02-01
+Georgia,137,2018-03-01
+Georgia,100,2018-04-01
+Georgia,115,2018-05-01
+Georgia,150,2018-06-01
+Georgia,129,2018-07-01
+Georgia,112,2018-08-01
+Georgia,109,2018-09-01
+Georgia,85,2018-10-01
+Georgia,85,2018-11-01
+Georgia,82,2018-12-01
+Hawaii,200,2018-01-01
+Hawaii,200,2018-02-01
+Hawaii,200,2018-03-01
+Hawaii,200,2018-04-01
+Hawaii,200,2018-05-01
+Hawaii,249,2018-06-01
+Hawaii,244,2018-07-01
+Hawaii,200,2018-08-01
+Hawaii,49,2018-09-01
+Hawaii,103,2018-10-01
+Hawaii,58,2018-11-01
+Hawaii,121,2018-12-01
+Idaho,116,2018-01-01
+Idaho,96,2018-02-01
+Idaho,71,2018-03-01
+Idaho,84,2018-04-01
+Idaho,77,2018-05-01
+Idaho,77,2018-06-01
+Idaho,130,2018-07-01
+Idaho,245,2018-08-01
+Idaho,87,2018-09-01
+Idaho,99,2018-10-01
+Idaho,133,2018-11-01
+Idaho,121,2018-12-01
+Illinois,101,2018-01-01
+Illinois,87,2018-02-01
+Illinois,107,2018-03-01
+Illinois,118,2018-04-01
+Illinois,177,2018-05-01
+Illinois,174,2018-06-01
+Illinois,151,2018-07-01
+Illinois,118,2018-08-01
+Illinois,116,2018-09-01
+Illinois,76,2018-10-01
+Illinois,91,2018-11-01
+Illinois,106,2018-12-01
+Indiana,89,2018-01-01
+Indiana,113,2018-02-01
+Indiana,161,2018-03-01
+Indiana,108,2018-04-01
+Indiana,161,2018-05-01
+Indiana,143,2018-06-01
+Indiana,156,2018-07-01
+Indiana,97,2018-08-01
+Indiana,80,2018-09-01
+Indiana,62,2018-10-01
+Indiana,99,2018-11-01
+Indiana,92,2018-12-01
+Iowa,74,2018-01-01
+Iowa,81,2018-02-01
+Iowa,77,2018-03-01
+Iowa,102,2018-04-01
+Iowa,129,2018-05-01
+Iowa,112,2018-06-01
+Iowa,85,2018-07-01
+Iowa,93,2018-08-01
+Iowa,88,2018-09-01
+Iowa,73,2018-10-01
+Iowa,95,2018-11-01
+Iowa,81,2018-12-01
+Kansas,83,2018-01-01
+Kansas,64,2018-02-01
+Kansas,87,2018-03-01
+Kansas,130,2018-04-01
+Kansas,100,2018-05-01
+Kansas,100,2018-06-01
+Kansas,172,2018-07-01
+Kansas,100,2018-08-01
+Kansas,93,2018-09-01
+Kansas,77,2018-10-01
+Kansas,78,2018-11-01
+Kansas,78,2018-12-01
+Kentucky,78,2018-01-01
+Kentucky,101,2018-02-01
+Kentucky,120,2018-03-01
+Kentucky,120,2018-04-01
+Kentucky,97,2018-05-01
+Kentucky,147,2018-06-01
+Kentucky,166,2018-07-01
+Kentucky,108,2018-08-01
+Kentucky,110,2018-09-01
+Kentucky,107,2018-10-01
+Kentucky,96,2018-11-01
+Kentucky,95,2018-12-01
+Louisiana,153,2018-01-01
+Louisiana,110,2018-02-01
+Louisiana,130,2018-03-01
+Louisiana,108,2018-04-01
+Louisiana,129,2018-05-01
+Louisiana,150,2018-06-01
+Louisiana,128,2018-07-01
+Louisiana,126,2018-08-01
+Louisiana,93,2018-09-01
+Louisiana,101,2018-10-01
+Louisiana,75,2018-11-01
+Louisiana,89,2018-12-01
+Maine,83,2018-01-01
+Maine,82,2018-02-01
+Maine,62,2018-03-01
+Maine,93,2018-04-01
+Maine,170,2018-05-01
+Maine,93,2018-06-01
+Maine,119,2018-07-01
+Maine,164,2018-08-01
+Maine,48,2018-09-01
+Maine,44,2018-10-01
+Maine,97,2018-11-01
+Maine,84,2018-12-01
+Maryland,105,2018-01-01
+Maryland,200,2018-02-01
+Maryland,103,2018-03-01
+Maryland,135,2018-04-01
+Maryland,176,2018-05-01
+Maryland,150,2018-06-01
+Maryland,166,2018-07-01
+Maryland,112,2018-08-01
+Maryland,119,2018-09-01
+Maryland,114,2018-10-01
+Maryland,125,2018-11-01
+Maryland,129,2018-12-01
+Massachusetts,122,2018-01-01
+Massachusetts,72,2018-02-01
+Massachusetts,66,2018-03-01
+Massachusetts,80,2018-04-01
+Massachusetts,133,2018-05-01
+Massachusetts,126,2018-06-01
+Massachusetts,133,2018-07-01
+Massachusetts,133,2018-08-01
+Massachusetts,64,2018-09-01
+Massachusetts,66,2018-10-01
+Massachusetts,65,2018-11-01
+Massachusetts,76,2018-12-01
+Michigan,95,2018-01-01
+Michigan,79,2018-02-01
+Michigan,106,2018-03-01
+Michigan,84,2018-04-01
+Michigan,174,2018-05-01
+Michigan,143,2018-06-01
+Michigan,156,2018-07-01
+Michigan,133,2018-08-01
+Michigan,68,2018-09-01
+Michigan,104,2018-10-01
+Michigan,99,2018-11-01
+Michigan,116,2018-12-01
+Minnesota,74,2018-01-01
+Minnesota,80,2018-02-01
+Minnesota,90,2018-03-01
+Minnesota,104,2018-04-01
+Minnesota,133,2018-05-01
+Minnesota,87,2018-06-01
+Minnesota,97,2018-07-01
+Minnesota,109,2018-08-01
+Minnesota,87,2018-09-01
+Minnesota,111,2018-10-01
+Minnesota,73,2018-11-01
+Minnesota,100,2018-12-01
+Mississippi,77,2018-01-01
+Mississippi,58,2018-02-01
+Mississippi,102,2018-03-01
+Mississippi,119,2018-04-01
+Mississippi,115,2018-05-01
+Mississippi,159,2018-06-01
+Mississippi,94,2018-07-01
+Mississippi,112,2018-08-01
+Mississippi,84,2018-09-01
+Mississippi,74,2018-10-01
+Mississippi,85,2018-11-01
+Mississippi,96,2018-12-01
+Missouri,87,2018-01-01
+Missouri,85,2018-02-01
+Missouri,100,2018-03-01
+Missouri,97,2018-04-01
+Missouri,136,2018-05-01
+Missouri,182,2018-06-01
+Missouri,143,2018-07-01
+Missouri,137,2018-08-01
+Missouri,174,2018-09-01
+Missouri,185,2018-10-01
+Missouri,200,2018-11-01
+Missouri,200,2018-12-01
+Montana,154,2018-01-01
+Montana,83,2018-02-01
+Montana,92,2018-03-01
+Montana,120,2018-04-01
+Montana,109,2018-05-01
+Montana,108,2018-06-01
+Montana,109,2018-07-01
+Montana,182,2018-08-01
+Montana,114,2018-09-01
+Montana,101,2018-10-01
+Montana,126,2018-11-01
+Montana,89,2018-12-01
+Nebraska,68,2018-01-01
+Nebraska,81,2018-02-01
+Nebraska,62,2018-03-01
+Nebraska,94,2018-04-01
+Nebraska,108,2018-05-01
+Nebraska,101,2018-06-01
+Nebraska,97,2018-07-01
+Nebraska,87,2018-08-01
+Nebraska,57,2018-09-01
+Nebraska,53,2018-10-01
+Nebraska,86,2018-11-01
+Nebraska,58,2018-12-01
+Nevada,154,2018-01-01
+Nevada,122,2018-02-01
+Nevada,77,2018-03-01
+Nevada,97,2018-04-01
+Nevada,112,2018-05-01
+Nevada,136,2018-06-01
+Nevada,147,2018-07-01
+Nevada,205,2018-08-01
+Nevada,97,2018-09-01
+Nevada,89,2018-10-01
+Nevada,82,2018-11-01
+Nevada,87,2018-12-01
+New Hampshire,84,2018-01-01
+New Hampshire,76,2018-02-01
+New Hampshire,58,2018-03-01
+New Hampshire,101,2018-04-01
+New Hampshire,115,2018-05-01
+New Hampshire,80,2018-06-01
+New Hampshire,115,2018-07-01
+New Hampshire,101,2018-08-01
+New Hampshire,48,2018-09-01
+New Hampshire,43,2018-10-01
+New Hampshire,57,2018-11-01
+New Hampshire,58,2018-12-01
+New Jersey,107,2018-01-01
+New Jersey,84,2018-02-01
+New Jersey,77,2018-03-01
+New Jersey,97,2018-04-01
+New Jersey,119,2018-05-01
+New Jersey,129,2018-06-01
+New Jersey,187,2018-07-01
+New Jersey,119,2018-08-01
+New Jersey,97,2018-09-01
+New Jersey,66,2018-10-01
+New Jersey,88,2018-11-01
+New Jersey,87,2018-12-01
+New Mexico,102,2018-01-01
+New Mexico,138,2018-02-01
+New Mexico,138,2018-03-01
+New Mexico,187,2018-04-01
+New Mexico,155,2018-05-01
+New Mexico,185,2018-06-01
+New Mexico,136,2018-07-01
+New Mexico,174,2018-08-01
+New Mexico,133,2018-09-01
+New Mexico,50,2018-10-01
+New Mexico,79,2018-11-01
+New Mexico,86,2018-12-01
+New York,104,2018-01-01
+New York,108,2018-02-01
+New York,113,2018-03-01
+New York,110,2018-04-01
+New York,126,2018-05-01
+New York,133,2018-06-01
+New York,210,2018-07-01
+New York,143,2018-08-01
+New York,101,2018-09-01
+New York,105,2018-10-01
+New York,97,2018-11-01
+New York,101,2018-12-01
+North Carolina,199,2018-01-01
+North Carolina,182,2018-02-01
+North Carolina,141,2018-03-01
+North Carolina,142,2018-04-01
+North Carolina,141,2018-05-01
+North Carolina,120,2018-06-01
+North Carolina,122,2018-07-01
+North Carolina,108,2018-08-01
+North Carolina,71,2018-09-01
+North Carolina,95,2018-10-01
+North Carolina,87,2018-11-01
+North Carolina,81,2018-12-01
+North Dakota,122,2018-01-01
+North Dakota,63,2018-02-01
+North Dakota,84,2018-03-01
+North Dakota,94,2018-04-01
+North Dakota,100,2018-05-01
+North Dakota,127,2018-06-01
+North Dakota,69,2018-07-01
+North Dakota,153,2018-08-01
+North Dakota,84,2018-09-01
+North Dakota,119,2018-10-01
+North Dakota,59,2018-11-01
+North Dakota,82,2018-12-01
+Ohio,88,2018-01-01
+Ohio,107,2018-02-01
+Ohio,72,2018-03-01
+Ohio,138,2018-04-01
+Ohio,151,2018-05-01
+Ohio,140,2018-06-01
+Ohio,159,2018-07-01
+Ohio,143,2018-08-01
+Ohio,100,2018-09-01
+Ohio,65,2018-10-01
+Ohio,98,2018-11-01
+Ohio,99,2018-12-01
+Oklahoma,70,2018-01-01
+Oklahoma,68,2018-02-01
+Oklahoma,145,2018-03-01
+Oklahoma,121,2018-04-01
+Oklahoma,126,2018-05-01
+Oklahoma,112,2018-06-01
+Oklahoma,192,2018-07-01
+Oklahoma,129,2018-08-01
+Oklahoma,61,2018-09-01
+Oklahoma,59,2018-10-01
+Oklahoma,196,2018-11-01
+Oklahoma,81,2018-12-01
+Oregon,101,2018-01-01
+Oregon,100,2018-02-01
+Oregon,74,2018-03-01
+Oregon,145,2018-04-01
+Oregon,189,2018-05-01
+Oregon,119,2018-06-01
+Oregon,214,2018-07-01
+Oregon,233,2018-08-01
+Oregon,153,2018-09-01
+Oregon,95,2018-10-01
+Oregon,126,2018-11-01
+Oregon,102,2018-12-01
+Pennsylvania,130,2018-01-01
+Pennsylvania,108,2018-02-01
+Pennsylvania,146,2018-03-01
+Pennsylvania,118,2018-04-01
+Pennsylvania,137,2018-05-01
+Pennsylvania,154,2018-06-01
+Pennsylvania,164,2018-07-01
+Pennsylvania,102,2018-08-01
+Pennsylvania,133,2018-09-01
+Pennsylvania,102,2018-10-01
+Pennsylvania,108,2018-11-01
+Pennsylvania,132,2018-12-01
+Puerto Rico,38,2018-01-01
+Puerto Rico,67,2018-02-01
+Puerto Rico,166,2018-03-01
+Puerto Rico,62,2018-04-01
+Puerto Rico,65,2018-05-01
+Puerto Rico,169,2018-06-01
+Puerto Rico,94,2018-07-01
+Puerto Rico,123,2018-08-01
+Puerto Rico,155,2018-09-01
+Puerto Rico,164,2018-10-01
+Puerto Rico,64,2018-11-01
+Puerto Rico,78,2018-12-01
+Rhode Island,75,2018-01-01
+Rhode Island,66,2018-02-01
+Rhode Island,57,2018-03-01
+Rhode Island,71,2018-04-01
+Rhode Island,147,2018-05-01
+Rhode Island,101,2018-06-01
+Rhode Island,143,2018-07-01
+Rhode Island,115,2018-08-01
+Rhode Island,71,2018-09-01
+Rhode Island,52,2018-10-01
+Rhode Island,61,2018-11-01
+Rhode Island,63,2018-12-01
+South Carolina,68,2018-01-01
+South Carolina,59,2018-02-01
+South Carolina,104,2018-03-01
+South Carolina,90,2018-04-01
+South Carolina,97,2018-05-01
+South Carolina,115,2018-06-01
+South Carolina,115,2018-07-01
+South Carolina,64,2018-08-01
+South Carolina,58,2018-09-01
+South Carolina,64,2018-10-01
+South Carolina,63,2018-11-01
+South Carolina,71,2018-12-01
+South Dakota,75,2018-01-01
+South Dakota,109,2018-02-01
+South Dakota,66,2018-03-01
+South Dakota,93,2018-04-01
+South Dakota,115,2018-05-01
+South Dakota,429,2018-06-01
+South Dakota,78,2018-07-01
+South Dakota,132,2018-08-01
+South Dakota,89,2018-09-01
+South Dakota,66,2018-10-01
+South Dakota,84,2018-11-01
+South Dakota,70,2018-12-01
+Tennessee,110,2018-01-01
+Tennessee,87,2018-02-01
+Tennessee,106,2018-03-01
+Tennessee,108,2018-04-01
+Tennessee,115,2018-05-01
+Tennessee,151,2018-06-01
+Tennessee,133,2018-07-01
+Tennessee,101,2018-08-01
+Tennessee,108,2018-09-01
+Tennessee,87,2018-10-01
+Tennessee,114,2018-11-01
+Tennessee,105,2018-12-01
+Texas,127,2018-01-01
+Texas,111,2018-02-01
+Texas,200,2018-03-01
+Texas,156,2018-04-01
+Texas,166,2018-05-01
+Texas,168,2018-06-01
+Texas,204,2018-07-01
+Texas,185,2018-08-01
+Texas,159,2018-09-01
+Texas,142,2018-10-01
+Texas,200,2018-11-01
+Texas,162,2018-12-01
+Utah,123,2018-01-01
+Utah,60,2018-02-01
+Utah,103,2018-03-01
+Utah,108,2018-04-01
+Utah,112,2018-05-01
+Utah,169,2018-06-01
+Utah,157,2018-07-01
+Utah,159,2018-08-01
+Utah,162,2018-09-01
+Utah,80,2018-10-01
+Utah,80,2018-11-01
+Utah,128,2018-12-01
+Vermont,89,2018-01-01
+Vermont,86,2018-02-01
+Vermont,56,2018-03-01
+Vermont,84,2018-04-01
+Vermont,101,2018-05-01
+Vermont,54,2018-06-01
+Vermont,74,2018-07-01
+Vermont,64,2018-08-01
+Vermont,43,2018-09-01
+Vermont,51,2018-10-01
+Vermont,61,2018-11-01
+Vermont,78,2018-12-01
+Virgin Islands,68,2018-07-01
+Virgin Islands,85,2018-08-01
+Virgin Islands,126,2018-09-01
+Virgin Islands,58,2018-10-01
+Virgin Islands,43,2018-11-01
+Virgin Islands,32,2018-12-01
+Virginia,115,2018-01-01
+Virginia,118,2018-02-01
+Virginia,58,2018-03-01
+Virginia,93,2018-04-01
+Virginia,139,2018-05-01
+Virginia,147,2018-06-01
+Virginia,122,2018-07-01
+Virginia,84,2018-08-01
+Virginia,74,2018-09-01
+Virginia,70,2018-10-01
+Virginia,75,2018-11-01
+Virginia,80,2018-12-01
+Washington,104,2018-01-01
+Washington,107,2018-02-01
+Washington,113,2018-03-01
+Washington,125,2018-04-01
+Washington,125,2018-05-01
+Washington,100,2018-06-01
+Washington,147,2018-07-01
+Washington,426,2018-08-01
+Washington,168,2018-09-01
+Washington,102,2018-10-01
+Washington,128,2018-11-01
+Washington,87,2018-12-01
+West Virginia,200,2018-01-01
+West Virginia,163,2018-02-01
+West Virginia,154,2018-03-01
+West Virginia,189,2018-04-01
+West Virginia,105,2018-05-01
+West Virginia,124,2018-06-01
+West Virginia,103,2018-07-01
+West Virginia,70,2018-08-01
+West Virginia,61,2018-09-01
+West Virginia,74,2018-10-01
+West Virginia,106,2018-11-01
+West Virginia,137,2018-12-01
+Wisconsin,123,2018-01-01
+Wisconsin,102,2018-02-01
+Wisconsin,64,2018-03-01
+Wisconsin,110,2018-04-01
+Wisconsin,169,2018-05-01
+Wisconsin,147,2018-06-01
+Wisconsin,169,2018-07-01
+Wisconsin,185,2018-08-01
+Wisconsin,97,2018-09-01
+Wisconsin,68,2018-10-01
+Wisconsin,81,2018-11-01
+Wisconsin,101,2018-12-01
+Wyoming,132,2018-01-01
+Wyoming,108,2018-02-01
+Wyoming,113,2018-03-01
+Wyoming,163,2018-04-01
+Wyoming,167,2018-05-01
+Wyoming,115,2018-06-01
+Wyoming,102,2018-07-01
+Wyoming,169,2018-08-01
+Wyoming,120,2018-09-01
+Wyoming,68,2018-10-01
+Wyoming,119,2018-11-01
+Wyoming,120,2018-12-01
+Alabama,96,2019-01-01
+Alabama,71,2019-02-01
+Alabama,90,2019-03-01
+Alabama,93,2019-04-01
+Alabama,112,2019-05-01
+Alabama,150,2019-06-01
+Alabama,101,2019-07-01
+Alabama,111,2019-08-01
+Alabama,119,2019-09-01
+Alabama,140,2019-10-01
+Alabama,79,2019-11-01
+Alabama,116,2019-12-01
+Alaska,171,2019-01-01
+Alaska,124,2019-02-01
+Alaska,83,2019-03-01
+Alaska,107,2019-04-01
+Alaska,116,2019-05-01
+Alaska,172,2019-06-01
+Alaska,377,2019-07-01
+Alaska,160,2019-08-01
+Alaska,64,2019-09-01
+Alaska,97,2019-10-01
+Alaska,114,2019-11-01
+Alaska,159,2019-12-01
+Arizona,187,2019-01-01
+Arizona,158,2019-02-01
+Arizona,123,2019-03-01
+Arizona,208,2019-04-01
+Arizona,127,2019-05-01
+Arizona,886,2019-06-01
+Arizona,147,2019-07-01
+Arizona,244,2019-08-01
+Arizona,151,2019-09-01
+Arizona,130,2019-10-01
+Arizona,143,2019-11-01
+Arizona,133,2019-12-01
+Arkansas,68,2019-01-01
+Arkansas,69,2019-02-01
+Arkansas,89,2019-03-01
+Arkansas,119,2019-04-01
+Arkansas,87,2019-05-01
+Arkansas,98,2019-06-01
+Arkansas,67,2019-07-01
+Arkansas,77,2019-08-01
+Arkansas,101,2019-09-01
+Arkansas,90,2019-10-01
+Arkansas,75,2019-11-01
+Arkansas,72,2019-12-01
+California,194,2019-01-01
+California,3323,2019-02-01
+California,515,2019-03-01
+California,1611,2019-04-01
+California,3852,2019-05-01
+California,200,2019-06-01
+California,213,2019-07-01
+California,201,2019-08-01
+California,2206,2019-09-01
+California,638,2019-10-01
+California,356,2019-11-01
+California,176,2019-12-01
+Colorado,87,2019-01-01
+Colorado,100,2019-02-01
+Colorado,153,2019-03-01
+Colorado,137,2019-04-01
+Colorado,101,2019-05-01
+Colorado,115,2019-06-01
+Colorado,133,2019-07-01
+Colorado,154,2019-08-01
+Colorado,112,2019-09-01
+Colorado,84,2019-10-01
+Colorado,91,2019-11-01
+Colorado,104,2019-12-01
+Connecticut,82,2019-01-01
+Connecticut,106,2019-02-01
+Connecticut,84,2019-03-01
+Connecticut,67,2019-04-01
+Connecticut,74,2019-05-01
+Connecticut,147,2019-06-01
+Connecticut,161,2019-07-01
+Connecticut,147,2019-08-01
+Connecticut,126,2019-09-01
+Connecticut,52,2019-10-01
+Connecticut,76,2019-11-01
+Connecticut,96,2019-12-01
+Country Of Mexico,127,2019-01-01
+Country Of Mexico,117,2019-02-01
+Country Of Mexico,93,2019-03-01
+Country Of Mexico,87,2019-04-01
+Country Of Mexico,112,2019-05-01
+Country Of Mexico,115,2019-06-01
+Country Of Mexico,126,2019-07-01
+Country Of Mexico,84,2019-08-01
+Country Of Mexico,71,2019-09-01
+Country Of Mexico,144,2019-10-01
+Country Of Mexico,83,2019-11-01
+Country Of Mexico,107,2019-12-01
+Delaware,73,2019-01-01
+Delaware,93,2019-02-01
+Delaware,70,2019-03-01
+Delaware,67,2019-04-01
+Delaware,87,2019-05-01
+Delaware,105,2019-06-01
+Delaware,136,2019-07-01
+Delaware,100,2019-08-01
+Delaware,90,2019-09-01
+Delaware,74,2019-10-01
+Delaware,70,2019-11-01
+Delaware,99,2019-12-01
+District Of Columbia,69,2019-01-01
+District Of Columbia,79,2019-02-01
+District Of Columbia,67,2019-03-01
+District Of Columbia,67,2019-04-01
+District Of Columbia,87,2019-05-01
+District Of Columbia,108,2019-06-01
+District Of Columbia,157,2019-07-01
+District Of Columbia,119,2019-08-01
+District Of Columbia,97,2019-09-01
+District Of Columbia,59,2019-10-01
+District Of Columbia,65,2019-11-01
+District Of Columbia,91,2019-12-01
+Florida,146,2019-01-01
+Florida,61,2019-02-01
+Florida,105,2019-03-01
+Florida,126,2019-04-01
+Florida,105,2019-05-01
+Florida,101,2019-06-01
+Florida,114,2019-07-01
+Florida,87,2019-08-01
+Florida,97,2019-09-01
+Florida,132,2019-10-01
+Florida,76,2019-11-01
+Florida,88,2019-12-01
+Georgia,82,2019-01-01
+Georgia,89,2019-02-01
+Georgia,152,2019-03-01
+Georgia,126,2019-04-01
+Georgia,100,2019-05-01
+Georgia,136,2019-06-01
+Georgia,115,2019-07-01
+Georgia,150,2019-08-01
+Georgia,172,2019-09-01
+Georgia,147,2019-10-01
+Georgia,100,2019-11-01
+Georgia,116,2019-12-01
+Hawaii,90,2019-01-01
+Hawaii,71,2019-02-01
+Hawaii,74,2019-03-01
+Hawaii,44,2019-04-01
+Hawaii,62,2019-05-01
+Hawaii,35,2019-06-01
+Hawaii,166,2019-07-01
+Hawaii,113,2019-08-01
+Hawaii,75,2019-09-01
+Hawaii,74,2019-10-01
+Hawaii,77,2019-11-01
+Hawaii,79,2019-12-01
+Idaho,109,2019-01-01
+Idaho,133,2019-02-01
+Idaho,152,2019-03-01
+Idaho,67,2019-04-01
+Idaho,64,2019-05-01
+Idaho,108,2019-06-01
+Idaho,100,2019-07-01
+Idaho,95,2019-08-01
+Idaho,73,2019-09-01
+Idaho,154,2019-10-01
+Idaho,124,2019-11-01
+Idaho,165,2019-12-01
+Illinois,74,2019-01-01
+Illinois,99,2019-02-01
+Illinois,82,2019-03-01
+Illinois,97,2019-04-01
+Illinois,100,2019-05-01
+Illinois,143,2019-06-01
+Illinois,151,2019-07-01
+Illinois,174,2019-08-01
+Illinois,119,2019-09-01
+Illinois,69,2019-10-01
+Illinois,84,2019-11-01
+Illinois,90,2019-12-01
+Indiana,84,2019-01-01
+Indiana,90,2019-02-01
+Indiana,97,2019-03-01
+Indiana,95,2019-04-01
+Indiana,87,2019-05-01
+Indiana,115,2019-06-01
+Indiana,126,2019-07-01
+Indiana,122,2019-08-01
+Indiana,119,2019-09-01
+Indiana,106,2019-10-01
+Indiana,89,2019-11-01
+Indiana,102,2019-12-01
+Iowa,79,2019-01-01
+Iowa,87,2019-02-01
+Iowa,85,2019-03-01
+Iowa,74,2019-04-01
+Iowa,97,2019-05-01
+Iowa,100,2019-06-01
+Iowa,102,2019-07-01
+Iowa,112,2019-08-01
+Iowa,66,2019-09-01
+Iowa,96,2019-10-01
+Iowa,85,2019-11-01
+Iowa,84,2019-12-01
+Kansas,137,2019-01-01
+Kansas,84,2019-02-01
+Kansas,74,2019-03-01
+Kansas,158,2019-04-01
+Kansas,64,2019-05-01
+Kansas,97,2019-06-01
+Kansas,97,2019-07-01
+Kansas,80,2019-08-01
+Kansas,89,2019-09-01
+Kansas,58,2019-10-01
+Kansas,74,2019-11-01
+Kansas,87,2019-12-01
+Kentucky,120,2019-01-01
+Kentucky,106,2019-02-01
+Kentucky,77,2019-03-01
+Kentucky,89,2019-04-01
+Kentucky,101,2019-05-01
+Kentucky,103,2019-06-01
+Kentucky,122,2019-07-01
+Kentucky,136,2019-08-01
+Kentucky,111,2019-09-01
+Kentucky,116,2019-10-01
+Kentucky,87,2019-11-01
+Kentucky,97,2019-12-01
+Louisiana,71,2019-01-01
+Louisiana,87,2019-02-01
+Louisiana,97,2019-03-01
+Louisiana,97,2019-04-01
+Louisiana,112,2019-05-01
+Louisiana,115,2019-06-01
+Louisiana,91,2019-07-01
+Louisiana,87,2019-08-01
+Louisiana,126,2019-09-01
+Louisiana,119,2019-10-01
+Louisiana,103,2019-11-01
+Louisiana,112,2019-12-01
+Maine,69,2019-01-01
+Maine,81,2019-02-01
+Maine,63,2019-03-01
+Maine,54,2019-04-01
+Maine,174,2019-05-01
+Maine,54,2019-06-01
+Maine,115,2019-07-01
+Maine,115,2019-08-01
+Maine,84,2019-09-01
+Maine,54,2019-10-01
+Maine,64,2019-11-01
+Maine,75,2019-12-01
+Maryland,132,2019-01-01
+Maryland,98,2019-02-01
+Maryland,132,2019-03-01
+Maryland,152,2019-04-01
+Maryland,120,2019-05-01
+Maryland,150,2019-06-01
+Maryland,150,2019-07-01
+Maryland,122,2019-08-01
+Maryland,126,2019-09-01
+Maryland,64,2019-10-01
+Maryland,68,2019-11-01
+Maryland,123,2019-12-01
+Massachusetts,62,2019-01-01
+Massachusetts,87,2019-02-01
+Massachusetts,69,2019-03-01
+Massachusetts,65,2019-04-01
+Massachusetts,64,2019-05-01
+Massachusetts,93,2019-06-01
+Massachusetts,126,2019-07-01
+Massachusetts,101,2019-08-01
+Massachusetts,90,2019-09-01
+Massachusetts,54,2019-10-01
+Massachusetts,69,2019-11-01
+Massachusetts,92,2019-12-01
+Michigan,108,2019-01-01
+Michigan,99,2019-02-01
+Michigan,78,2019-03-01
+Michigan,138,2019-04-01
+Michigan,100,2019-05-01
+Michigan,125,2019-06-01
+Michigan,142,2019-07-01
+Michigan,105,2019-08-01
+Michigan,87,2019-09-01
+Michigan,73,2019-10-01
+Michigan,97,2019-11-01
+Michigan,102,2019-12-01
+Minnesota,76,2019-01-01
+Minnesota,93,2019-02-01
+Minnesota,85,2019-03-01
+Minnesota,75,2019-04-01
+Minnesota,105,2019-05-01
+Minnesota,122,2019-06-01
+Minnesota,181,2019-07-01
+Minnesota,70,2019-08-01
+Minnesota,66,2019-09-01
+Minnesota,200,2019-10-01
+Minnesota,65,2019-11-01
+Minnesota,99,2019-12-01
+Mississippi,67,2019-01-01
+Mississippi,65,2019-02-01
+Mississippi,100,2019-03-01
+Mississippi,71,2019-04-01
+Mississippi,74,2019-05-01
+Mississippi,77,2019-06-01
+Mississippi,80,2019-07-01
+Mississippi,105,2019-08-01
+Mississippi,136,2019-09-01
+Mississippi,80,2019-10-01
+Mississippi,85,2019-11-01
+Mississippi,96,2019-12-01
+Missouri,200,2019-01-01
+Missouri,192,2019-02-01
+Missouri,200,2019-03-01
+Missouri,200,2019-04-01
+Missouri,200,2019-05-01
+Missouri,200,2019-06-01
+Missouri,199,2019-07-01
+Missouri,159,2019-08-01
+Missouri,174,2019-09-01
+Missouri,182,2019-10-01
+Missouri,200,2019-11-01
+Missouri,171,2019-12-01
+Montana,91,2019-01-01
+Montana,129,2019-02-01
+Montana,95,2019-03-01
+Montana,66,2019-04-01
+Montana,144,2019-05-01
+Montana,71,2019-06-01
+Montana,157,2019-07-01
+Montana,145,2019-08-01
+Montana,82,2019-09-01
+Montana,96,2019-10-01
+Montana,152,2019-11-01
+Montana,132,2019-12-01
+Nebraska,75,2019-01-01
+Nebraska,79,2019-02-01
+Nebraska,86,2019-03-01
+Nebraska,70,2019-04-01
+Nebraska,80,2019-05-01
+Nebraska,80,2019-06-01
+Nebraska,77,2019-07-01
+Nebraska,71,2019-08-01
+Nebraska,59,2019-09-01
+Nebraska,48,2019-10-01
+Nebraska,56,2019-11-01
+Nebraska,73,2019-12-01
+Nevada,87,2019-01-01
+Nevada,62,2019-02-01
+Nevada,80,2019-03-01
+Nevada,91,2019-04-01
+Nevada,90,2019-05-01
+Nevada,105,2019-06-01
+Nevada,105,2019-07-01
+Nevada,122,2019-08-01
+Nevada,90,2019-09-01
+Nevada,146,2019-10-01
+Nevada,89,2019-11-01
+Nevada,102,2019-12-01
+New Hampshire,60,2019-01-01
+New Hampshire,75,2019-02-01
+New Hampshire,58,2019-03-01
+New Hampshire,51,2019-04-01
+New Hampshire,49,2019-05-01
+New Hampshire,80,2019-06-01
+New Hampshire,112,2019-07-01
+New Hampshire,61,2019-08-01
+New Hampshire,74,2019-09-01
+New Hampshire,64,2019-10-01
+New Hampshire,56,2019-11-01
+New Hampshire,79,2019-12-01
+New Jersey,94,2019-01-01
+New Jersey,103,2019-02-01
+New Jersey,100,2019-03-01
+New Jersey,71,2019-04-01
+New Jersey,81,2019-05-01
+New Jersey,150,2019-06-01
+New Jersey,150,2019-07-01
+New Jersey,93,2019-08-01
+New Jersey,100,2019-09-01
+New Jersey,82,2019-10-01
+New Jersey,92,2019-11-01
+New Jersey,95,2019-12-01
+New Mexico,105,2019-01-01
+New Mexico,143,2019-02-01
+New Mexico,630,2019-03-01
+New Mexico,617,2019-04-01
+New Mexico,211,2019-05-01
+New Mexico,174,2019-06-01
+New Mexico,154,2019-07-01
+New Mexico,164,2019-08-01
+New Mexico,108,2019-09-01
+New Mexico,93,2019-10-01
+New Mexico,98,2019-11-01
+New Mexico,86,2019-12-01
+New York,104,2019-01-01
+New York,99,2019-02-01
+New York,103,2019-03-01
+New York,104,2019-04-01
+New York,100,2019-05-01
+New York,136,2019-06-01
+New York,150,2019-07-01
+New York,97,2019-08-01
+New York,103,2019-09-01
+New York,105,2019-10-01
+New York,104,2019-11-01
+New York,95,2019-12-01
+North Carolina,101,2019-01-01
+North Carolina,108,2019-02-01
+North Carolina,97,2019-03-01
+North Carolina,96,2019-04-01
+North Carolina,87,2019-05-01
+North Carolina,108,2019-06-01
+North Carolina,122,2019-07-01
+North Carolina,112,2019-08-01
+North Carolina,136,2019-09-01
+North Carolina,119,2019-10-01
+North Carolina,68,2019-11-01
+North Carolina,91,2019-12-01
+North Dakota,89,2019-01-01
+North Dakota,82,2019-02-01
+North Dakota,86,2019-03-01
+North Dakota,86,2019-04-01
+North Dakota,89,2019-05-01
+North Dakota,90,2019-06-01
+North Dakota,156,2019-07-01
+North Dakota,80,2019-08-01
+North Dakota,61,2019-09-01
+North Dakota,128,2019-10-01
+North Dakota,53,2019-11-01
+North Dakota,59,2019-12-01
+Ohio,83,2019-01-01
+Ohio,123,2019-02-01
+Ohio,107,2019-03-01
+Ohio,81,2019-04-01
+Ohio,100,2019-05-01
+Ohio,143,2019-06-01
+Ohio,140,2019-07-01
+Ohio,105,2019-08-01
+Ohio,117,2019-09-01
+Ohio,147,2019-10-01
+Ohio,130,2019-11-01
+Ohio,92,2019-12-01
+Oklahoma,98,2019-01-01
+Oklahoma,99,2019-02-01
+Oklahoma,110,2019-03-01
+Oklahoma,169,2019-04-01
+Oklahoma,97,2019-05-01
+Oklahoma,100,2019-06-01
+Oklahoma,105,2019-07-01
+Oklahoma,119,2019-08-01
+Oklahoma,100,2019-09-01
+Oklahoma,89,2019-10-01
+Oklahoma,69,2019-11-01
+Oklahoma,104,2019-12-01
+Oregon,124,2019-01-01
+Oregon,131,2019-02-01
+Oregon,85,2019-03-01
+Oregon,71,2019-04-01
+Oregon,137,2019-05-01
+Oregon,90,2019-06-01
+Oregon,180,2019-07-01
+Oregon,101,2019-08-01
+Oregon,103,2019-09-01
+Oregon,109,2019-10-01
+Oregon,126,2019-11-01
+Oregon,153,2019-12-01
+Pennsylvania,131,2019-01-01
+Pennsylvania,161,2019-02-01
+Pennsylvania,111,2019-03-01
+Pennsylvania,158,2019-04-01
+Pennsylvania,93,2019-05-01
+Pennsylvania,165,2019-06-01
+Pennsylvania,140,2019-07-01
+Pennsylvania,105,2019-08-01
+Pennsylvania,93,2019-09-01
+Pennsylvania,100,2019-10-01
+Pennsylvania,95,2019-11-01
+Pennsylvania,152,2019-12-01
+Puerto Rico,136,2019-01-01
+Puerto Rico,96,2019-02-01
+Puerto Rico,82,2019-03-01
+Puerto Rico,132,2019-04-01
+Puerto Rico,98,2019-05-01
+Puerto Rico,109,2019-06-01
+Puerto Rico,85,2019-07-01
+Puerto Rico,110,2019-08-01
+Puerto Rico,159,2019-09-01
+Puerto Rico,114,2019-10-01
+Puerto Rico,104,2019-11-01
+Puerto Rico,76,2019-12-01
+Rhode Island,59,2019-01-01
+Rhode Island,84,2019-02-01
+Rhode Island,68,2019-03-01
+Rhode Island,61,2019-04-01
+Rhode Island,84,2019-05-01
+Rhode Island,108,2019-06-01
+Rhode Island,126,2019-07-01
+Rhode Island,87,2019-08-01
+Rhode Island,77,2019-09-01
+Rhode Island,52,2019-10-01
+Rhode Island,63,2019-11-01
+Rhode Island,77,2019-12-01
+South Carolina,66,2019-01-01
+South Carolina,65,2019-02-01
+South Carolina,97,2019-03-01
+South Carolina,105,2019-04-01
+South Carolina,105,2019-05-01
+South Carolina,140,2019-06-01
+South Carolina,136,2019-07-01
+South Carolina,100,2019-08-01
+South Carolina,108,2019-09-01
+South Carolina,90,2019-10-01
+South Carolina,68,2019-11-01
+South Carolina,70,2019-12-01
+South Dakota,108,2019-01-01
+South Dakota,117,2019-02-01
+South Dakota,101,2019-03-01
+South Dakota,84,2019-04-01
+South Dakota,126,2019-05-01
+South Dakota,116,2019-06-01
+South Dakota,71,2019-07-01
+South Dakota,69,2019-08-01
+South Dakota,77,2019-09-01
+South Dakota,67,2019-10-01
+South Dakota,65,2019-11-01
+South Dakota,64,2019-12-01
+Tennessee,114,2019-01-01
+Tennessee,121,2019-02-01
+Tennessee,113,2019-03-01
+Tennessee,112,2019-04-01
+Tennessee,116,2019-05-01
+Tennessee,87,2019-06-01
+Tennessee,93,2019-07-01
+Tennessee,105,2019-08-01
+Tennessee,119,2019-09-01
+Tennessee,112,2019-10-01
+Tennessee,114,2019-11-01
+Tennessee,148,2019-12-01
+Texas,169,2019-01-01
+Texas,148,2019-02-01
+Texas,180,2019-03-01
+Texas,140,2019-04-01
+Texas,162,2019-05-01
+Texas,193,2019-06-01
+Texas,143,2019-07-01
+Texas,202,2019-08-01
+Texas,178,2019-09-01
+Texas,140,2019-10-01
+Texas,96,2019-11-01
+Texas,126,2019-12-01
+Utah,137,2019-01-01
+Utah,200,2019-02-01
+Utah,205,2019-03-01
+Utah,97,2019-04-01
+Utah,93,2019-05-01
+Utah,108,2019-06-01
+Utah,129,2019-07-01
+Utah,122,2019-08-01
+Utah,93,2019-09-01
+Utah,76,2019-10-01
+Utah,89,2019-11-01
+Utah,147,2019-12-01
+Vermont,77,2019-01-01
+Vermont,80,2019-02-01
+Vermont,67,2019-03-01
+Vermont,51,2019-04-01
+Vermont,50,2019-05-01
+Vermont,54,2019-06-01
+Vermont,71,2019-07-01
+Vermont,46,2019-08-01
+Vermont,54,2019-09-01
+Vermont,43,2019-10-01
+Vermont,69,2019-11-01
+Vermont,94,2019-12-01
+Virgin Islands,31,2019-01-01
+Virgin Islands,52,2019-02-01
+Virgin Islands,53,2019-03-01
+Virgin Islands,31,2019-04-01
+Virgin Islands,44,2019-05-01
+Virgin Islands,91,2019-06-01
+Virgin Islands,71,2019-07-01
+Virgin Islands,70,2019-08-01
+Virgin Islands,73,2019-09-01
+Virgin Islands,38,2019-10-01
+Virgin Islands,38,2019-11-01
+Virgin Islands,28,2019-12-01
+Virginia,82,2019-01-01
+Virginia,121,2019-02-01
+Virginia,89,2019-03-01
+Virginia,134,2019-04-01
+Virginia,84,2019-05-01
+Virginia,112,2019-06-01
+Virginia,93,2019-07-01
+Virginia,112,2019-08-01
+Virginia,100,2019-09-01
+Virginia,99,2019-10-01
+Virginia,105,2019-11-01
+Virginia,102,2019-12-01
+Washington,142,2019-01-01
+Washington,106,2019-02-01
+Washington,122,2019-03-01
+Washington,103,2019-04-01
+Washington,90,2019-05-01
+Washington,87,2019-06-01
+Washington,114,2019-07-01
+Washington,146,2019-08-01
+Washington,105,2019-09-01
+Washington,103,2019-10-01
+Washington,127,2019-11-01
+Washington,125,2019-12-01
+West Virginia,145,2019-01-01
+West Virginia,112,2019-02-01
+West Virginia,161,2019-03-01
+West Virginia,121,2019-04-01
+West Virginia,109,2019-05-01
+West Virginia,87,2019-06-01
+West Virginia,90,2019-07-01
+West Virginia,93,2019-08-01
+West Virginia,84,2019-09-01
+West Virginia,105,2019-10-01
+West Virginia,102,2019-11-01
+West Virginia,127,2019-12-01
+Wisconsin,74,2019-01-01
+Wisconsin,119,2019-02-01
+Wisconsin,104,2019-03-01
+Wisconsin,86,2019-04-01
+Wisconsin,90,2019-05-01
+Wisconsin,108,2019-06-01
+Wisconsin,122,2019-07-01
+Wisconsin,93,2019-08-01
+Wisconsin,105,2019-09-01
+Wisconsin,60,2019-10-01
+Wisconsin,91,2019-11-01
+Wisconsin,93,2019-12-01
+Wyoming,108,2019-01-01
+Wyoming,87,2019-02-01
+Wyoming,200,2019-03-01
+Wyoming,122,2019-04-01
+Wyoming,90,2019-05-01
+Wyoming,97,2019-06-01
+Wyoming,93,2019-07-01
+Wyoming,85,2019-08-01
+Wyoming,111,2019-09-01
+Wyoming,139,2019-10-01
+Wyoming,148,2019-11-01
+Wyoming,93,2019-12-01
+Alabama,64,2020-01-01
+Alabama,45,2020-02-01
+Alaska,87,2020-01-01
+Alaska,44,2020-02-01
+Arizona,199,2020-01-01
+Arizona,110,2020-02-01
+Arizona,110,2020-03-01
+Arizona,3,2020-04-01
+Arkansas,66,2020-01-01
+Arkansas,61,2020-02-01
+Arkansas,72,2020-03-01
+Arkansas,5,2020-04-01
+California,207,2020-01-01
+California,114,2020-02-01
+California,88,2020-03-01
+California,74,2020-04-01
+Colorado,93,2020-01-01
+Colorado,85,2020-02-01
+Colorado,58,2020-03-01
+Colorado,52,2020-04-01
+Connecticut,39,2020-01-01
+Connecticut,46,2020-02-01
+Country Of Mexico,39,2020-01-01
+Country Of Mexico,45,2020-02-01
+Country Of Mexico,51,2020-03-01
+Delaware,76,2020-01-01
+Delaware,68,2020-02-01
+Delaware,2,2020-03-01
+District Of Columbia,63,2020-01-01
+District Of Columbia,62,2020-02-01
+District Of Columbia,49,2020-03-01
+Florida,125,2020-01-01
+Florida,131,2020-02-01
+Florida,66,2020-03-01
+Florida,6,2020-04-01
+Georgia,77,2020-01-01
+Georgia,62,2020-02-01
+Georgia,86,2020-03-01
+Hawaii,54,2020-01-01
+Hawaii,30,2020-02-01
+Idaho,74,2020-01-01
+Idaho,56,2020-02-01
+Idaho,52,2020-03-01
+Illinois,77,2020-01-01
+Illinois,73,2020-02-01
+Illinois,94,2020-03-01
+Indiana,71,2020-01-01
+Indiana,68,2020-02-01
+Indiana,59,2020-03-01
+Iowa,100,2020-01-01
+Iowa,70,2020-02-01
+Iowa,67,2020-03-01
+Iowa,74,2020-04-01
+Iowa,5,2020-05-01
+Kentucky,70,2020-01-01
+Kentucky,44,2020-02-01
+Kentucky,2,2020-03-01
+Louisiana,120,2020-01-01
+Louisiana,75,2020-02-01
+Louisiana,80,2020-03-01
+Louisiana,2,2020-04-01
+Maine,75,2020-01-01
+Maine,68,2020-02-01
+Maine,61,2020-03-01
+Maine,64,2020-04-01
+Maine,1,2020-05-01
+Maryland,82,2020-01-01
+Maryland,71,2020-02-01
+Maryland,50,2020-03-01
+Maryland,2,2020-04-01
+Massachusetts,99,2020-01-01
+Massachusetts,72,2020-02-01
+Massachusetts,2,2020-03-01
+Michigan,39,2020-01-01
+Michigan,41,2020-02-01
+Michigan,14,2020-03-01
+Minnesota,34,2020-01-01
+Minnesota,46,2020-02-01
+Mississippi,85,2020-01-01
+Mississippi,61,2020-02-01
+Mississippi,71,2020-03-01
+Mississippi,1,2020-04-01
+Montana,105,2020-01-01
+Montana,89,2020-02-01
+Montana,2,2020-03-01
+Nebraska,62,2020-01-01
+Nebraska,60,2020-02-01
+Nebraska,64,2020-03-01
+Nebraska,85,2020-04-01
+Nevada,157,2020-01-01
+Nevada,87,2020-02-01
+Nevada,51,2020-03-01
+Nevada,5,2020-04-01
+New Hampshire,38,2020-01-01
+New Hampshire,45,2020-02-01
+New Jersey,38,2020-02-01
+New Mexico,73,2020-01-01
+New Mexico,86,2020-02-01
+New Mexico,218,2020-03-01
+New York,110,2020-01-01
+New York,101,2020-02-01
+New York,105,2020-03-01
+New York,3,2020-04-01
+North Carolina,63,2020-01-01
+North Carolina,72,2020-02-01
+North Carolina,100,2020-03-01
+North Carolina,58,2020-04-01
+North Carolina,67,2020-05-01
+North Dakota,75,2020-01-01
+North Dakota,58,2020-02-01
+North Dakota,66,2020-03-01
+North Dakota,2,2020-04-01
+Ohio,82,2020-01-01
+Ohio,68,2020-02-01
+Ohio,80,2020-03-01
+Ohio,5,2020-04-01
+Oklahoma,60,2020-01-01
+Oklahoma,65,2020-02-01
+Oklahoma,103,2020-03-01
+Oklahoma,7,2020-04-01
+Oregon,50,2020-01-01
+Oregon,92,2020-02-01
+Oregon,53,2020-03-01
+Oregon,26,2020-04-01
+Pennsylvania,91,2020-01-01
+Pennsylvania,102,2020-02-01
+Pennsylvania,90,2020-03-01
+Pennsylvania,6,2020-04-01
+Pennsylvania,2,2020-05-01
+Rhode Island,76,2020-01-01
+Rhode Island,47,2020-02-01
+Rhode Island,19,2020-03-01
+South Carolina,53,2020-01-01
+South Carolina,63,2020-02-01
+South Carolina,71,2020-03-01
+South Carolina,0,2020-04-01
+Tennessee,64,2020-01-01
+Tennessee,58,2020-02-01
+Tennessee,55,2020-03-01
+Texas,106,2020-01-01
+Texas,128,2020-02-01
+Texas,71,2020-03-01
+Utah,125,2020-01-01
+Utah,80,2020-02-01
+Utah,138,2020-03-01
+Utah,64,2020-04-01
+Utah,5,2020-05-01
+Virginia,63,2020-01-01
+Virginia,58,2020-02-01
+Virginia,56,2020-03-01
+Washington,114,2020-01-01
+Washington,3,2020-02-01
+West Virginia,52,2020-01-01
+West Virginia,43,2020-02-01
+West Virginia,49,2020-03-01
+West Virginia,2,2020-04-01
+Wisconsin,35,2020-01-01
+Wisconsin,44,2020-02-01
+Wyoming,69,2020-01-01
+Wyoming,61,2020-02-01
+Wyoming,58,2020-03-01
