@@ -33,19 +33,28 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 // // Use this link to get the geojson data.
 // var link = "static/data/nyc.geojson";
 
-// // Grabbing our GeoJSON data..
-// d3.json(link, function(data) {
-//   // Creating a GeoJSON layer with the retrieved data
-//   L.geoJson(data).addTo(myMap);
-// });
 
-// var link2 = "static/data/daily_aqi_by_county_2020.csv"
-// d3.csv(link2, function (d) {
-//   //console.log(d)
-// })
 
 // d3.json('/data', function(data){
 
 // })
 
 
+// Load in geojson data
+
+var geojson;
+
+// The endpoint that we created to give us our data
+url = '/data'
+
+// // Grabbing our GeoJSON data..
+d3.json(url, function(data) {
+  // Creating a GeoJSON layer with the retrieved data
+  L.geoJson(data).addTo(myMap);
+  console.log(data)
+});
+
+// var link2 = "static/data/daily_aqi_by_county_2020.csv"
+// d3.csv(link2, function (d) {
+//   //console.log(d)
+// })
