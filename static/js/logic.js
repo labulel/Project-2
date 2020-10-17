@@ -30,15 +30,6 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   accessToken: API_KEY
 }).addTo(myMap);
 
-// // Use this link to get the geojson data.
-// var link = "static/data/nyc.geojson";
-
-
-
-// d3.json('/data', function(data){
-
-// })
-
 
 // Load in geojson data
 
@@ -52,9 +43,47 @@ d3.json(url, function(data) {
   // Creating a GeoJSON layer with the retrieved data
   L.geoJson(data).addTo(myMap);
   console.log(data)
+
+// Create a new choropleth layer
+geojson = L.choropleth(data, {
+
+  // Define what  property in the features to use, we can update this line to show a different year.
+  valueProperty: "aqi-2015-01-01",
+
+  // Set color scale
+  scale: ["#ffffb2", "#b10026"],
+
+  // Number of breaks in step range
+  steps: 10,
+
+  // q for quartile, e for equidistant, k for k-means
+  mode: "q",
+  style: {
+    // Border color
+    color: "#fff",
+    weight: 1,
+    fillOpacity: 0.8
+  },
+  // Binding a pop-up to each layer
+  onEachFeature: function(feature, layer) {
+    layer.bindPopup("State: " + feature.properties.state + "<br>Speakers:<br>" +
+      "AQI" + feature.properties.aqi-2015-01-01);
+  }
+}).addTo(myMap);
+
 });
 
-// var link2 = "static/data/daily_aqi_by_county_2020.csv"
-// d3.csv(link2, function (d) {
-//   //console.log(d)
-// })
+
+//Create a marker layer
+//var testlayer = L.geoJson(json);
+var sliderControl = L.control.sliderControl({position: "topright", layer: geojson});
+
+//Add the slider to the map
+map.Control(sliderControl);
+
+//And initialize the slider
+sliderControl.startSlider();
+
+$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
+
+sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
