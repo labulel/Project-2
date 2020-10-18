@@ -50,10 +50,9 @@ geojson = L.choropleth(data, {
   // Define what  property in the features to use, we can update this line to show a different year.
   valueProperty: "aqi-2015-01-01",
 
-  // Set color scale
+  // // Set color scale
   scale: ["#ffffb2", "#b10026"],
-
-  // Number of breaks in step range
+  // // Number of breaks in step range
   steps: 10,
 
   // q for quartile, e for equidistant, k for k-means
@@ -66,7 +65,7 @@ geojson = L.choropleth(data, {
   },
   // Binding a pop-up to each layer
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("State: " + feature.properties.state + "<br>Speakers:<br>" +
+    layer.bindPopup("State: " + feature.properties.NAME + "<br>Speakers:<br>" +
       "AQI" + feature.properties.aqi-2015-01-01);
   }
 }).addTo(myMap);
@@ -84,6 +83,6 @@ myMap.addControl(sliderControl);
 //And initialize the slider
 sliderControl.startSlider();
 
-// $('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
+$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
 
-// sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
+sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
