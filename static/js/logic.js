@@ -76,14 +76,14 @@ geojson = L.choropleth(data, {
 
 //Create a marker layer
 //var testlayer = L.geoJson(json);
-var sliderControl = L.control.sliderControl({position: "topright", layer: geojson});
+var sliderControl = L.control.sliderControl({position: "topright", layer: geojson, range: true});
 
 //Add the slider to the map
-map.Control(sliderControl);
+myMap.addControl(sliderControl);
 
 //And initialize the slider
 sliderControl.startSlider();
 
-$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
+// $('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
 
-sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
+// sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
