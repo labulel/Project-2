@@ -115,6 +115,7 @@ L.Control.SliderControl = L.Control.extend({
                 var map = _options.map;
                 var fg = L.featureGroup();
                 if(!!_options.markers[ui.value]) {
+                    console.log(_options.markers[ui.value].options.valueProperty)
                     // If there is no time property, this line has to be removed (or exchanged with a different property)
                     if(_options.markers[ui.value].feature !== undefined) {
                         if(_options.markers[ui.value].feature.properties[_options.timeAttribute]){
@@ -129,7 +130,8 @@ L.Control.SliderControl = L.Control.extend({
                             if(_options.markers[ui.value]) $('#slider-timestamp').html(
                                 _extractTimestamp(_options.markers[ui.value].options[_options.timeAttribute], _options));
                         }else {
-                            console.error("Time property "+ _options.timeAttribute +" not found in data");
+                            document.getElementById('time').innerHTML = _options.markers[ui.value].options.valueProperty;
+                            //console.error("Time property "+ _options.timeAttribute +" not found in data");
                         }
                     }
 

@@ -59,6 +59,10 @@
       cursor: ew-resize;
       }
 
+    #time { 
+      z-index: 10000;
+    }
+
 
   </style>
 
@@ -81,6 +85,8 @@
       <!-- <input id="sliderday" type="range"/> -->
       <!-- </div> -->
 
+      <h1 id='time'></h1>
+
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"
     integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
@@ -91,20 +97,22 @@
     <script src="https://d3js.org/d3.v4.min.js"></script>
 
 
-    <!-- Leaflet choropleth plugin-->
-    <script type="text/javascript" src="static/js/choropleth.js"></script>
-     
-    <!-- timeslider plugin-->
-    <script type="text/javascript" src="static/js/SliderControl.js"></script>
-    
-    <!-- JS  -->
-    <script type="text/javascript" src="static/js/logic.js"></script>
+
 
     <!-- add JQuery-->
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
 
     <!-- add JQueryUI - JS -->
     <script type="text/javascript" src="https://code.jquery.com/ui/1.9.2/jquery-ui.js"></script>
+
+        <!-- Leaflet choropleth plugin-->
+        <script type="text/javascript" src="static/js/choropleth.js"></script>
+     
+        <!-- timeslider plugin-->
+        <script type="text/javascript" src="static/js/SliderControl.js"></script>
+        
+        <!-- JS  -->
+        <script type="text/javascript" src="static/js/logic.js"></script>
       
    
 
