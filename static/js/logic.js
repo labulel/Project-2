@@ -38,17 +38,68 @@ var geojson;
 // The endpoint that we created to give us our data
 url = '/data'
 
+
 // // Grabbing our GeoJSON data..
 d3.json(url, function(data) {
   // Creating a GeoJSON layer with the retrieved data
-  L.geoJson(data).addTo(myMap);
-  console.log(data)
+ 
+  var dates = []
+  Object.entries(data.features[0].properties).forEach(([key]) => {
+    if (key.startsWith("aqi")){
+      dates.push(key)
+    }
+
+  } )
+console.log("start with: " + dates[0]);
+console.log("ends with: " + dates[dates.length-1])
+
+  
+//   dates.forEach((date) => {var newdata = [];
+//     data.features.forEach((item) => {
+//       Object.entries(item.properties).forEach((key) => {
+  
+//         // console.log(key)
+//         // console.log(date)
+//         if (key[0] == date){
+//         fulldata = {"NAME":item.properties.NAME,"STATE":item.properties.STATE, date: item.properties.date}
+//         newdata.push({"properties":fulldata, "type":item.type, "geometry":item.geometry})
+//       }
+        
+        
+//       })
+//   })
+//   console.log(newdata)
+//   testlayer = L.geoJson({"features":newdata})
+//   sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
+// })
+
+
+function update(year){
+  slider.property("value", year);
+  d3.select(".year").text(year);
+  countyShapes.style("fill", function(d) {
+    return color(d.properties.years[year][0].rate)
+  });
+}
+
+
+var slider = d3.select(".slider")
+.append("input")
+  .attr("type", "range")
+  .attr("min", dates[0])
+  .attr("max", dates[dates.length-1])
+  .attr("step", 1)
+  .on("input", function() {
+    var year = this.value;
+    update(year);
+  });
+
 
 // Create a new choropleth layer
 geojson = L.choropleth(data, {
 
   // Define what  property in the features to use, we can update this line to show a different year.
-  valueProperty: "aqi-2015-01-01",
+  valueProperty: this.value,
 
   // // Set color scale
   scale: ["#ffffb2", "#b10026"],
@@ -70,19 +121,20 @@ geojson = L.choropleth(data, {
   }
 }).addTo(myMap);
 
-});
+
 
 
 //Create a marker layer
 //var testlayer = L.geoJson(json);
-var sliderControl = L.control.sliderControl({position: "topright", layer: geojson, range: true});
+
 
 //Add the slider to the map
-myMap.addControl(sliderControl);
+// myMap.addControl(sliderControl);
 
 //And initialize the slider
-sliderControl.startSlider();
+// sliderControl.startSlider();
 
-$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
+// $('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19));
 
-sliderControl = L.control.sliderControl({position: "topright", layer: testlayer, range: true});
+
+});
