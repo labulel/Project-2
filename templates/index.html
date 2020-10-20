@@ -59,15 +59,14 @@
       cursor: ew-resize;
       }
 
-    #time { 
-      z-index: 10000;
-    }
-
 
   </style>
-
+<h1 id='time'></h1>
     <!-- map div -->
-    <div id="map"></div>
+    <div id=map_container>
+      <div id="map"></div>
+    </div>
+    
     <div class="slider"></div>
      <!-- <div class = "map-overlay top">
       <div class = "map-overlay-inner">
@@ -85,7 +84,7 @@
       <!-- <input id="sliderday" type="range"/> -->
       <!-- </div> -->
 
-      <h1 id='time'></h1>
+      
 
     <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.3.3/dist/leaflet.js"

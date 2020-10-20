@@ -130,6 +130,7 @@ L.Control.SliderControl = L.Control.extend({
                             if(_options.markers[ui.value]) $('#slider-timestamp').html(
                                 _extractTimestamp(_options.markers[ui.value].options[_options.timeAttribute], _options));
                         }else {
+                            //marker.title = _options.markers[ui.value].options.valueProperty;
                             document.getElementById('time').innerHTML = _options.markers[ui.value].options.valueProperty;
                             //console.error("Time property "+ _options.timeAttribute +" not found in data");
                         }

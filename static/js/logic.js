@@ -2,7 +2,7 @@ var sliderControl = null;
 
 // Creating map object
 var myMap = L.map("map", {
-    center: [56.1304, -106.3468],
+    center: [39.83, -98.58],
     zoom: 5
   });
   
@@ -15,6 +15,11 @@ var myMap = L.map("map", {
     id: "mapbox/streets-v11",
     accessToken: API_KEY
   }).addTo(myMap);
+
+
+//   var marker = new L.marker([39.83, -98.58], {opacity: 0.01})
+//   marker.bindTooltip("2015", {permanent: true})
+//   marker.addTo(myMap)
   
   // Load in geojson data -> we don't need with when we're using a db
   //var geoData = "static/data/provinces_language.json";
@@ -27,7 +32,6 @@ var myMap = L.map("map", {
   // Grab data with d3
   d3.json(url, function(data) {
   
-    console.log('Hello')
     console.log(data)
   
     // Create a new choropleth layer
@@ -61,8 +65,8 @@ var myMap = L.map("map", {
   
       // Binding a pop-up to each layer
       onEachFeature: function(feature, layer) {
-        layer.bindPopup("Province: " + feature.properties.name + "<br>Speakers:<br>" +
-          "$" + feature.properties.english-2016);
+        layer.bindPopup("State: " + feature.properties.NAME + "<br>Speakers:<br>" +
+          "AQI: " + feature.properties.english-2016);
       }
     })
 
@@ -70,33 +74,53 @@ var myMap = L.map("map", {
 
     var layers = L.layerGroup(chloro_layers);
   
-/*     // Set up the legend
-    var legend = L.control({ position: "bottomright" });
-    legend.onAdd = function() {
-      var div = L.DomUtil.create("div", "info legend");
-      var limits = geojson.options.limits;
-      var colors = geojson.options.colors;
-      var labels = [];
+// // Set up the legend
+//     var legend = L.control({ position: "topleft" });
+//     legend.onAdd = function() {
+//       var div = L.DomUtil.create("div", "info legend");
+//       var limits = [0, 300];
+//       var colors = ["#32a838","#b10026"];
+//       var labels = [];
   
-      // Add min & max
-      var legendInfo = "<h1>English Speakers</h1>" +
-        "<div class=\"labels\">" +
-          "<div class=\"min\">" + limits[0] + "</div>" +
-          "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +
-        "</div>";
+//       // Add min & max
+//       var legendInfo = "<h1>Air Quality</h1>" +
+//         "<div class=\"labels\">" +
+//           "<div class=\"min\">" + limits[0] + "</div>" +
+//           "<div class=\"max\">" + limits[limits.length - 1] + "</div>" +
+//         "</div>";
   
-      div.innerHTML = legendInfo;
+//       div.innerHTML = legendInfo;
   
-      limits.forEach(function(limit, index) {
-        labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
-      });
+//       limits.forEach(function(limit, index) {
+//         labels.push("<li style=\"background-color: " + colors[index] + "\"></li>");
+//       });
   
-      div.innerHTML += "<ul>" + labels.join("") + "</ul>";
-      return div;
-    }; */
+//       div.innerHTML += "<ul>" + labels.join("") + "</ul>";
+//       return div;
+//     };
   
-    // Adding legend to the map
-    //legend.addTo(myMap);
+//     // Adding legend to the map
+//     legend.addTo(myMap);
+
+
+
+/*Legend specific*/
+var legend = L.control({ position: "topleft" });
+
+legend.onAdd = function(myMap) {
+  var div = L.DomUtil.create("div", "legend");
+  div.innerHTML += "<h4>Air Quality Index</h4>";
+  div.innerHTML += '<i style="background: #32a838"></i><span>Good</span><br>';
+  div.innerHTML += '<i style="background: #95db39"></i><span>Moderate</span><br>';
+  div.innerHTML += '<i style="background: #cedb39"></i><span>Unhealthy for sensitive</span><br>';
+  div.innerHTML += '<i style="background: #de7e35"></i><span>Very unhealthy</span><br>';
+  div.innerHTML += '<i style="background: #b10026"></i><span>Hazardous</span><br>';
+
+  return div;
+};
+
+legend.addTo(myMap);
+
 
     var sliderControl= L.control.sliderControl({layer: layers, follow:1})
     myMap.addControl(sliderControl);
@@ -106,15 +130,3 @@ var myMap = L.map("map", {
   
   });
   
-
-  //Create a marker layer
-//var testlayer = L.geoJson(json);
-//var sliderControl= L.control.sliderControl({layer=geojson})
-
-//Add the slider to the map
-//myMap.addControl(sliderControl);
-
-//And initialize the slider
-//sliderControl.startSlider();
-
-//$('#slider-timestamp').html(options.markers[ui.value].feature.properties.time.substr(0, 19))
